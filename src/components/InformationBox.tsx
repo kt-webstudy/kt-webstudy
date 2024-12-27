@@ -129,7 +129,7 @@ export const InformationBox = () => {
 
 const legendContainerStyle: React.CSSProperties = {
   backgroundColor: "#fff",
-  fontFamily: "Nanum Gothic",
+  fontFamily: "'Nanum Gothic', sans-serif",
   padding: "10px",
   zIndex: 10,
 };
@@ -138,7 +138,7 @@ const legendItemStyle = {
   display: "flex",
   alignItems: "center",
   marginBottom: "5px",
-  fontFamily: "Nanum Gothic",
+  fontFamily: "'Nanum Gothic', sans-serif",
   fontSize: "12px",
 };
 
@@ -155,18 +155,18 @@ const gaugeContainerStyle = {
   height: "10px",
   border: "1px solid #333",
   borderRadius: "2px",
-  fontFamily: "Nanum Gothic",
+  fontFamily: "'Nanum Gothic', sans-serif",
   overflow: "hidden",
 };
 
 const gaugeSegmentStyle = {
   flex: 1,
-  fontFamily: "Nanum Gothic",
+  fontFamily: "'Nanum Gothic', sans-serif",
   height: "100%",
 };
 
 const labelStyle = {
-  fontFamily: "Nanum Gothic",
+  fontFamily: "'Nanum Gothic', sans-serif",
   fontSize: "12px",
   color: "#333",
 };
