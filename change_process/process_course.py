@@ -28,7 +28,7 @@ def calculate_x_position(학년, 학기):
     if 학기 is None  or 학기 == 0:
         학기 = 1.5
     if 학년 is None or 학년 == 0:
-        학년 = 1 
+        학년 = 4
     return 학년 * 440 + ((학기) - 1) * 220
 
 def create_year_and_semester_nodes():
@@ -99,6 +99,7 @@ def parse_courses(courses):
                     "x": int(x),
                     "y": index * (node_height + node_spacing),
                 },
+                "학년": course["학년"],
                 "data": {
                     "label": course["교과목명"],
                     "학수번호": course["학수번호"],
@@ -121,14 +122,15 @@ def parse_courses(courses):
                 },
             }
 
-            if (course["학기"] == 0 or course["학기"] is None):
+            if (course["학기"] == 0 or course["학기"] is None) and (course["학년"] != 0 or course["학년"] is not None):
                 zero_semester_nodes.append(node)
             else:
                 nodes.append(node)
 
     for index, zero_node in enumerate(zero_semester_nodes):
         
-        학년 = int(zero_node["data"].get("학년", 1))  # 학년 정보가 없으면 1로 기본 설정
+        # 학년 = (zero_node["학년"]) ? zero_node["학년"] : 1 # 학년 정보가 없으면 1로 기본 설정
+        학년 = zero_node["학년"] if (zero_node["학년"]) else 1 # 학년 정보가 없으면 1로 기본 설정
 
         first_semester_x = calculate_x_position(학년, 1)
         second_semester_x = calculate_x_position(학년, 2)

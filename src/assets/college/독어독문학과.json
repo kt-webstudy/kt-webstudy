@@ -190,6 +190,7 @@
                 "x": 440,
                 "y": 0
             },
+            "학년": 1,
             "data": {
                 "label": "독어학개론",
                 "학수번호": "GERM203",
@@ -217,6 +218,7 @@
                 "x": 440,
                 "y": 100
             },
+            "학년": 1,
             "data": {
                 "label": "독문학개론",
                 "학수번호": "GERM205",
@@ -239,92 +241,12 @@
             }
         },
         {
-            "id": "GERM227",
+            "id": "GERM171",
             "position": {
                 "x": 440,
                 "y": 200
             },
-            "data": {
-                "label": "독일문화의이해",
-                "학수번호": "GERM227",
-                "세부전공": null,
-                "전공역량": "다문화포용,갈등통합",
-                "개설학과": "독어독문학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 강의는 간단한 독일어 텍스트 읽기와 토론을 통해 독일문화에 대한 기본적인 이해를 돕고자 한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GERM237",
-            "position": {
-                "x": 440,
-                "y": 300
-            },
-            "data": {
-                "label": "독어어휘연습I",
-                "학수번호": "GERM237",
-                "세부전공": null,
-                "전공역량": "전문가적,통합적사고",
-                "개설학과": "독어독문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "독일어 학습에서 한국인 학생에게 가장 걸림돌이 되는 문제는 주로 어휘부족에서 오는 문제이다. 본 강의는 우선 독일어 회화와 독해를 위해 가장 기본이 되는 핵심어휘들을 익히고 그것을 바탕으로 하여 가능한 한 많은 파생어휘를 습득하게 함으로써 심화된 독일어 전공학 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GERM370",
-            "position": {
-                "x": 440,
-                "y": 400
-            },
-            "data": {
-                "label": "B1회화연습",
-                "학수번호": "GERM370",
-                "세부전공": null,
-                "전공역량": "공감력,의사소통",
-                "개설학과": "독어독문학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 수업에서는 ZD B1 회화시험을 대비하기 위해 다양한 주제에 관한 의견 제시, 발표 등 말하기 연습을 중점적으로 다룬다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GERM171",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
+            "학년": 1,
             "data": {
                 "label": "독일어I",
                 "학수번호": "GERM171",
@@ -350,8 +272,9 @@
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 600
+                "y": 300
             },
+            "학년": 1,
             "data": {
                 "label": "글쓰기",
                 "학수번호": "GEWR002",
@@ -377,8 +300,9 @@
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 700
+                "y": 400
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS007",
@@ -404,8 +328,9 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 800
+                "y": 500
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
                 "학수번호": "GECT002",
@@ -431,8 +356,9 @@
             "id": "GERM161",
             "position": {
                 "x": 440,
-                "y": 900
+                "y": 600
             },
+            "학년": 1,
             "data": {
                 "label": "교양독일어I",
                 "학수번호": "GERM161",
@@ -458,8 +384,9 @@
             "id": "GERM173",
             "position": {
                 "x": 440,
-                "y": 1000
+                "y": 700
             },
+            "학년": 1,
             "data": {
                 "label": "독일어III",
                 "학수번호": "GERM173",
@@ -482,281 +409,12 @@
             }
         },
         {
-            "id": "GERM210",
+            "id": "GERM172",
             "position": {
                 "x": 660,
                 "y": 0
             },
-            "data": {
-                "label": "독일명작의고향",
-                "학수번호": "GERM210",
-                "세부전공": null,
-                "전공역량": "공감력,의사소통",
-                "개설학과": "독어독문학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "독일의 유명한 작품의 작품세계를 살펴봄으로써 좀 더 심오한 문학적 지식을 획득한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GERM222",
-            "position": {
-                "x": 660,
-                "y": 100
-            },
-            "data": {
-                "label": "광고로읽는독일문화",
-                "학수번호": "GERM222",
-                "세부전공": null,
-                "전공역량": "윤리의식,사회공헌",
-                "개설학과": "독어독문학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "광고는 시대와 문화, 그리고 공동체의 세계관과 가치관을 반영하는 거울이다. 독일의 다양한 공익광고, 상품광고를 통해 기존의 문화이론을 비판적으로 학습하고 독일문화의 토대를 이루는 독일인의 집단적 가치지향 또는 선호가치를 탐구한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GERM226",
-            "position": {
-                "x": 660,
-                "y": 200
-            },
-            "data": {
-                "label": "독일의대중문화",
-                "학수번호": "GERM226",
-                "세부전공": null,
-                "전공역량": "윤리의식,사회공헌",
-                "개설학과": "독어독문학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "독일의 대중문화를 연구, 분석해봄으로써 독일사회에 대한 전반적인 지식을 심화시킨다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GERM228",
-            "position": {
-                "x": 660,
-                "y": 300
-            },
-            "data": {
-                "label": "독어학과문화이해",
-                "학수번호": "GERM228",
-                "세부전공": null,
-                "전공역량": "공감력,의사소통",
-                "개설학과": "독어독문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "독어학의 기초지식을 이용하여 다양한 문화현상을 이해하고 언어와 문화 사이의 상관성에 대해 고찰한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GERM232",
-            "position": {
-                "x": 660,
-                "y": 400
-            },
-            "data": {
-                "label": "독일문학사",
-                "학수번호": "GERM232",
-                "세부전공": null,
-                "전공역량": "다문화포용,갈등통합",
-                "개설학과": "독어독문학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "독일문학의 역사적인 변천과정 및 그 관련성을 고찰하고 중세로부터 현대독문학에 이르기까지 주요작가, 작품 및 독일사조에 대한 기초적인 이해를 시도한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GERM234",
-            "position": {
-                "x": 660,
-                "y": 500
-            },
-            "data": {
-                "label": "독한번역연습",
-                "학수번호": "GERM234",
-                "세부전공": null,
-                "전공역량": "창의적사고,문제해결",
-                "개설학과": "독어독문학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "_x000D_\n 독일어텍스트를 한국어로 번역하는 연습을 반복함으로써 텍스트 이해능력과 번역능력의 향상을 도모한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GERM238",
-            "position": {
-                "x": 660,
-                "y": 600
-            },
-            "data": {
-                "label": "독어어휘연습II",
-                "학수번호": "GERM238",
-                "세부전공": null,
-                "전공역량": "전문가적,통합적사고",
-                "개설학과": "독어독문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "독일어 학습에서 한국인 학생에게 가장 걸림돌이 되는 문제는 주로 어휘부족에서 오는 문제이다. 본 강의는 우선 독일어 회화와 독해를 위해 가장 기본이 되는 핵심어휘들을 익히고 그것을 바탕으로 하여 가능한 한 많은 파생어휘를 습득하게 함으로써 심화된 독일어 전공학 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GERM256",
-            "position": {
-                "x": 660,
-                "y": 700
-            },
-            "data": {
-                "label": "영상으로읽는독일문화",
-                "학수번호": "GERM256",
-                "세부전공": null,
-                "전공역량": "전문가적,통합적사고",
-                "개설학과": "독어독문학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 강의는 다양한 영상매체를 활용해서 독일문화에 대한 이해를 돕는 것을 목표로 한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GERM258",
-            "position": {
-                "x": 660,
-                "y": 800
-            },
-            "data": {
-                "label": "독일어권지역탐방",
-                "학수번호": "GERM258",
-                "세부전공": null,
-                "전공역량": "다문화포용,갈등통합",
-                "개설학과": "독어독문학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "독일, 오스트리아, 스위스, 룩셈부르크, 리히텐슈타인, 프랑스 알자스-로렌, 벨기에 독일어 공동체, 북 슐레스비히 같은 독일어 사용지역이 유럽 역사 속에서 차지했던 의미, 각 지역의 문화유산, 현재의 위상 및 상황, 배출인물을 조사하면서 독일어권 문화와 역사 전반을  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GERM346",
-            "position": {
-                "x": 660,
-                "y": 900
-            },
-            "data": {
-                "label": "독일의기업문화",
-                "학수번호": "GERM346",
-                "세부전공": null,
-                "전공역량": "다문화포용,갈등통합",
-                "개설학과": "독어독문학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 강의는 독일의 기업문화에 대한 전반적인 이해를 돕는 것을 목표로 한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GERM172",
-            "position": {
-                "x": 660,
-                "y": 1000
-            },
+            "학년": 1,
             "data": {
                 "label": "독일어II",
                 "학수번호": "GERM172",
@@ -782,8 +440,9 @@
             "id": "GEKS008",
             "position": {
                 "x": 660,
-                "y": 1100
+                "y": 100
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]1학년세미나 II",
                 "학수번호": "GEKS008",
@@ -809,8 +468,9 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 1200
+                "y": 200
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
                 "학수번호": "GECT003",
@@ -836,8 +496,9 @@
             "id": "GERM162",
             "position": {
                 "x": 660,
-                "y": 1300
+                "y": 300
             },
+            "학년": 1,
             "data": {
                 "label": "교양독일어II",
                 "학수번호": "GERM162",
@@ -863,8 +524,9 @@
             "id": "GERM174",
             "position": {
                 "x": 660,
-                "y": 1400
+                "y": 400
             },
+            "학년": 1,
             "data": {
                 "label": "독일어IV",
                 "학수번호": "GERM174",
@@ -887,11 +549,376 @@
             }
         },
         {
-            "id": "GERM003",
+            "id": "GERM227",
             "position": {
                 "x": 880,
                 "y": 0
             },
+            "학년": 2,
+            "data": {
+                "label": "독일문화의이해",
+                "학수번호": "GERM227",
+                "세부전공": null,
+                "전공역량": "다문화포용,갈등통합",
+                "개설학과": "독어독문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 강의는 간단한 독일어 텍스트 읽기와 토론을 통해 독일문화에 대한 기본적인 이해를 돕고자 한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM237",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "학년": 2,
+            "data": {
+                "label": "독어어휘연습I",
+                "학수번호": "GERM237",
+                "세부전공": null,
+                "전공역량": "전문가적,통합적사고",
+                "개설학과": "독어독문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "독일어 학습에서 한국인 학생에게 가장 걸림돌이 되는 문제는 주로 어휘부족에서 오는 문제이다. 본 강의는 우선 독일어 회화와 독해를 위해 가장 기본이 되는 핵심어휘들을 익히고 그것을 바탕으로 하여 가능한 한 많은 파생어휘를 습득하게 함으로써 심화된 독일어 전공학 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM370",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "학년": 2,
+            "data": {
+                "label": "B1회화연습",
+                "학수번호": "GERM370",
+                "세부전공": null,
+                "전공역량": "공감력,의사소통",
+                "개설학과": "독어독문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 수업에서는 ZD B1 회화시험을 대비하기 위해 다양한 주제에 관한 의견 제시, 발표 등 말하기 연습을 중점적으로 다룬다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM210",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "학년": 2,
+            "data": {
+                "label": "독일명작의고향",
+                "학수번호": "GERM210",
+                "세부전공": null,
+                "전공역량": "공감력,의사소통",
+                "개설학과": "독어독문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "독일의 유명한 작품의 작품세계를 살펴봄으로써 좀 더 심오한 문학적 지식을 획득한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM222",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "학년": 2,
+            "data": {
+                "label": "광고로읽는독일문화",
+                "학수번호": "GERM222",
+                "세부전공": null,
+                "전공역량": "윤리의식,사회공헌",
+                "개설학과": "독어독문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "광고는 시대와 문화, 그리고 공동체의 세계관과 가치관을 반영하는 거울이다. 독일의 다양한 공익광고, 상품광고를 통해 기존의 문화이론을 비판적으로 학습하고 독일문화의 토대를 이루는 독일인의 집단적 가치지향 또는 선호가치를 탐구한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM226",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "학년": 2,
+            "data": {
+                "label": "독일의대중문화",
+                "학수번호": "GERM226",
+                "세부전공": null,
+                "전공역량": "윤리의식,사회공헌",
+                "개설학과": "독어독문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "독일의 대중문화를 연구, 분석해봄으로써 독일사회에 대한 전반적인 지식을 심화시킨다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM228",
+            "position": {
+                "x": 1100,
+                "y": 300
+            },
+            "학년": 2,
+            "data": {
+                "label": "독어학과문화이해",
+                "학수번호": "GERM228",
+                "세부전공": null,
+                "전공역량": "공감력,의사소통",
+                "개설학과": "독어독문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "독어학의 기초지식을 이용하여 다양한 문화현상을 이해하고 언어와 문화 사이의 상관성에 대해 고찰한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM232",
+            "position": {
+                "x": 1100,
+                "y": 400
+            },
+            "학년": 2,
+            "data": {
+                "label": "독일문학사",
+                "학수번호": "GERM232",
+                "세부전공": null,
+                "전공역량": "다문화포용,갈등통합",
+                "개설학과": "독어독문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "독일문학의 역사적인 변천과정 및 그 관련성을 고찰하고 중세로부터 현대독문학에 이르기까지 주요작가, 작품 및 독일사조에 대한 기초적인 이해를 시도한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM234",
+            "position": {
+                "x": 1100,
+                "y": 500
+            },
+            "학년": 2,
+            "data": {
+                "label": "독한번역연습",
+                "학수번호": "GERM234",
+                "세부전공": null,
+                "전공역량": "창의적사고,문제해결",
+                "개설학과": "독어독문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "_x000D_\n 독일어텍스트를 한국어로 번역하는 연습을 반복함으로써 텍스트 이해능력과 번역능력의 향상을 도모한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM238",
+            "position": {
+                "x": 1100,
+                "y": 600
+            },
+            "학년": 2,
+            "data": {
+                "label": "독어어휘연습II",
+                "학수번호": "GERM238",
+                "세부전공": null,
+                "전공역량": "전문가적,통합적사고",
+                "개설학과": "독어독문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "독일어 학습에서 한국인 학생에게 가장 걸림돌이 되는 문제는 주로 어휘부족에서 오는 문제이다. 본 강의는 우선 독일어 회화와 독해를 위해 가장 기본이 되는 핵심어휘들을 익히고 그것을 바탕으로 하여 가능한 한 많은 파생어휘를 습득하게 함으로써 심화된 독일어 전공학 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM256",
+            "position": {
+                "x": 1100,
+                "y": 700
+            },
+            "학년": 2,
+            "data": {
+                "label": "영상으로읽는독일문화",
+                "학수번호": "GERM256",
+                "세부전공": null,
+                "전공역량": "전문가적,통합적사고",
+                "개설학과": "독어독문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 강의는 다양한 영상매체를 활용해서 독일문화에 대한 이해를 돕는 것을 목표로 한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM258",
+            "position": {
+                "x": 1100,
+                "y": 800
+            },
+            "학년": 2,
+            "data": {
+                "label": "독일어권지역탐방",
+                "학수번호": "GERM258",
+                "세부전공": null,
+                "전공역량": "다문화포용,갈등통합",
+                "개설학과": "독어독문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "독일, 오스트리아, 스위스, 룩셈부르크, 리히텐슈타인, 프랑스 알자스-로렌, 벨기에 독일어 공동체, 북 슐레스비히 같은 독일어 사용지역이 유럽 역사 속에서 차지했던 의미, 각 지역의 문화유산, 현재의 위상 및 상황, 배출인물을 조사하면서 독일어권 문화와 역사 전반을  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM346",
+            "position": {
+                "x": 1100,
+                "y": 900
+            },
+            "학년": 2,
+            "data": {
+                "label": "독일의기업문화",
+                "학수번호": "GERM346",
+                "세부전공": null,
+                "전공역량": "다문화포용,갈등통합",
+                "개설학과": "독어독문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 강의는 독일의 기업문화에 대한 전반적인 이해를 돕는 것을 목표로 한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM003",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "학년": 3,
             "data": {
                 "label": "무제강좌",
                 "학수번호": "GERM003",
@@ -916,9 +943,10 @@
         {
             "id": "GERM303",
             "position": {
-                "x": 880,
+                "x": 1320,
                 "y": 100
             },
+            "학년": 3,
             "data": {
                 "label": "독시선독",
                 "학수번호": "GERM303",
@@ -943,9 +971,10 @@
         {
             "id": "GERM305",
             "position": {
-                "x": 880,
+                "x": 1320,
                 "y": 200
             },
+            "학년": 3,
             "data": {
                 "label": "독희곡의이해",
                 "학수번호": "GERM305",
@@ -970,9 +999,10 @@
         {
             "id": "GERM323",
             "position": {
-                "x": 880,
+                "x": 1320,
                 "y": 300
             },
+            "학년": 3,
             "data": {
                 "label": "독일어권문화와예술",
                 "학수번호": "GERM323",
@@ -997,9 +1027,10 @@
         {
             "id": "GERM325",
             "position": {
-                "x": 880,
+                "x": 1320,
                 "y": 400
             },
+            "학년": 3,
             "data": {
                 "label": "독일문학과미디어",
                 "학수번호": "GERM325",
@@ -1024,9 +1055,10 @@
         {
             "id": "GERM335",
             "position": {
-                "x": 880,
+                "x": 1320,
                 "y": 500
             },
+            "학년": 3,
             "data": {
                 "label": "독일어권정치경제개관",
                 "학수번호": "GERM335",
@@ -1051,9 +1083,10 @@
         {
             "id": "GERM339",
             "position": {
-                "x": 880,
+                "x": 1320,
                 "y": 600
             },
+            "학년": 3,
             "data": {
                 "label": "독일문화산업",
                 "학수번호": "GERM339",
@@ -1078,9 +1111,10 @@
         {
             "id": "GERM349",
             "position": {
-                "x": 880,
+                "x": 1320,
                 "y": 700
             },
+            "학년": 3,
             "data": {
                 "label": "독해와문법I",
                 "학수번호": "GERM349",
@@ -1105,9 +1139,10 @@
         {
             "id": "GERM355",
             "position": {
-                "x": 880,
+                "x": 1320,
                 "y": 800
             },
+            "학년": 3,
             "data": {
                 "label": "독일어권역사와민속문화",
                 "학수번호": "GERM355",
@@ -1132,9 +1167,10 @@
         {
             "id": "GERM357",
             "position": {
-                "x": 880,
+                "x": 1320,
                 "y": 900
             },
+            "학년": 3,
             "data": {
                 "label": "독일어텍스트의이해",
                 "학수번호": "GERM357",
@@ -1159,9 +1195,10 @@
         {
             "id": "GERM361",
             "position": {
-                "x": 880,
+                "x": 1320,
                 "y": 1000
             },
+            "학년": 3,
             "data": {
                 "label": "독문학작품번역",
                 "학수번호": "GERM361",
@@ -1186,9 +1223,10 @@
         {
             "id": "GERM365",
             "position": {
-                "x": 880,
+                "x": 1320,
                 "y": 1100
             },
+            "학년": 3,
             "data": {
                 "label": "인터액티브독일어I",
                 "학수번호": "GERM365",
@@ -1213,9 +1251,10 @@
         {
             "id": "GERM371",
             "position": {
-                "x": 880,
+                "x": 1320,
                 "y": 1200
             },
+            "학년": 3,
             "data": {
                 "label": "독일지역학",
                 "학수번호": "GERM371",
@@ -1240,9 +1279,10 @@
         {
             "id": "GERM326",
             "position": {
-                "x": 1100,
+                "x": 1540,
                 "y": 0
             },
+            "학년": 3,
             "data": {
                 "label": "의사소통의독어학",
                 "학수번호": "GERM326",
@@ -1267,9 +1307,10 @@
         {
             "id": "GERM330",
             "position": {
-                "x": 1100,
+                "x": 1540,
                 "y": 100
             },
+            "학년": 3,
             "data": {
                 "label": "독일문화사",
                 "학수번호": "GERM330",
@@ -1294,9 +1335,10 @@
         {
             "id": "GERM332",
             "position": {
-                "x": 1100,
+                "x": 1540,
                 "y": 200
             },
+            "학년": 3,
             "data": {
                 "label": "독소설의이해",
                 "학수번호": "GERM332",
@@ -1321,9 +1363,10 @@
         {
             "id": "GERM338",
             "position": {
-                "x": 1100,
+                "x": 1540,
                 "y": 300
             },
+            "학년": 3,
             "data": {
                 "label": "독일어권사회와언어",
                 "학수번호": "GERM338",
@@ -1348,9 +1391,10 @@
         {
             "id": "GERM344",
             "position": {
-                "x": 1100,
+                "x": 1540,
                 "y": 400
             },
+            "학년": 3,
             "data": {
                 "label": "한독문화간커뮤니케이션",
                 "학수번호": "GERM344",
@@ -1375,9 +1419,10 @@
         {
             "id": "GERM350",
             "position": {
-                "x": 1100,
+                "x": 1540,
                 "y": 500
             },
+            "학년": 3,
             "data": {
                 "label": "독해와문법II",
                 "학수번호": "GERM350",
@@ -1402,9 +1447,10 @@
         {
             "id": "GERM366",
             "position": {
-                "x": 1100,
+                "x": 1540,
                 "y": 600
             },
+            "학년": 3,
             "data": {
                 "label": "인터액티브독일어II",
                 "학수번호": "GERM366",
@@ -1429,9 +1475,10 @@
         {
             "id": "GERM367",
             "position": {
-                "x": 1100,
+                "x": 1540,
                 "y": 700
             },
+            "학년": 3,
             "data": {
                 "label": "독일어작문",
                 "학수번호": "GERM367",
@@ -1456,9 +1503,10 @@
         {
             "id": "GERM351",
             "position": {
-                "x": 1320,
+                "x": 1760,
                 "y": 0
             },
+            "학년": 4,
             "data": {
                 "label": "독어 CEFR B I-I",
                 "학수번호": "GERM351",
@@ -1483,9 +1531,10 @@
         {
             "id": "GERM419",
             "position": {
-                "x": 1320,
+                "x": 1760,
                 "y": 100
             },
+            "학년": 4,
             "data": {
                 "label": "미디어독일어",
                 "학수번호": "GERM419",
@@ -1510,9 +1559,10 @@
         {
             "id": "GERM421",
             "position": {
-                "x": 1320,
+                "x": 1760,
                 "y": 200
             },
+            "학년": 4,
             "data": {
                 "label": "독일사상과문화의흐름",
                 "학수번호": "GERM421",
@@ -1537,9 +1587,10 @@
         {
             "id": "GERM425",
             "position": {
-                "x": 1320,
+                "x": 1760,
                 "y": 300
             },
+            "학년": 4,
             "data": {
                 "label": "독일동화와민담",
                 "학수번호": "GERM425",
@@ -1564,9 +1615,10 @@
         {
             "id": "GERM430",
             "position": {
-                "x": 1320,
+                "x": 1760,
                 "y": 400
             },
+            "학년": 4,
             "data": {
                 "label": "독일청소년문학",
                 "학수번호": "GERM430",
@@ -1591,9 +1643,10 @@
         {
             "id": "GERM431",
             "position": {
-                "x": 1320,
+                "x": 1760,
                 "y": 500
             },
+            "학년": 4,
             "data": {
                 "label": "시사번역",
                 "학수번호": "GERM431",
@@ -1618,9 +1671,10 @@
         {
             "id": "GERM435",
             "position": {
-                "x": 1320,
+                "x": 1760,
                 "y": 600
             },
+            "학년": 4,
             "data": {
                 "label": "비즈니스독일어연습",
                 "학수번호": "GERM435",
@@ -1645,9 +1699,10 @@
         {
             "id": "GERM439",
             "position": {
-                "x": 1320,
+                "x": 1760,
                 "y": 700
             },
+            "학년": 4,
             "data": {
                 "label": "언어행위와사회제도",
                 "학수번호": "GERM439",
@@ -1672,9 +1727,10 @@
         {
             "id": "GERM445",
             "position": {
-                "x": 1320,
+                "x": 1760,
                 "y": 800
             },
+            "학년": 4,
             "data": {
                 "label": "독일문화특수과제I",
                 "학수번호": "GERM445",
@@ -1699,9 +1755,10 @@
         {
             "id": "GERM453",
             "position": {
-                "x": 1320,
+                "x": 1760,
                 "y": 900
             },
+            "학년": 4,
             "data": {
                 "label": "한독문화비교",
                 "학수번호": "GERM453",
@@ -1726,9 +1783,10 @@
         {
             "id": "GERM461",
             "position": {
-                "x": 1320,
+                "x": 1760,
                 "y": 1000
             },
+            "학년": 4,
             "data": {
                 "label": "통일전후의독일문화",
                 "학수번호": "GERM461",
@@ -1753,9 +1811,10 @@
         {
             "id": "GERM352",
             "position": {
-                "x": 1540,
+                "x": 1980,
                 "y": 0
             },
+            "학년": 4,
             "data": {
                 "label": "독어 CEFR B I-II",
                 "학수번호": "GERM352",
@@ -1780,9 +1839,10 @@
         {
             "id": "GERM418",
             "position": {
-                "x": 1540,
+                "x": 1980,
                 "y": 100
             },
+            "학년": 4,
             "data": {
                 "label": "독일어교과교재연구및지도법",
                 "학수번호": "GERM418",
@@ -1807,9 +1867,10 @@
         {
             "id": "GERM426",
             "position": {
-                "x": 1540,
+                "x": 1980,
                 "y": 200
             },
+            "학년": 4,
             "data": {
                 "label": "주제로읽는독일문학",
                 "학수번호": "GERM426",
@@ -1834,9 +1895,10 @@
         {
             "id": "GERM442",
             "position": {
-                "x": 1540,
+                "x": 1980,
                 "y": 300
             },
+            "학년": 4,
             "data": {
                 "label": "독일어권법문화의이해",
                 "학수번호": "GERM442",
@@ -1861,9 +1923,10 @@
         {
             "id": "GERM444",
             "position": {
-                "x": 1540,
+                "x": 1980,
                 "y": 400
             },
+            "학년": 4,
             "data": {
                 "label": "독일어교과논리및논술",
                 "학수번호": "GERM444",
@@ -1888,9 +1951,10 @@
         {
             "id": "GERM446",
             "position": {
-                "x": 1540,
+                "x": 1980,
                 "y": 500
             },
+            "학년": 4,
             "data": {
                 "label": "독일문화특수과제II",
                 "학수번호": "GERM446",
@@ -1915,9 +1979,10 @@
         {
             "id": "GERM452",
             "position": {
-                "x": 1540,
+                "x": 1980,
                 "y": 600
             },
+            "학년": 4,
             "data": {
                 "label": "독일사회와다문화주의",
                 "학수번호": "GERM452",
@@ -1942,9 +2007,10 @@
         {
             "id": "GERM454",
             "position": {
-                "x": 1540,
+                "x": 1980,
                 "y": 700
             },
+            "학년": 4,
             "data": {
                 "label": "영상번역",
                 "학수번호": "GERM454",
@@ -1970,8 +2036,9 @@
             "id": "COLA173",
             "position": {
                 "x": 550.0,
-                "y": 1500
+                "y": 800
             },
+            "학년": 1,
             "data": {
                 "label": "디지털인문학응용",
                 "학수번호": "COLA173",
@@ -1997,8 +2064,9 @@
             "id": "COLA200",
             "position": {
                 "x": 550.0,
-                "y": 1600
+                "y": 900
             },
+            "학년": 1,
             "data": {
                 "label": "인문융합세미나",
                 "학수번호": "COLA200",
@@ -2024,8 +2092,9 @@
             "id": "GELI005",
             "position": {
                 "x": 550.0,
-                "y": 1700
+                "y": 1000
             },
+            "학년": 1,
             "data": {
                 "label": "학문세계의탐구 I",
                 "학수번호": "GELI005",
@@ -2051,8 +2120,9 @@
             "id": "IFLS800",
             "position": {
                 "x": 550.0,
-                "y": 1800
+                "y": 1100
             },
+            "학년": 1,
             "data": {
                 "label": "Academic English I",
                 "학수번호": "IFLS800",
@@ -2078,8 +2148,9 @@
             "id": "GEBT001",
             "position": {
                 "x": 550.0,
-                "y": 1900
+                "y": 1200
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]생명과학의세계",
                 "학수번호": "GEBT001",
@@ -2104,9 +2175,10 @@
         {
             "id": "GERM306",
             "position": {
-                "x": 550.0,
-                "y": 2000
+                "x": 1430.0,
+                "y": 1800
             },
+            "학년": 3,
             "data": {
                 "label": "독산문강독",
                 "학수번호": "GERM306",
@@ -2131,9 +2203,10 @@
         {
             "id": "GERM411",
             "position": {
-                "x": 550.0,
-                "y": 2100
+                "x": 1870.0,
+                "y": 1700
             },
+            "학년": 4,
             "data": {
                 "label": "독일현대연극",
                 "학수번호": "GERM411",
@@ -2158,9 +2231,10 @@
         {
             "id": "GERM417",
             "position": {
-                "x": 550.0,
-                "y": 2200
+                "x": 1870.0,
+                "y": 1800
             },
+            "학년": 4,
             "data": {
                 "label": "독일어교과교육론",
                 "학수번호": "GERM417",
