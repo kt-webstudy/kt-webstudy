@@ -185,6 +185,114 @@
             }
         },
         {
+            "id": "JAPN171",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "data": {
+                "label": "일본어I",
+                "학수번호": "JAPN171",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "일어일문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "입문수준의 일본어 능력을 지닌 학생을 대상으로 문자부터 시작해서 기본적인 초급단계의 문법능력을 배양하며 기초 회화능력, 청취능력 습득을 목표로 한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #ff3c3c",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "JAPN102",
             "position": {
                 "x": 660,
@@ -288,249 +396,6 @@
             "style": {
                 "backgroundColor": "#C8E6C9",
                 "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN200",
-            "position": {
-                "x": 1100,
-                "y": 0
-            },
-            "data": {
-                "label": "일본고전문학의이해",
-                "학수번호": "JAPN200",
-                "세부전공": null,
-                "전공역량": "문학적소양,융합적사고능력",
-                "개설학과": "일어일문학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일본의 대표적 고전문학작품의 독해를 통해 시대에 따른 일본 문화의 변모 양상을 이해하고 고전문학의 특징과 배경을 개관한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN212",
-            "position": {
-                "x": 1100,
-                "y": 100
-            },
-            "data": {
-                "label": "현대일본어문법",
-                "학수번호": "JAPN212",
-                "세부전공": null,
-                "전공역량": "언어적소양,공감･소통",
-                "개설학과": "일어일문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "현대 일본어를 대상으로 하여 다양한 문법현상을 다양한 실례와 이론을 통해 분석, 고찰한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN218",
-            "position": {
-                "x": 1100,
-                "y": 200
-            },
-            "data": {
-                "label": "일본어학의이해II",
-                "학수번호": "JAPN218",
-                "세부전공": null,
-                "전공역량": "언어적소양,공감･소통",
-                "개설학과": "일어일문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일본어학의이해Ⅰ을 이수한 학생을 대상으로 일본어의 문법·구문·문체·방언 등에 대한 제반 문제를 개관, 파악한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN250",
-            "position": {
-                "x": 1100,
-                "y": 300
-            },
-            "data": {
-                "label": "일본근현대문학사",
-                "학수번호": "JAPN250",
-                "세부전공": null,
-                "전공역량": "문학적소양,융합적사고능력",
-                "개설학과": "일어일문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일본근현대문학의 전개과정 및 대표적 작가, 작품을 개관하여 각 시대의 문학적 특징을 정리하고 나아가 일본 근현대문학의 특색과 흐름을 파악한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN254",
-            "position": {
-                "x": 1100,
-                "y": 400
-            },
-            "data": {
-                "label": "일본회화의문화학",
-                "학수번호": "JAPN254",
-                "세부전공": null,
-                "전공역량": "국제적소양,창의적문제해결",
-                "개설학과": "일어일문학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "회화자료에 투영된 당시 사회, 풍속, 예술 등 전반적인 문화의 양상을 연관시켜 살펴봄으로써 일본문화에 대한 기초적 지식을 제공한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN256",
-            "position": {
-                "x": 1100,
-                "y": 500
-            },
-            "data": {
-                "label": "현대일본의국제관계",
-                "학수번호": "JAPN256",
-                "세부전공": null,
-                "전공역량": "국제적소양,창의적문제해결",
-                "개설학과": "일어일문학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "전후에서 최근에 이르기까지 일본이 자국과 국제사회의 관계를 어떻게 설정해 왔으며, 또한 한반도(한국/북한), 중국, 미국, 러시아 등 관련국과 어떠한 관계를 형성해 왔는지를 살펴본다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN262",
-            "position": {
-                "x": 1100,
-                "y": 600
-            },
-            "data": {
-                "label": "일본어LCII",
-                "학수번호": "JAPN262",
-                "세부전공": null,
-                "전공역량": "언어적소양,공감･소통",
-                "개설학과": "일어일문학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "중급 수준의 일본어 청해능력 배양을 목적으로 한다. 단락 레벨의 문장을 듣고 이해할 수 있다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN268",
-            "position": {
-                "x": 1100,
-                "y": 700
-            },
-            "data": {
-                "label": "일본어회화II",
-                "학수번호": "JAPN268",
-                "세부전공": null,
-                "전공역량": "언어적소양,공감･소통",
-                "개설학과": "일어일문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일본어회화Ⅰ의 습득내용을 바탕으로 중급 수준의 일본어 구사를 목표로 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN272",
-            "position": {
-                "x": 1100,
-                "y": 800
-            },
-            "data": {
-                "label": "일본어RCII",
-                "학수번호": "JAPN272",
-                "세부전공": null,
-                "전공역량": "언어적소양,공감･소통",
-                "개설학과": "일어일문학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "다양한 일본어 문장의 강독을 통해 일본어 사용에 필요한 중급 수준의 독해능력 습득을 목적으로 한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -860,21 +725,21 @@
             }
         },
         {
-            "id": "JAPN304",
+            "id": "JAPN200",
             "position": {
-                "x": 1540,
+                "x": 1100,
                 "y": 0
             },
             "data": {
-                "label": "동아시아젠더론",
-                "학수번호": "JAPN304",
+                "label": "일본고전문학의이해",
+                "학수번호": "JAPN200",
                 "세부전공": null,
-                "전공역량": "국제적소양,창의적문제해결",
+                "전공역량": "문학적소양,융합적사고능력",
                 "개설학과": "일어일문학과",
-                "개설횟수": 1,
+                "개설횟수": 3,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "동아시아 각국에서 다루어지고 있는 젠더(性)의 문제에 대한 주요 담론을 사회적, 문화적, 역사적 등 다양한 관점에서 검토, 분석한다."
+                "syllabus_kr": "일본의 대표적 고전문학작품의 독해를 통해 시대에 따른 일본 문화의 변모 양상을 이해하고 고전문학의 특징과 배경을 개관한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -887,48 +752,21 @@
             }
         },
         {
-            "id": "JAPN306",
+            "id": "JAPN212",
             "position": {
-                "x": 1540,
+                "x": 1100,
                 "y": 100
             },
             "data": {
-                "label": "일본직업과사회상",
-                "학수번호": "JAPN306",
+                "label": "현대일본어문법",
+                "학수번호": "JAPN212",
                 "세부전공": null,
-                "전공역량": "국제적소양,창의적문제해결",
-                "개설학과": "일어일문학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "고대에서 근대까지 일본에 존재하던 다양한 직업이 당시 일본 사회나 제도, 산업과 어떻게 관계하고 있는지 검토하고 직업에 대한 사회통념에 대해 토론한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN308",
-            "position": {
-                "x": 1540,
-                "y": 200
-            },
-            "data": {
-                "label": "역사자료로보는동아시아공동체",
-                "학수번호": "JAPN308",
-                "세부전공": null,
-                "전공역량": "국제적소양,창의적문제해결",
+                "전공역량": "언어적소양,공감･소통",
                 "개설학과": "일어일문학과",
                 "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "‘전쟁과 재난’을 키워드로 실제 역사자료 속에 보이는 동아시아 공동체의 근거를 밝힌다. "
+                "syllabus_kr": "현대 일본어를 대상으로 하여 다양한 문법현상을 다양한 실례와 이론을 통해 분석, 고찰한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -941,21 +779,48 @@
             }
         },
         {
-            "id": "JAPN310",
+            "id": "JAPN218",
             "position": {
-                "x": 1540,
+                "x": 1100,
+                "y": 200
+            },
+            "data": {
+                "label": "일본어학의이해II",
+                "학수번호": "JAPN218",
+                "세부전공": null,
+                "전공역량": "언어적소양,공감･소통",
+                "개설학과": "일어일문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일본어학의이해Ⅰ을 이수한 학생을 대상으로 일본어의 문법·구문·문체·방언 등에 대한 제반 문제를 개관, 파악한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN250",
+            "position": {
+                "x": 1100,
                 "y": 300
             },
             "data": {
-                "label": "일본군사와안전보장",
-                "학수번호": "JAPN310",
+                "label": "일본근현대문학사",
+                "학수번호": "JAPN250",
                 "세부전공": null,
-                "전공역량": "국제적소양,창의적문제해결",
+                "전공역량": "문학적소양,융합적사고능력",
                 "개설학과": "일어일문학과",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "메이지유신 이후 현재까지의 일본의 군사(軍事)적 변화를 개괄적으로 살펴본 다음 최근 일본 안보정책의 주된 특징과 쟁점을 검토한다.  "
+                "syllabus_kr": "일본근현대문학의 전개과정 및 대표적 작가, 작품을 개관하여 각 시대의 문학적 특징을 정리하고 나아가 일본 근현대문학의 특색과 흐름을 파악한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -968,21 +833,102 @@
             }
         },
         {
-            "id": "JAPN316",
+            "id": "JAPN254",
             "position": {
-                "x": 1540,
+                "x": 1100,
                 "y": 400
             },
             "data": {
-                "label": "매스미디어일본어",
-                "학수번호": "JAPN316",
+                "label": "일본회화의문화학",
+                "학수번호": "JAPN254",
+                "세부전공": null,
+                "전공역량": "국제적소양,창의적문제해결",
+                "개설학과": "일어일문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "회화자료에 투영된 당시 사회, 풍속, 예술 등 전반적인 문화의 양상을 연관시켜 살펴봄으로써 일본문화에 대한 기초적 지식을 제공한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN256",
+            "position": {
+                "x": 1100,
+                "y": 500
+            },
+            "data": {
+                "label": "현대일본의국제관계",
+                "학수번호": "JAPN256",
+                "세부전공": null,
+                "전공역량": "국제적소양,창의적문제해결",
+                "개설학과": "일어일문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "전후에서 최근에 이르기까지 일본이 자국과 국제사회의 관계를 어떻게 설정해 왔으며, 또한 한반도(한국/북한), 중국, 미국, 러시아 등 관련국과 어떠한 관계를 형성해 왔는지를 살펴본다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN262",
+            "position": {
+                "x": 1100,
+                "y": 600
+            },
+            "data": {
+                "label": "일본어LCII",
+                "학수번호": "JAPN262",
+                "세부전공": null,
+                "전공역량": "언어적소양,공감･소통",
+                "개설학과": "일어일문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "중급 수준의 일본어 청해능력 배양을 목적으로 한다. 단락 레벨의 문장을 듣고 이해할 수 있다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN268",
+            "position": {
+                "x": 1100,
+                "y": 700
+            },
+            "data": {
+                "label": "일본어회화II",
+                "학수번호": "JAPN268",
                 "세부전공": null,
                 "전공역량": "언어적소양,공감･소통",
                 "개설학과": "일어일문학과",
                 "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "각종 매스미디어를 활용하여 일본어의 독해 능력과 청취 능력을 향상시킨다."
+                "syllabus_kr": "일본어회화Ⅰ의 습득내용을 바탕으로 중급 수준의 일본어 구사를 목표로 한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -995,102 +941,21 @@
             }
         },
         {
-            "id": "JAPN324",
+            "id": "JAPN272",
             "position": {
-                "x": 1540,
-                "y": 500
-            },
-            "data": {
-                "label": "일본문학과미디어",
-                "학수번호": "JAPN324",
-                "세부전공": null,
-                "전공역량": "문학적소양,융합적사고능력",
-                "개설학과": "일어일문학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일본문학을 신문, 잡지, 교과서, 법률 등 다양한 매체와 관련하여 고찰하고 일본문학과 타 분야의 관계를 이해한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN350",
-            "position": {
-                "x": 1540,
-                "y": 600
-            },
-            "data": {
-                "label": "일본어구문론",
-                "학수번호": "JAPN350",
-                "세부전공": null,
-                "전공역량": "언어적소양,공감･소통",
-                "개설학과": "일어일문학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일본어 구문의 이론과 체계를 개관하고 주요 문법이론에 입각한 통어 규칙의 해석 차이에 대하여 고찰한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN352",
-            "position": {
-                "x": 1540,
-                "y": 700
-            },
-            "data": {
-                "label": "일본근현대명작선독II",
-                "학수번호": "JAPN352",
-                "세부전공": null,
-                "전공역량": "문학적소양,융합적사고능력",
-                "개설학과": "일어일문학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본문학사 속에서 근현대의 대표적인 명작을 택하여 읽고 감상한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN361",
-            "position": {
-                "x": 1540,
+                "x": 1100,
                 "y": 800
             },
             "data": {
-                "label": "트랜스아시아한일이문화커뮤니케이션",
-                "학수번호": "JAPN361",
+                "label": "일본어RCII",
+                "학수번호": "JAPN272",
                 "세부전공": null,
                 "전공역량": "언어적소양,공감･소통",
                 "개설학과": "일어일문학과",
-                "개설횟수": 1,
+                "개설횟수": 2,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "언어와 함께 일본어학습자가 배워야 하는 문화적인 측면에 관한 이해와 문화의 차이를 이해하는 시각을 기르고 실제 상황에서 일어날 수 있는 오해를 줄이기 위한 외국어교육에 대해 고찰한다."
+                "syllabus_kr": "다양한 일본어 문장의 강독을 통해 일본어 사용에 필요한 중급 수준의 독해능력 습득을 목적으로 한다. "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1589,6 +1454,573 @@
             }
         },
         {
+            "id": "JAPN304",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "data": {
+                "label": "동아시아젠더론",
+                "학수번호": "JAPN304",
+                "세부전공": null,
+                "전공역량": "국제적소양,창의적문제해결",
+                "개설학과": "일어일문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "동아시아 각국에서 다루어지고 있는 젠더(性)의 문제에 대한 주요 담론을 사회적, 문화적, 역사적 등 다양한 관점에서 검토, 분석한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN306",
+            "position": {
+                "x": 1540,
+                "y": 100
+            },
+            "data": {
+                "label": "일본직업과사회상",
+                "학수번호": "JAPN306",
+                "세부전공": null,
+                "전공역량": "국제적소양,창의적문제해결",
+                "개설학과": "일어일문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "고대에서 근대까지 일본에 존재하던 다양한 직업이 당시 일본 사회나 제도, 산업과 어떻게 관계하고 있는지 검토하고 직업에 대한 사회통념에 대해 토론한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN308",
+            "position": {
+                "x": 1540,
+                "y": 200
+            },
+            "data": {
+                "label": "역사자료로보는동아시아공동체",
+                "학수번호": "JAPN308",
+                "세부전공": null,
+                "전공역량": "국제적소양,창의적문제해결",
+                "개설학과": "일어일문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "‘전쟁과 재난’을 키워드로 실제 역사자료 속에 보이는 동아시아 공동체의 근거를 밝힌다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN310",
+            "position": {
+                "x": 1540,
+                "y": 300
+            },
+            "data": {
+                "label": "일본군사와안전보장",
+                "학수번호": "JAPN310",
+                "세부전공": null,
+                "전공역량": "국제적소양,창의적문제해결",
+                "개설학과": "일어일문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "메이지유신 이후 현재까지의 일본의 군사(軍事)적 변화를 개괄적으로 살펴본 다음 최근 일본 안보정책의 주된 특징과 쟁점을 검토한다.  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN316",
+            "position": {
+                "x": 1540,
+                "y": 400
+            },
+            "data": {
+                "label": "매스미디어일본어",
+                "학수번호": "JAPN316",
+                "세부전공": null,
+                "전공역량": "언어적소양,공감･소통",
+                "개설학과": "일어일문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "각종 매스미디어를 활용하여 일본어의 독해 능력과 청취 능력을 향상시킨다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN324",
+            "position": {
+                "x": 1540,
+                "y": 500
+            },
+            "data": {
+                "label": "일본문학과미디어",
+                "학수번호": "JAPN324",
+                "세부전공": null,
+                "전공역량": "문학적소양,융합적사고능력",
+                "개설학과": "일어일문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일본문학을 신문, 잡지, 교과서, 법률 등 다양한 매체와 관련하여 고찰하고 일본문학과 타 분야의 관계를 이해한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN350",
+            "position": {
+                "x": 1540,
+                "y": 600
+            },
+            "data": {
+                "label": "일본어구문론",
+                "학수번호": "JAPN350",
+                "세부전공": null,
+                "전공역량": "언어적소양,공감･소통",
+                "개설학과": "일어일문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일본어 구문의 이론과 체계를 개관하고 주요 문법이론에 입각한 통어 규칙의 해석 차이에 대하여 고찰한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN352",
+            "position": {
+                "x": 1540,
+                "y": 700
+            },
+            "data": {
+                "label": "일본근현대명작선독II",
+                "학수번호": "JAPN352",
+                "세부전공": null,
+                "전공역량": "문학적소양,융합적사고능력",
+                "개설학과": "일어일문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본문학사 속에서 근현대의 대표적인 명작을 택하여 읽고 감상한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN361",
+            "position": {
+                "x": 1540,
+                "y": 800
+            },
+            "data": {
+                "label": "트랜스아시아한일이문화커뮤니케이션",
+                "학수번호": "JAPN361",
+                "세부전공": null,
+                "전공역량": "언어적소양,공감･소통",
+                "개설학과": "일어일문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "언어와 함께 일본어학습자가 배워야 하는 문화적인 측면에 관한 이해와 문화의 차이를 이해하는 시각을 기르고 실제 상황에서 일어날 수 있는 오해를 줄이기 위한 외국어교육에 대해 고찰한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN401",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "data": {
+                "label": "일본근현대문학연구",
+                "학수번호": "JAPN401",
+                "세부전공": null,
+                "전공역량": "문학적소양,융합적사고능력",
+                "개설학과": "일어일문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일본 근현대의 다양한 문학 장르를 정리하고 중요 작품의 세계를 이해한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN403",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "data": {
+                "label": "재난과일본문화",
+                "학수번호": "JAPN403",
+                "세부전공": null,
+                "전공역량": "문학적소양,융합적사고능력",
+                "개설학과": "일어일문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "지진이나 쓰나미 등 수많은 자연재해와 연관한 일본문학과 일본문화의 특징을 고찰한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN411",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "data": {
+                "label": "일본어사",
+                "학수번호": "JAPN411",
+                "세부전공": null,
+                "전공역량": "언어적소양,공감･소통",
+                "개설학과": "일어일문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일본어의 역사적인 변천과정을 음운·문법·어휘 등의 여러 각도에서 개관한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN415",
+            "position": {
+                "x": 1760,
+                "y": 300
+            },
+            "data": {
+                "label": "일본어의미론",
+                "학수번호": "JAPN415",
+                "세부전공": null,
+                "전공역량": "언어적소양,공감･소통",
+                "개설학과": "일어일문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일본어의 기호와 의미의 관계를 구체적으로 분석하여, 정확한 일본어 구사 및 독해 능력을 배양한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN419",
+            "position": {
+                "x": 1760,
+                "y": 400
+            },
+            "data": {
+                "label": "일본어학응용연구",
+                "학수번호": "JAPN419",
+                "세부전공": null,
+                "전공역량": "언어적소양,공감･소통",
+                "개설학과": "일어일문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일본어학의이해1을 이수한 학생을 대상으로, 일본어 특유의 어법과 그 응용을 연습한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN425",
+            "position": {
+                "x": 1760,
+                "y": 500
+            },
+            "data": {
+                "label": "일본어문자와발음의이해",
+                "학수번호": "JAPN425",
+                "세부전공": null,
+                "전공역량": "언어적소양,공감･소통",
+                "개설학과": "일어일문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일본어 문자의 성립과 변천과정을 이해한 뒤, 현대어의 발음을 정확하게 구사하는 능력을 습득한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN427",
+            "position": {
+                "x": 1760,
+                "y": 600
+            },
+            "data": {
+                "label": "일본문화유산과권력",
+                "학수번호": "JAPN427",
+                "세부전공": null,
+                "전공역량": "국제적소양,창의적문제해결",
+                "개설학과": "일어일문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일본문화유산이 권력(권력층, 정치권력)의 영향하에 어떻게 생성되고 시간의 경과와 함께 어떻게 변화되어 갔는지 살펴본다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN429",
+            "position": {
+                "x": 1760,
+                "y": 700
+            },
+            "data": {
+                "label": "인턴십I",
+                "학수번호": "JAPN429",
+                "세부전공": null,
+                "전공역량": "국제적소양,창의적문제해결",
+                "개설학과": "일어일문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "학문적 지식과 실무 능력을 연동하여 학습, 체득함으로써 산업현장에서 적응할 수 있는 능력을 배양한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN435",
+            "position": {
+                "x": 1760,
+                "y": 800
+            },
+            "data": {
+                "label": "일본디아스포라문학",
+                "학수번호": "JAPN435",
+                "세부전공": null,
+                "전공역량": "문학적소양,융합적사고능력",
+                "개설학과": "일어일문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "근대 식민지 한국에서 창작활동을 한 일본인 작가들의 문학, 혹은 전후 일본에 _x000D_\n남은 재일 코리언 작가들의 문학을 이해한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN439",
+            "position": {
+                "x": 1760,
+                "y": 900
+            },
+            "data": {
+                "label": "지도데이터로보는일본문명과문화",
+                "학수번호": "JAPN439",
+                "세부전공": null,
+                "전공역량": "국제적소양,창의적문제해결",
+                "개설학과": "일어일문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일본의 지도나 지리적 지형을 분석, 이해함으로써, 일본도시, 지역사회, 지역문화가 형성된 배경과 과정을 파악한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN451",
+            "position": {
+                "x": 1760,
+                "y": 1000
+            },
+            "data": {
+                "label": "일본어교과교육론",
+                "학수번호": "JAPN451",
+                "세부전공": null,
+                "전공역량": "언어적소양,공감･소통",
+                "개설학과": "일어일문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일본어 교과 교육의 실태와 요구를 분석하고, 이를 바탕으로 기본적인 일본어 교육의 목표와 방법을 파악하도록 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN487",
+            "position": {
+                "x": 1760,
+                "y": 1100
+            },
+            "data": {
+                "label": "일본전통시가의이해",
+                "학수번호": "JAPN487",
+                "세부전공": null,
+                "전공역량": "문학적소양,융합적사고능력",
+                "개설학과": "일어일문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일본의 대표적인 운문장르인 와카(和歌), 하이쿠(俳句) 등의 작품 세계를 읽고 이해하게 한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "JAPN400",
             "position": {
                 "x": 1980,
@@ -1940,361 +2372,10 @@
             }
         },
         {
-            "id": "JAPN401",
-            "position": {
-                "x": 1760,
-                "y": 0
-            },
-            "data": {
-                "label": "일본근현대문학연구",
-                "학수번호": "JAPN401",
-                "세부전공": null,
-                "전공역량": "문학적소양,융합적사고능력",
-                "개설학과": "일어일문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일본 근현대의 다양한 문학 장르를 정리하고 중요 작품의 세계를 이해한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN403",
-            "position": {
-                "x": 1760,
-                "y": 100
-            },
-            "data": {
-                "label": "재난과일본문화",
-                "학수번호": "JAPN403",
-                "세부전공": null,
-                "전공역량": "문학적소양,융합적사고능력",
-                "개설학과": "일어일문학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "지진이나 쓰나미 등 수많은 자연재해와 연관한 일본문학과 일본문화의 특징을 고찰한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN411",
-            "position": {
-                "x": 1760,
-                "y": 200
-            },
-            "data": {
-                "label": "일본어사",
-                "학수번호": "JAPN411",
-                "세부전공": null,
-                "전공역량": "언어적소양,공감･소통",
-                "개설학과": "일어일문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일본어의 역사적인 변천과정을 음운·문법·어휘 등의 여러 각도에서 개관한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN415",
-            "position": {
-                "x": 1760,
-                "y": 300
-            },
-            "data": {
-                "label": "일본어의미론",
-                "학수번호": "JAPN415",
-                "세부전공": null,
-                "전공역량": "언어적소양,공감･소통",
-                "개설학과": "일어일문학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일본어의 기호와 의미의 관계를 구체적으로 분석하여, 정확한 일본어 구사 및 독해 능력을 배양한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN419",
-            "position": {
-                "x": 1760,
-                "y": 400
-            },
-            "data": {
-                "label": "일본어학응용연구",
-                "학수번호": "JAPN419",
-                "세부전공": null,
-                "전공역량": "언어적소양,공감･소통",
-                "개설학과": "일어일문학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일본어학의이해1을 이수한 학생을 대상으로, 일본어 특유의 어법과 그 응용을 연습한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN425",
-            "position": {
-                "x": 1760,
-                "y": 500
-            },
-            "data": {
-                "label": "일본어문자와발음의이해",
-                "학수번호": "JAPN425",
-                "세부전공": null,
-                "전공역량": "언어적소양,공감･소통",
-                "개설학과": "일어일문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일본어 문자의 성립과 변천과정을 이해한 뒤, 현대어의 발음을 정확하게 구사하는 능력을 습득한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN427",
-            "position": {
-                "x": 1760,
-                "y": 600
-            },
-            "data": {
-                "label": "일본문화유산과권력",
-                "학수번호": "JAPN427",
-                "세부전공": null,
-                "전공역량": "국제적소양,창의적문제해결",
-                "개설학과": "일어일문학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일본문화유산이 권력(권력층, 정치권력)의 영향하에 어떻게 생성되고 시간의 경과와 함께 어떻게 변화되어 갔는지 살펴본다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN429",
-            "position": {
-                "x": 1760,
-                "y": 700
-            },
-            "data": {
-                "label": "인턴십I",
-                "학수번호": "JAPN429",
-                "세부전공": null,
-                "전공역량": "국제적소양,창의적문제해결",
-                "개설학과": "일어일문학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "학문적 지식과 실무 능력을 연동하여 학습, 체득함으로써 산업현장에서 적응할 수 있는 능력을 배양한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN435",
-            "position": {
-                "x": 1760,
-                "y": 800
-            },
-            "data": {
-                "label": "일본디아스포라문학",
-                "학수번호": "JAPN435",
-                "세부전공": null,
-                "전공역량": "문학적소양,융합적사고능력",
-                "개설학과": "일어일문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "근대 식민지 한국에서 창작활동을 한 일본인 작가들의 문학, 혹은 전후 일본에 _x000D_\n남은 재일 코리언 작가들의 문학을 이해한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN439",
-            "position": {
-                "x": 1760,
-                "y": 900
-            },
-            "data": {
-                "label": "지도데이터로보는일본문명과문화",
-                "학수번호": "JAPN439",
-                "세부전공": null,
-                "전공역량": "국제적소양,창의적문제해결",
-                "개설학과": "일어일문학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일본의 지도나 지리적 지형을 분석, 이해함으로써, 일본도시, 지역사회, 지역문화가 형성된 배경과 과정을 파악한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN451",
-            "position": {
-                "x": 1760,
-                "y": 1000
-            },
-            "data": {
-                "label": "일본어교과교육론",
-                "학수번호": "JAPN451",
-                "세부전공": null,
-                "전공역량": "언어적소양,공감･소통",
-                "개설학과": "일어일문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일본어 교과 교육의 실태와 요구를 분석하고, 이를 바탕으로 기본적인 일본어 교육의 목표와 방법을 파악하도록 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN487",
-            "position": {
-                "x": 1760,
-                "y": 1100
-            },
-            "data": {
-                "label": "일본전통시가의이해",
-                "학수번호": "JAPN487",
-                "세부전공": null,
-                "전공역량": "문학적소양,융합적사고능력",
-                "개설학과": "일어일문학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일본의 대표적인 운문장르인 와카(和歌), 하이쿠(俳句) 등의 작품 세계를 읽고 이해하게 한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JAPN171",
-            "position": {
-                "x": 440,
-                "y": 0
-            },
-            "data": {
-                "label": "일본어I",
-                "학수번호": "JAPN171",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "일어일문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "입문수준의 일본어 능력을 지닌 학생을 대상으로 문자부터 시작해서 기본적인 초급단계의 문법능력을 배양하며 기초 회화능력, 청취능력 습득을 목표로 한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "COLA173",
             "position": {
-                "x": 440,
-                "y": 100
+                "x": 550.0,
+                "y": 400
             },
             "data": {
                 "label": "디지털인문학응용",
@@ -2320,8 +2401,8 @@
         {
             "id": "COLA200",
             "position": {
-                "x": 440,
-                "y": 200
+                "x": 550.0,
+                "y": 500
             },
             "data": {
                 "label": "인문융합세미나",
@@ -2347,8 +2428,8 @@
         {
             "id": "GELI005",
             "position": {
-                "x": 440,
-                "y": 300
+                "x": 550.0,
+                "y": 600
             },
             "data": {
                 "label": "학문세계의탐구 I",
@@ -2372,37 +2453,10 @@
             }
         },
         {
-            "id": "GEWR002",
-            "position": {
-                "x": 440,
-                "y": 400
-            },
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "IFLS800",
             "position": {
-                "x": 440,
-                "y": 500
+                "x": 550.0,
+                "y": 700
             },
             "data": {
                 "label": "Academic English I",
@@ -2426,63 +2480,9 @@
             }
         },
         {
-            "id": "GEKS007",
-            "position": {
-                "x": 440,
-                "y": 600
-            },
-            "data": {
-                "label": "[진로창업]1학년세미나 I",
-                "학수번호": "GEKS007",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GECT002",
-            "position": {
-                "x": 440,
-                "y": 700
-            },
-            "data": {
-                "label": "[진로창업]SW프로그래밍의기초",
-                "학수번호": "GECT002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEBT001",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 800
             },
             "data": {
@@ -2509,7 +2509,7 @@
         {
             "id": "CHIN103\t",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 900
             },
             "data": {
@@ -2536,7 +2536,7 @@
         {
             "id": "CHIN104",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 1000
             },
             "data": {
@@ -2563,7 +2563,7 @@
         {
             "id": "FRAN141",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 1100
             },
             "data": {
@@ -2590,7 +2590,7 @@
         {
             "id": "FRAN142",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 1200
             },
             "data": {
@@ -2617,7 +2617,7 @@
         {
             "id": "GERM161",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 1300
             },
             "data": {
@@ -2644,7 +2644,7 @@
         {
             "id": "GERM162",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 1400
             },
             "data": {
@@ -2671,7 +2671,7 @@
         {
             "id": "HANM141",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 1500
             },
             "data": {
@@ -2698,7 +2698,7 @@
         {
             "id": "JAPN113",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 1600
             },
             "data": {
@@ -2725,7 +2725,7 @@
         {
             "id": "JAPN114",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 1700
             },
             "data": {
@@ -2752,7 +2752,7 @@
         {
             "id": "RUSS131",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 1800
             },
             "data": {
@@ -2779,7 +2779,7 @@
         {
             "id": "RUSS132",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 1900
             },
             "data": {
@@ -2806,7 +2806,7 @@
         {
             "id": "SPAN121",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 2000
             },
             "data": {
@@ -2833,7 +2833,7 @@
         {
             "id": "SPAN122",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 2100
             },
             "data": {

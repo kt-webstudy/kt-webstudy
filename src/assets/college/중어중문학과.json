@@ -185,6 +185,195 @@
             }
         },
         {
+            "id": "CHIN171",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "data": {
+                "label": "중국어I",
+                "학수번호": "CHIN171",
+                "세부전공": null,
+                "전공역량": "의사소통",
+                "개설학과": "중어중문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "기초적인 중국어를 발음에서부터 기본 문형의 숙지에 이르기까지 다양 한 방법을 통해 반복 연습한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #ff3c3c",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHIN172",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "data": {
+                "label": "중국어II",
+                "학수번호": "CHIN172",
+                "세부전공": null,
+                "전공역량": "의사소통",
+                "개설학과": "중어중문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "기초적인 중국어를 발음에서부터 기본 문형의 숙지에 이르기까지 다양 한 방법을 통해 반복 연습한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #ff3c3c",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 100
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 II",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅱ는 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 학교에 대한 소속감을 강화하고 창직 및 창업 등의 진로 방향성을 고민해볼 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 200
+            },
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "_x000D_\n이 과목은 데이터를 다루고 분석할 수 있는 역량과 인공지능 기술을 이해하고 자기의 일에 활용할 수 있는 방법을 학습하는 과정이다. 기초적인 데이터과학 및 인공지능 핵심 개념을 학습하고, 각 계열별 특성에 맞는 데이터를 활용한 실습을 통해 실제 데이터를 다루고 인"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "CHIN203",
             "position": {
                 "x": 880,
@@ -1319,37 +1508,10 @@
             }
         },
         {
-            "id": "CHIN171",
-            "position": {
-                "x": 440,
-                "y": 0
-            },
-            "data": {
-                "label": "중국어I",
-                "학수번호": "CHIN171",
-                "세부전공": null,
-                "전공역량": "의사소통",
-                "개설학과": "중어중문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "기초적인 중국어를 발음에서부터 기본 문형의 숙지에 이르기까지 다양 한 방법을 통해 반복 연습한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "COLA173",
             "position": {
-                "x": 440,
-                "y": 100
+                "x": 550.0,
+                "y": 400
             },
             "data": {
                 "label": "디지털인문학응용",
@@ -1375,8 +1537,8 @@
         {
             "id": "COLA200",
             "position": {
-                "x": 440,
-                "y": 200
+                "x": 550.0,
+                "y": 500
             },
             "data": {
                 "label": "인문융합세미나",
@@ -1402,8 +1564,8 @@
         {
             "id": "GELI005",
             "position": {
-                "x": 440,
-                "y": 300
+                "x": 550.0,
+                "y": 600
             },
             "data": {
                 "label": "학문세계의탐구 I",
@@ -1427,37 +1589,10 @@
             }
         },
         {
-            "id": "GEWR002",
-            "position": {
-                "x": 440,
-                "y": 400
-            },
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "IFLS800",
             "position": {
-                "x": 440,
-                "y": 500
+                "x": 550.0,
+                "y": 700
             },
             "data": {
                 "label": "Academic English I",
@@ -1481,63 +1616,9 @@
             }
         },
         {
-            "id": "GEKS007",
-            "position": {
-                "x": 440,
-                "y": 600
-            },
-            "data": {
-                "label": "[진로창업]1학년세미나 I",
-                "학수번호": "GEKS007",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GECT002",
-            "position": {
-                "x": 440,
-                "y": 700
-            },
-            "data": {
-                "label": "[진로창업]SW프로그래밍의기초",
-                "학수번호": "GECT002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEBT001",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 800
             },
             "data": {
@@ -1564,7 +1645,7 @@
         {
             "id": "CHIN103\t",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 900
             },
             "data": {
@@ -1591,7 +1672,7 @@
         {
             "id": "CHIN104",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 1000
             },
             "data": {
@@ -1618,7 +1699,7 @@
         {
             "id": "FRAN141",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 1100
             },
             "data": {
@@ -1645,7 +1726,7 @@
         {
             "id": "FRAN142",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 1200
             },
             "data": {
@@ -1672,7 +1753,7 @@
         {
             "id": "GERM161",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 1300
             },
             "data": {
@@ -1699,7 +1780,7 @@
         {
             "id": "GERM162",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 1400
             },
             "data": {
@@ -1726,7 +1807,7 @@
         {
             "id": "HANM141",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 1500
             },
             "data": {
@@ -1753,7 +1834,7 @@
         {
             "id": "JAPN113",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 1600
             },
             "data": {
@@ -1780,7 +1861,7 @@
         {
             "id": "JAPN114",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 1700
             },
             "data": {
@@ -1807,7 +1888,7 @@
         {
             "id": "RUSS131",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 1800
             },
             "data": {
@@ -1834,7 +1915,7 @@
         {
             "id": "RUSS132",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 1900
             },
             "data": {
@@ -1861,7 +1942,7 @@
         {
             "id": "SPAN121",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 2000
             },
             "data": {
@@ -1888,7 +1969,7 @@
         {
             "id": "SPAN122",
             "position": {
-                "x": 440,
+                "x": 550.0,
                 "y": 2100
             },
             "data": {
@@ -1908,87 +1989,6 @@
             "style": {
                 "backgroundColor": "#f8f8f8",
                 "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHIN172",
-            "position": {
-                "x": 660,
-                "y": 0
-            },
-            "data": {
-                "label": "중국어II",
-                "학수번호": "CHIN172",
-                "세부전공": null,
-                "전공역량": "의사소통",
-                "개설학과": "중어중문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "기초적인 중국어를 발음에서부터 기본 문형의 숙지에 이르기까지 다양 한 방법을 통해 반복 연습한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEKS008",
-            "position": {
-                "x": 660,
-                "y": 100
-            },
-            "data": {
-                "label": "[진로창업]1학년세미나 II",
-                "학수번호": "GEKS008",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "[진로·창업] 1학년세미나Ⅱ는 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 학교에 대한 소속감을 강화하고 창직 및 창업 등의 진로 방향성을 고민해볼 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GECT003",
-            "position": {
-                "x": 660,
-                "y": 200
-            },
-            "data": {
-                "label": "[진로창업]데이터과학과인공지능",
-                "학수번호": "GECT003",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "_x000D_\n이 과목은 데이터를 다루고 분석할 수 있는 역량과 인공지능 기술을 이해하고 자기의 일에 활용할 수 있는 방법을 학습하는 과정이다. 기초적인 데이터과학 및 인공지능 핵심 개념을 학습하고, 각 계열별 특성에 맞는 데이터를 활용한 실습을 통해 실제 데이터를 다루고 인"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }

@@ -185,64 +185,10 @@
             }
         },
         {
-            "id": "GELI005",
-            "position": {
-                "x": 440,
-                "y": 0
-            },
-            "data": {
-                "label": "학문세계의탐구I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEWR002",
-            "position": {
-                "x": 440,
-                "y": 100
-            },
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "IFLS800",
             "position": {
                 "x": 440,
-                "y": 200
+                "y": 0
             },
             "data": {
                 "label": "Academic English I",
@@ -269,7 +215,7 @@
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 300
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]1학년세미나Ⅰ",
@@ -296,7 +242,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 400
+                "y": 200
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -323,7 +269,7 @@
             "id": "GEBT001",
             "position": {
                 "x": 440,
-                "y": 500
+                "y": 300
             },
             "data": {
                 "label": "[진로창업]생명과학의세계",
@@ -350,7 +296,7 @@
             "id": "COSE101",
             "position": {
                 "x": 440,
-                "y": 600
+                "y": 400
             },
             "data": {
                 "label": "컴퓨터프로그래밍I",
@@ -377,7 +323,7 @@
             "id": "COSE111",
             "position": {
                 "x": 440,
-                "y": 700
+                "y": 500
             },
             "data": {
                 "label": "전산수학I",
@@ -1157,37 +1103,10 @@
             }
         },
         {
-            "id": "DATA302",
-            "position": {
-                "x": 1320,
-                "y": 1300
-            },
-            "data": {
-                "label": "기초컴퓨터비전이론및응용",
-                "학수번호": "DATA302",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "데이터과학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 과목은 컴퓨터비전의 기초이론 및 응용을 배운다. 컴퓨터비전은 다양한 전공이 융합된 분야로 저수준 영상이해부터 고수준 영상 이해를 포괄한다. 본 과목에서는 영상 처리, 이미지 분류, 물체 탐지, 이미지 분할, 영상 접합, 3차원 복원, 이미지 자동 캡셔닝, 이미지/영 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "DATA303",
             "position": {
                 "x": 1320,
-                "y": 1400
+                "y": 1300
             },
             "data": {
                 "label": "고급기계학습",
@@ -1214,7 +1133,7 @@
             "id": "DATA304",
             "position": {
                 "x": 1320,
-                "y": 1500
+                "y": 1400
             },
             "data": {
                 "label": "빅데이터분석",
@@ -1226,33 +1145,6 @@
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "본 교과목은 빅데이터를 가공하고 정제하고 분석하는 일련의 과정을 다룬다. 구체적으로 빅데이터를 가공하기 위한 툴(예 Python)을 배우고 다양한 기계학습 기술 또한 다룬다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "DATA306",
-            "position": {
-                "x": 1320,
-                "y": 1600
-            },
-            "data": {
-                "label": "디자인사고",
-                "학수번호": "DATA306",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "데이터과학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 많은 분야에서 활용 가능한 혁신적인 문제 해결 방법론을 다룬다. 구체적으로, 본 과목은 사용자의 의도를 이해하고, 실패로 부터 배우며, 가능한 위험성을 찾아내고, 이를 스토리텔링을 통한 커뮤니케이션에 활용하여 혁신적인 문제 해결 방법론을 개발하는 것 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1751,37 +1643,10 @@
             }
         },
         {
-            "id": "COSE425",
-            "position": {
-                "x": 1760,
-                "y": 900
-            },
-            "data": {
-                "label": "블록체인입문및실습",
-                "학수번호": "COSE425",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "블록체인의 이론을 배우고 기본적인 개념을 실습해 본다. 블록체인 1.0 비트코인의 작동 원리, 블록체인 2.0의 이더리윰의 스마트컨트랙트, 디지털 증서인 NFT (Non-Fungible Token)의 개념을 배우고 이를 텀프로젝트에 적용하여 실제로 디지털 자산을 만들며 공부한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "COSE434",
             "position": {
                 "x": 1760,
-                "y": 1000
+                "y": 900
             },
             "data": {
                 "label": "게임프로그래밍",
@@ -1808,7 +1673,7 @@
             "id": "COSE451",
             "position": {
                 "x": 1760,
-                "y": 1100
+                "y": 1000
             },
             "data": {
                 "label": "소프트웨어보안",
@@ -1835,7 +1700,7 @@
             "id": "COSE455",
             "position": {
                 "x": 1760,
-                "y": 1200
+                "y": 1100
             },
             "data": {
                 "label": "스타트업프로젝트관리",
@@ -1862,7 +1727,7 @@
             "id": "COSE461",
             "position": {
                 "x": 1760,
-                "y": 1300
+                "y": 1200
             },
             "data": {
                 "label": "자연어처리",
@@ -1889,7 +1754,7 @@
             "id": "COSE471",
             "position": {
                 "x": 1760,
-                "y": 1400
+                "y": 1300
             },
             "data": {
                 "label": "데이터과학",
@@ -1913,37 +1778,10 @@
             }
         },
         {
-            "id": "COSE475",
-            "position": {
-                "x": 1760,
-                "y": 1500
-            },
-            "data": {
-                "label": "고급딥러닝",
-                "학수번호": "COSE475",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "딥러닝 기초에 대한 이해를 기반으로 최신 딥러닝 모델과 이론 및 구현, 그리고 최신 연구 동향을 학습한다. 학생들은 실제 문제를 해결하기 위한 고급 딥러닝 모델을 설계하고 훈련할 능력을 함양한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "COSE480",
             "position": {
                 "x": 1760,
-                "y": 1600
+                "y": 1400
             },
             "data": {
                 "label": "산학캡스톤디자인",
@@ -1970,7 +1808,7 @@
             "id": "COSE483",
             "position": {
                 "x": 1760,
-                "y": 1700
+                "y": 1500
             },
             "data": {
                 "label": "무선회로설계",
@@ -1997,7 +1835,7 @@
             "id": "COSE485",
             "position": {
                 "x": 1760,
-                "y": 1800
+                "y": 1600
             },
             "data": {
                 "label": "정보이론과추론학습",
@@ -2015,33 +1853,6 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "DATA401",
-            "position": {
-                "x": 1760,
-                "y": 1900
-            },
-            "data": {
-                "label": "데이터시각화",
-                "학수번호": "DATA401",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "데이터과학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 과목은 데이터시각화에 관한 내용으로 데이터를 그래픽스를 활용하여 시각화 하는 일련의 과정을 배운다. 접근 가능한 데이터와 문제를 위한 시각화하는 기법들을 배우며, 구체적으로 데이터 모델링, 데이터 프로세싱, 데이터 맵핑, 데이터 인코딩 기술 등을 배운다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
                 "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
@@ -2370,6 +2181,195 @@
                 "borderRadius": "5px",
                 "padding": "10px"
             }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 550.0,
+                "y": 600
+            },
+            "data": {
+                "label": "학문세계의탐구I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "컴퓨터학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 550.0,
+                "y": 700
+            },
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "컴퓨터학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DATA302",
+            "position": {
+                "x": 550.0,
+                "y": 800
+            },
+            "data": {
+                "label": "기초컴퓨터비전이론및응용",
+                "학수번호": "DATA302",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "데이터과학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 컴퓨터비전의 기초이론 및 응용을 배운다. 컴퓨터비전은 다양한 전공이 융합된 분야로 저수준 영상이해부터 고수준 영상 이해를 포괄한다. 본 과목에서는 영상 처리, 이미지 분류, 물체 탐지, 이미지 분할, 영상 접합, 3차원 복원, 이미지 자동 캡셔닝, 이미지/영 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DATA306",
+            "position": {
+                "x": 550.0,
+                "y": 900
+            },
+            "data": {
+                "label": "디자인사고",
+                "학수번호": "DATA306",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "데이터과학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 많은 분야에서 활용 가능한 혁신적인 문제 해결 방법론을 다룬다. 구체적으로, 본 과목은 사용자의 의도를 이해하고, 실패로 부터 배우며, 가능한 위험성을 찾아내고, 이를 스토리텔링을 통한 커뮤니케이션에 활용하여 혁신적인 문제 해결 방법론을 개발하는 것 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COSE425",
+            "position": {
+                "x": 550.0,
+                "y": 1000
+            },
+            "data": {
+                "label": "블록체인입문및실습",
+                "학수번호": "COSE425",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "컴퓨터학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "블록체인의 이론을 배우고 기본적인 개념을 실습해 본다. 블록체인 1.0 비트코인의 작동 원리, 블록체인 2.0의 이더리윰의 스마트컨트랙트, 디지털 증서인 NFT (Non-Fungible Token)의 개념을 배우고 이를 텀프로젝트에 적용하여 실제로 디지털 자산을 만들며 공부한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COSE475",
+            "position": {
+                "x": 550.0,
+                "y": 1100
+            },
+            "data": {
+                "label": "고급딥러닝",
+                "학수번호": "COSE475",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "컴퓨터학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "딥러닝 기초에 대한 이해를 기반으로 최신 딥러닝 모델과 이론 및 구현, 그리고 최신 연구 동향을 학습한다. 학생들은 실제 문제를 해결하기 위한 고급 딥러닝 모델을 설계하고 훈련할 능력을 함양한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DATA401",
+            "position": {
+                "x": 550.0,
+                "y": 1200
+            },
+            "data": {
+                "label": "데이터시각화",
+                "학수번호": "DATA401",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "데이터과학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 데이터시각화에 관한 내용으로 데이터를 그래픽스를 활용하여 시각화 하는 일련의 과정을 배운다. 접근 가능한 데이터와 문제를 위한 시각화하는 기법들을 배우며, 구체적으로 데이터 모델링, 데이터 프로세싱, 데이터 맵핑, 데이터 인코딩 기술 등을 배운다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
         }
     ],
     "edges": [
@@ -2410,6 +2410,18 @@
             }
         },
         {
+            "id": "recommended-COSE112-COSE281",
+            "source": "COSE112",
+            "target": "COSE281",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
             "id": "recommended-COSE215-COSE214",
             "source": "COSE215",
             "target": "COSE214",
@@ -2437,30 +2449,6 @@
             "id": "recommended-COSE215-COSE222",
             "source": "COSE215",
             "target": "COSE222",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE213-COSE341",
-            "source": "COSE213",
-            "target": "COSE341",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE222-COSE341",
-            "source": "COSE222",
-            "target": "COSE341",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -2518,18 +2506,6 @@
             }
         },
         {
-            "id": "recommended-COSE112-COSE281",
-            "source": "COSE112",
-            "target": "COSE281",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
             "id": "recommended-COSE281-COSE284",
             "source": "COSE281",
             "target": "COSE284",
@@ -2545,6 +2521,30 @@
             "id": "recommended-COSE283-COSE284",
             "source": "COSE283",
             "target": "COSE284",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-COSE213-COSE341",
+            "source": "COSE213",
+            "target": "COSE341",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-COSE222-COSE341",
+            "source": "COSE222",
+            "target": "COSE341",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -2578,9 +2578,9 @@
             }
         },
         {
-            "id": "recommended-COSE221-COSE421",
-            "source": "COSE221",
-            "target": "COSE421",
+            "id": "recommended-STAT241-SATA302",
+            "source": "STAT241",
+            "target": "SATA302",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -2590,9 +2590,33 @@
             }
         },
         {
-            "id": "recommended-COSE242-COSE441",
-            "source": "COSE242",
-            "target": "COSE441",
+            "id": "recommended-STAT342-SATA302",
+            "source": "STAT342",
+            "target": "SATA302",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT151-SATA332",
+            "source": "STAT151",
+            "target": "SATA332",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-COSE221-COSE421",
+            "source": "COSE221",
+            "target": "COSE421",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -2638,33 +2662,9 @@
             }
         },
         {
-            "id": "recommended-STAT241-SATA302",
-            "source": "STAT241",
-            "target": "SATA302",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-STAT342-SATA302",
-            "source": "STAT342",
-            "target": "SATA302",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-STAT151-SATA332",
-            "source": "STAT151",
-            "target": "SATA332",
+            "id": "recommended-COSE242-COSE441",
+            "source": "COSE242",
+            "target": "COSE441",
             "type": "step",
             "data": {
                 "type": "recommended"

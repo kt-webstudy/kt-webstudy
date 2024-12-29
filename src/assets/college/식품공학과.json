@@ -185,37 +185,10 @@
             }
         },
         {
-            "id": "GELI005",
-            "position": {
-                "x": 440,
-                "y": 0
-            },
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 100
+                "y": 0
             },
             "data": {
                 "label": "글쓰기",
@@ -239,37 +212,10 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 300
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -296,7 +242,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 400
+                "y": 200
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -320,37 +266,10 @@
             }
         },
         {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "LIBS151",
             "position": {
                 "x": 440,
-                "y": 600
+                "y": 300
             },
             "data": {
                 "label": "일반생물학및연습 I",
@@ -377,7 +296,7 @@
             "id": "LIBS153",
             "position": {
                 "x": 440,
-                "y": 700
+                "y": 400
             },
             "data": {
                 "label": "일반생물학실험 I",
@@ -404,7 +323,7 @@
             "id": "LIET151",
             "position": {
                 "x": 440,
-                "y": 800
+                "y": 500
             },
             "data": {
                 "label": "화학의기초및연습 I",
@@ -431,7 +350,7 @@
             "id": "LIET155",
             "position": {
                 "x": 440,
-                "y": 900
+                "y": 600
             },
             "data": {
                 "label": "화학의기초실험 I",
@@ -458,7 +377,7 @@
             "id": "PHYS183",
             "position": {
                 "x": 440,
-                "y": 1000
+                "y": 700
             },
             "data": {
                 "label": "생명물리학및연습",
@@ -485,7 +404,7 @@
             "id": "PHYS161",
             "position": {
                 "x": 440,
-                "y": 1100
+                "y": 800
             },
             "data": {
                 "label": "일반물리학 실험 I",
@@ -860,6 +779,141 @@
             }
         },
         {
+            "id": "LIFS252",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "식품미생물학Ⅱ",
+                "학수번호": "LIFS252",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "식품미생물학 II에서는 유용미생물과 위해미생물에 대한 전반적인 내용을 강의.  유용미생물에서는 프로바이오틱, 발효미생물, 산업적 응용 미생물과 바이오테크놀러지를 강의하고, 위해미생물에서는 다양한 식중독균들(바이러스, 박테리아, 곰팡이, 기생충)의 소개와 제어방"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS256",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "data": {
+                "label": "발효식품학",
+                "학수번호": "LIFS256",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "발효 식품은 10,000년 이상 동안 인간이 섭취한 가장 중요한 식품 중 하나이다. 이 수업은 안전하고 맛있는 발효식품을 만들기 위해 필수적인 식품 발효 과정에서 발생하는 기술적, 미생물학적, 생화학적 과정의 이해를 목표로 합니다. 각종 발효식품의 기원, 역사, 종류, 제"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS330",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "data": {
+                "label": "식품생화학II",
+                "학수번호": "LIFS330",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "1년 생화학 과정 중 후반부 과목으로 생화학1에서 배운 기초지식을 바탕으로 물질 에너지 대사에 관여하는 해당과정, TCA cycle, 지방산, 아미노산 대사, DNA replication, 유전자 발현과정을 공부한다_x000D_\n_x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS340",
+            "position": {
+                "x": 1100,
+                "y": 300
+            },
+            "data": {
+                "label": "식품미생물학실험",
+                "학수번호": "LIFS340",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "식품미생물 분야에 이용되는 다양한 실험기법에 대하여 다룬다. 주요 다루어질 내용으로는 미생물 순수배양 기술, 식품미생물의 분리 및 동정, 미생물 생장곡선, 항균물질의 최소저해농도 및 최소치사농도 결정, MPN test, Transformation, Plasmid minipreparation, 동식물 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT272",
+            "position": {
+                "x": 1100,
+                "y": 400
+            },
+            "data": {
+                "label": "유기화학 II",
+                "학수번호": "LIBT272",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "유기화학Ⅰ에 이어지는 과목으로 다양한 유기 화합물의 관능기들이 갖는 화학적 반응  특성에 관하여 강의 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "LIFS223",
             "position": {
                 "x": 1320,
@@ -1124,141 +1178,6 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIFS252",
-            "position": {
-                "x": 1100,
-                "y": 0
-            },
-            "data": {
-                "label": "식품미생물학Ⅱ",
-                "학수번호": "LIFS252",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "식품공학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "식품미생물학 II에서는 유용미생물과 위해미생물에 대한 전반적인 내용을 강의.  유용미생물에서는 프로바이오틱, 발효미생물, 산업적 응용 미생물과 바이오테크놀러지를 강의하고, 위해미생물에서는 다양한 식중독균들(바이러스, 박테리아, 곰팡이, 기생충)의 소개와 제어방"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIFS256",
-            "position": {
-                "x": 1100,
-                "y": 100
-            },
-            "data": {
-                "label": "발효식품학",
-                "학수번호": "LIFS256",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "식품공학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "발효 식품은 10,000년 이상 동안 인간이 섭취한 가장 중요한 식품 중 하나이다. 이 수업은 안전하고 맛있는 발효식품을 만들기 위해 필수적인 식품 발효 과정에서 발생하는 기술적, 미생물학적, 생화학적 과정의 이해를 목표로 합니다. 각종 발효식품의 기원, 역사, 종류, 제"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIFS330",
-            "position": {
-                "x": 1100,
-                "y": 200
-            },
-            "data": {
-                "label": "식품생화학II",
-                "학수번호": "LIFS330",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "식품공학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "1년 생화학 과정 중 후반부 과목으로 생화학1에서 배운 기초지식을 바탕으로 물질 에너지 대사에 관여하는 해당과정, TCA cycle, 지방산, 아미노산 대사, DNA replication, 유전자 발현과정을 공부한다_x000D_\n_x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIFS340",
-            "position": {
-                "x": 1100,
-                "y": 300
-            },
-            "data": {
-                "label": "식품미생물학실험",
-                "학수번호": "LIFS340",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "식품공학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "식품미생물 분야에 이용되는 다양한 실험기법에 대하여 다룬다. 주요 다루어질 내용으로는 미생물 순수배양 기술, 식품미생물의 분리 및 동정, 미생물 생장곡선, 항균물질의 최소저해농도 및 최소치사농도 결정, MPN test, Transformation, Plasmid minipreparation, 동식물 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT272",
-            "position": {
-                "x": 1100,
-                "y": 400
-            },
-            "data": {
-                "label": "유기화학 II",
-                "학수번호": "LIBT272",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "유기화학Ⅰ에 이어지는 과목으로 다양한 유기 화합물의 관능기들이 갖는 화학적 반응  특성에 관하여 강의 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
                 "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
@@ -1535,6 +1454,87 @@
             }
         },
         {
+            "id": "LIFS405",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "data": {
+                "label": "식품저장학",
+                "학수번호": "LIFS405",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "식품의 부패와 보존 및 저장수명에 관여하는 생물학적, 화학적, 물리학적 요소들을 개관하고 수확후관리기술, 냉장, CA 및 MA저장, 발효, 냉동, 건조, 농축, 가열살균, 초고압살균, 방사선조사 기술과 공정중의 품질변화 및 저장수명 결정방법을 강의한다.   _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS457",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "data": {
+                "label": "과실채소류과학",
+                "학수번호": "LIFS457",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "과실 및 채소류 가공과 저장에 수반되는 물리화학적, 효소학적 및 미생물학적 이론을 강의. 과실 및 채소류의 저장과정에서 일어나는 제반 식물 생리적 현상에 대해 설명하고 CA 및 MA저장기술에 관하여 논한다. 과실 및 채소류 가공에 이용하는 통조림학의 이론과 실제를 강"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS475",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "data": {
+                "label": "식품성분및재료학",
+                "학수번호": "LIFS475",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "식품 재료 속에 포함되어 있는 성분의 구조와 물리 화학적 특성과 식품 재료의 기능, 응용 및 특성을 다룬다. 식품의 기본 물질인 물, 단백질, 탄수화물, 핵산, 지질과 같은 분자의 특성과 구조-기능 관계, 식품 성분이 미치는 영양 및 생리학적 효과를 다룬다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "LIFS402",
             "position": {
                 "x": 1980,
@@ -1643,82 +1643,82 @@
             }
         },
         {
-            "id": "LIFS405",
+            "id": "GELI005",
             "position": {
-                "x": 1760,
-                "y": 0
+                "x": 550.0,
+                "y": 900
             },
             "data": {
-                "label": "식품저장학",
-                "학수번호": "LIFS405",
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
                 "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "식품공학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "식품의 부패와 보존 및 저장수명에 관여하는 생물학적, 화학적, 물리학적 요소들을 개관하고 수확후관리기술, 냉장, CA 및 MA저장, 발효, 냉동, 건조, 농축, 가열살균, 초고압살균, 방사선조사 기술과 공정중의 품질변화 및 저장수명 결정방법을 강의한다.   _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIFS457",
-            "position": {
-                "x": 1760,
-                "y": 100
-            },
-            "data": {
-                "label": "과실채소류과학",
-                "학수번호": "LIFS457",
-                "세부전공": null,
-                "전공역량": "창의적사고",
-                "개설학과": "식품공학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "과실 및 채소류 가공과 저장에 수반되는 물리화학적, 효소학적 및 미생물학적 이론을 강의. 과실 및 채소류의 저장과정에서 일어나는 제반 식물 생리적 현상에 대해 설명하고 CA 및 MA저장기술에 관하여 논한다. 과실 및 채소류 가공에 이용하는 통조림학의 이론과 실제를 강"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIFS475",
-            "position": {
-                "x": 1760,
-                "y": 200
-            },
-            "data": {
-                "label": "식품성분및재료학",
-                "학수번호": "LIFS475",
-                "세부전공": null,
-                "전공역량": "창의적사고",
-                "개설학과": "식품공학과",
+                "전공역량": null,
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "식품 재료 속에 포함되어 있는 성분의 구조와 물리 화학적 특성과 식품 재료의 기능, 응용 및 특성을 다룬다. 식품의 기본 물질인 물, 단백질, 탄수화물, 핵산, 지질과 같은 분자의 특성과 구조-기능 관계, 식품 성분이 미치는 영양 및 생리학적 효과를 다룬다."
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 550.0,
+                "y": 1000
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 550.0,
+                "y": 1100
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }

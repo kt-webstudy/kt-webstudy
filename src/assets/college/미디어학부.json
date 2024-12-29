@@ -185,37 +185,10 @@
             }
         },
         {
-            "id": "GELI005",
-            "position": {
-                "x": 440,
-                "y": 0
-            },
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 100
+                "y": 0
             },
             "data": {
                 "label": "글쓰기",
@@ -239,37 +212,10 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 300
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -296,7 +242,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 400
+                "y": 200
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -320,37 +266,10 @@
             }
         },
         {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "JMCO203",
             "position": {
                 "x": 440,
-                "y": 600
+                "y": 300
             },
             "data": {
                 "label": "미디어학입문",
@@ -377,7 +296,7 @@
             "id": "JMCO247",
             "position": {
                 "x": 440,
-                "y": 700
+                "y": 400
             },
             "data": {
                 "label": "창의적미디어기획과표현",
@@ -524,6 +443,222 @@
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "소셜컴퓨팅, 빅데이터 분석 등을 위한 R과 Python 등의 기본 프로그램 언어 및 프로그램 개발 과정에 대해 실습을 위주로 교육한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO253",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "data": {
+                "label": "저널리즘의이해",
+                "학수번호": "JMCO253",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "뉴스의 생산 원리와 메커니즘, 기자의 역할, 언론과 민주주의 관계 등을 배우고 뉴스의 비판적 소비 능력을 함양한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO255",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "data": {
+                "label": "미디어와정치",
+                "학수번호": "JMCO255",
+                "세부전공": null,
+                "전공역량": "윤리적 사회공헌",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 강좌는 미디어, 정치, 시민 사이의 상호작용 과정과 그 효과를 탐색한다. 다양한 정치커뮤니케이션 이론과 모델을 통해 정치 미디어의 담론과 효과를 분석하고 궁극적으로 미디어가 정치 민주주의에서 담당해야 하는 규범적 역할을 이해한다. 초연결사회의 미디어 지형에 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO257",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "data": {
+                "label": "한국의문화와미디어",
+                "학수번호": "JMCO257",
+                "세부전공": null,
+                "전공역량": "글로벌 의사소통",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 한국의 문화에 익숙하지 않은 유학생 및 교환학생들을 위해 특별히 디자인된 수업으로, 한국 영화, 방송, 음악, 저널리즘, 한류의 역사와 주요 쟁점을 논의한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO259",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "data": {
+                "label": "다문화사회와미디어",
+                "학수번호": "JMCO259",
+                "세부전공": null,
+                "전공역량": "글로벌 의사소통",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "다문화사회의 핵심 개념인 문화적 다양성을 둘러싼 주요 이슈를 인종과 섹슈얼리티를 중심으로 논의한다. 인종 및 성소수자의 개념이 형성되어 온 역사적 관점 뿐 아니라 차별금지법과 같은 법적 쟁점, 소수자우대정책과 같은 정책적 쟁점, 다문화 사회에서 미디어가 수행하 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO267",
+            "position": {
+                "x": 880,
+                "y": 400
+            },
+            "data": {
+                "label": "광고의이해",
+                "학수번호": "JMCO267",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "마케팅 커뮤니케이션의 주요 구성요인인 광고의 기본 개념, 주요 이론과 실제를 현대사회의 경제적, 사회적, 문화적, 미디어 환경과 관련하여 학습한다. 광고기획, 제작, 조사, 미디어전략 등 광고의 실무과정 전반과 광고학의 기본원리를 이해하여 광고에 대한 기본지식을  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO273",
+            "position": {
+                "x": 880,
+                "y": 500
+            },
+            "data": {
+                "label": "영화론",
+                "학수번호": "JMCO273",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "현대 영상 미디어의 근간인 영화를 역사에서부터 문화, 산업적 관점에서 접근한다. 영화의 미디어적 특징과 세계 각국의 영화 역사, 문화 차이 등을 다룬다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO275",
+            "position": {
+                "x": 880,
+                "y": 600
+            },
+            "data": {
+                "label": "영상콘텐츠기초제작실습",
+                "학수번호": "JMCO275",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "다양한 실습을 통해 영상 콘텐츠 제작 기초를 연마한다. 기획 단계부터 디자인, 연출까지 핵심적 제작 방법들을 단계별로 습득한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO277",
+            "position": {
+                "x": 880,
+                "y": 700
+            },
+            "data": {
+                "label": "저널리즘글쓰기",
+                "학수번호": "JMCO277",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "신문, 방송, 온라인 등 다양한 매체를 위한 기본적인 기사 작성 능력을 함양한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -779,48 +914,21 @@
             }
         },
         {
-            "id": "JMCO253",
+            "id": "JMCO363",
             "position": {
-                "x": 880,
+                "x": 1320,
                 "y": 0
             },
             "data": {
-                "label": "저널리즘의이해",
-                "학수번호": "JMCO253",
-                "세부전공": null,
-                "전공역량": "창의적 사고표현",
-                "개설학과": "미디어학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "뉴스의 생산 원리와 메커니즘, 기자의 역할, 언론과 민주주의 관계 등을 배우고 뉴스의 비판적 소비 능력을 함양한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JMCO255",
-            "position": {
-                "x": 880,
-                "y": 100
-            },
-            "data": {
-                "label": "미디어와정치",
-                "학수번호": "JMCO255",
+                "label": "미디어효과이론",
+                "학수번호": "JMCO363",
                 "세부전공": null,
                 "전공역량": "윤리적 사회공헌",
                 "개설학과": "미디어학부",
                 "개설횟수": 0,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "이 강좌는 미디어, 정치, 시민 사이의 상호작용 과정과 그 효과를 탐색한다. 다양한 정치커뮤니케이션 이론과 모델을 통해 정치 미디어의 담론과 효과를 분석하고 궁극적으로 미디어가 정치 민주주의에서 담당해야 하는 규범적 역할을 이해한다. 초연결사회의 미디어 지형에 "
+                "syllabus_kr": "미디어 이용과 수용자 효과에 대한 각종 이론들을 배우고 비판적 미디어 소비자로서의 역량을 키운다.\t"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -833,21 +941,48 @@
             }
         },
         {
-            "id": "JMCO257",
+            "id": "JMCO375",
             "position": {
-                "x": 880,
+                "x": 1320,
+                "y": 100
+            },
+            "data": {
+                "label": "광고미디어전략과기획",
+                "학수번호": "JMCO375",
+                "세부전공": null,
+                "전공역량": "융합적 문제해결",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "광고는 TV, 신문, 잡지, 인터넷, 라디오 등 주요 전통 미디어뿐 아니라 인터넷, 모바일 등 디지털 미디어를 포함한 다양한 미디어를 활용하여 목표소비자에게 설득메시지를 전달하고 있다. 광고에서 활용하는 다양한 미디어의 특성, 미디어 전략의 수립, 실행, 미디어 기획과"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO377",
+            "position": {
+                "x": 1320,
                 "y": 200
             },
             "data": {
-                "label": "한국의문화와미디어",
-                "학수번호": "JMCO257",
+                "label": "미디어기술",
+                "학수번호": "JMCO377",
                 "세부전공": null,
-                "전공역량": "글로벌 의사소통",
+                "전공역량": "융합적 문제해결",
                 "개설학과": "미디어학부",
                 "개설횟수": 2,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "이 수업은 한국의 문화에 익숙하지 않은 유학생 및 교환학생들을 위해 특별히 디자인된 수업으로, 한국 영화, 방송, 음악, 저널리즘, 한류의 역사와 주요 쟁점을 논의한다."
+                "syllabus_kr": "인터넷, 모바일, 빅데이터, 로봇, 인공지능, 사물인터넷 등 주요 뉴미디어의 발전과정을 고찰하고 뉴미디어의 기술적, 산업적인 특성과 활용사례 및 미래 발전방향을 개관한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -860,21 +995,21 @@
             }
         },
         {
-            "id": "JMCO259",
+            "id": "JMCO379",
             "position": {
-                "x": 880,
+                "x": 1320,
                 "y": 300
             },
             "data": {
-                "label": "다문화사회와미디어",
-                "학수번호": "JMCO259",
+                "label": "미디어산업과융합",
+                "학수번호": "JMCO379",
                 "세부전공": null,
-                "전공역량": "글로벌 의사소통",
+                "전공역량": "융합적 문제해결",
                 "개설학과": "미디어학부",
                 "개설횟수": 2,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "다문화사회의 핵심 개념인 문화적 다양성을 둘러싼 주요 이슈를 인종과 섹슈얼리티를 중심으로 논의한다. 인종 및 성소수자의 개념이 형성되어 온 역사적 관점 뿐 아니라 차별금지법과 같은 법적 쟁점, 소수자우대정책과 같은 정책적 쟁점, 다문화 사회에서 미디어가 수행하 "
+                "syllabus_kr": "미디어산업의 확장과 진화를 이종 산업간 융합 즉 미디어산업과 전통산업과의 융합 현상으로 이해하고 분석한다. 구체적으로는 미디어산업과 의료산업, 미디어산업과 금융산업, 미디어산업과 자동차산업, 미디어산업과 교육산업의 융합 등을 기술의 융합, 비즈니스 모델의 융"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -887,21 +1022,21 @@
             }
         },
         {
-            "id": "JMCO267",
+            "id": "JMCO385",
             "position": {
-                "x": 880,
+                "x": 1320,
                 "y": 400
             },
             "data": {
-                "label": "광고의이해",
-                "학수번호": "JMCO267",
+                "label": "미디어비평",
+                "학수번호": "JMCO385",
                 "세부전공": null,
                 "전공역량": "창의적 사고표현",
                 "개설학과": "미디어학부",
-                "개설횟수": 1,
+                "개설횟수": 2,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "마케팅 커뮤니케이션의 주요 구성요인인 광고의 기본 개념, 주요 이론과 실제를 현대사회의 경제적, 사회적, 문화적, 미디어 환경과 관련하여 학습한다. 광고기획, 제작, 조사, 미디어전략 등 광고의 실무과정 전반과 광고학의 기본원리를 이해하여 광고에 대한 기본지식을  "
+                "syllabus_kr": "비평에 대한 개론 과목으로 현대 미디어에 대한 비판적인 접근법을 학습한다. 전통 미디어에서 최근 미디어까지 포괄하여 각 미디어별 특징에 기반한 비평을 배운다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -914,21 +1049,21 @@
             }
         },
         {
-            "id": "JMCO273",
+            "id": "JMCO387",
             "position": {
-                "x": 880,
+                "x": 1320,
                 "y": 500
             },
             "data": {
-                "label": "영화론",
-                "학수번호": "JMCO273",
+                "label": "영상이론",
+                "학수번호": "JMCO387",
                 "세부전공": null,
                 "전공역량": "창의적 사고표현",
                 "개설학과": "미디어학부",
                 "개설횟수": 2,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "현대 영상 미디어의 근간인 영화를 역사에서부터 문화, 산업적 관점에서 접근한다. 영화의 미디어적 특징과 세계 각국의 영화 역사, 문화 차이 등을 다룬다."
+                "syllabus_kr": "영상 미학 이론에 기반을 두고 현대 미디어 환경의 주요한 축인 영상이 가진 사회문화적 의미를 이해한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -941,21 +1076,21 @@
             }
         },
         {
-            "id": "JMCO275",
+            "id": "JMCO395",
             "position": {
-                "x": 880,
+                "x": 1320,
                 "y": 600
             },
             "data": {
-                "label": "영상콘텐츠기초제작실습",
-                "학수번호": "JMCO275",
+                "label": "드라마프로덕션",
+                "학수번호": "JMCO395",
                 "세부전공": null,
                 "전공역량": "창의적 사고표현",
                 "개설학과": "미디어학부",
-                "개설횟수": 2,
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "다양한 실습을 통해 영상 콘텐츠 제작 기초를 연마한다. 기획 단계부터 디자인, 연출까지 핵심적 제작 방법들을 단계별로 습득한다."
+                "syllabus_kr": "드라마제작에 관련된 제작 기초를 배우는 과정으로 대본 작성, 제작 기획, 다양한 제작 환경에서의 드라마 촬영, 연기 연출 등의 드라마적 요소들을 이해한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -968,21 +1103,21 @@
             }
         },
         {
-            "id": "JMCO277",
+            "id": "JMCO397",
             "position": {
-                "x": 880,
+                "x": 1320,
                 "y": 700
             },
             "data": {
-                "label": "저널리즘글쓰기",
-                "학수번호": "JMCO277",
+                "label": "미디어데이터마이닝",
+                "학수번호": "JMCO397",
                 "세부전공": null,
-                "전공역량": "창의적 사고표현",
+                "전공역량": "융합적 문제해결",
                 "개설학과": "미디어학부",
-                "개설횟수": 2,
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "신문, 방송, 온라인 등 다양한 매체를 위한 기본적인 기사 작성 능력을 함양한다."
+                "syllabus_kr": "데이터 마이닝에 대한 기본적인 개념과 구체적인 기법을 이해하고 숙지한다. 특히 미디어 관련 텍스트 데이터를 분석하고 질적인 자료를 수량화(Quantifying)하는 과정을 교육한다. 또한 분석결과를 제공하는 데이터 시각화에 대한 다양한 접근방법을 학습한다. "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1253,411 +1388,6 @@
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "본 강의는 최근 사회 전 영역에 걸쳐서 화두가 되고 있는 빅데이터 분석을 다양한 사회과학적 패러다임 속에서 논의하며 이해의 폭을 넓히고자 한다. 또한 미디어 및 커뮤니케이션 분야에서 활용가능한 빅데이터를 직접 수집해서 의미있는 분석 결과를 도출해 봄으로써 학생 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JMCO363",
-            "position": {
-                "x": 1320,
-                "y": 0
-            },
-            "data": {
-                "label": "미디어효과이론",
-                "학수번호": "JMCO363",
-                "세부전공": null,
-                "전공역량": "윤리적 사회공헌",
-                "개설학과": "미디어학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "미디어 이용과 수용자 효과에 대한 각종 이론들을 배우고 비판적 미디어 소비자로서의 역량을 키운다.\t"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JMCO375",
-            "position": {
-                "x": 1320,
-                "y": 100
-            },
-            "data": {
-                "label": "광고미디어전략과기획",
-                "학수번호": "JMCO375",
-                "세부전공": null,
-                "전공역량": "융합적 문제해결",
-                "개설학과": "미디어학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "광고는 TV, 신문, 잡지, 인터넷, 라디오 등 주요 전통 미디어뿐 아니라 인터넷, 모바일 등 디지털 미디어를 포함한 다양한 미디어를 활용하여 목표소비자에게 설득메시지를 전달하고 있다. 광고에서 활용하는 다양한 미디어의 특성, 미디어 전략의 수립, 실행, 미디어 기획과"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JMCO377",
-            "position": {
-                "x": 1320,
-                "y": 200
-            },
-            "data": {
-                "label": "미디어기술",
-                "학수번호": "JMCO377",
-                "세부전공": null,
-                "전공역량": "융합적 문제해결",
-                "개설학과": "미디어학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인터넷, 모바일, 빅데이터, 로봇, 인공지능, 사물인터넷 등 주요 뉴미디어의 발전과정을 고찰하고 뉴미디어의 기술적, 산업적인 특성과 활용사례 및 미래 발전방향을 개관한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JMCO379",
-            "position": {
-                "x": 1320,
-                "y": 300
-            },
-            "data": {
-                "label": "미디어산업과융합",
-                "학수번호": "JMCO379",
-                "세부전공": null,
-                "전공역량": "융합적 문제해결",
-                "개설학과": "미디어학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "미디어산업의 확장과 진화를 이종 산업간 융합 즉 미디어산업과 전통산업과의 융합 현상으로 이해하고 분석한다. 구체적으로는 미디어산업과 의료산업, 미디어산업과 금융산업, 미디어산업과 자동차산업, 미디어산업과 교육산업의 융합 등을 기술의 융합, 비즈니스 모델의 융"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JMCO385",
-            "position": {
-                "x": 1320,
-                "y": 400
-            },
-            "data": {
-                "label": "미디어비평",
-                "학수번호": "JMCO385",
-                "세부전공": null,
-                "전공역량": "창의적 사고표현",
-                "개설학과": "미디어학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "비평에 대한 개론 과목으로 현대 미디어에 대한 비판적인 접근법을 학습한다. 전통 미디어에서 최근 미디어까지 포괄하여 각 미디어별 특징에 기반한 비평을 배운다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JMCO387",
-            "position": {
-                "x": 1320,
-                "y": 500
-            },
-            "data": {
-                "label": "영상이론",
-                "학수번호": "JMCO387",
-                "세부전공": null,
-                "전공역량": "창의적 사고표현",
-                "개설학과": "미디어학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "영상 미학 이론에 기반을 두고 현대 미디어 환경의 주요한 축인 영상이 가진 사회문화적 의미를 이해한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JMCO395",
-            "position": {
-                "x": 1320,
-                "y": 600
-            },
-            "data": {
-                "label": "드라마프로덕션",
-                "학수번호": "JMCO395",
-                "세부전공": null,
-                "전공역량": "창의적 사고표현",
-                "개설학과": "미디어학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "드라마제작에 관련된 제작 기초를 배우는 과정으로 대본 작성, 제작 기획, 다양한 제작 환경에서의 드라마 촬영, 연기 연출 등의 드라마적 요소들을 이해한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JMCO397",
-            "position": {
-                "x": 1320,
-                "y": 700
-            },
-            "data": {
-                "label": "미디어데이터마이닝",
-                "학수번호": "JMCO397",
-                "세부전공": null,
-                "전공역량": "융합적 문제해결",
-                "개설학과": "미디어학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "데이터 마이닝에 대한 기본적인 개념과 구체적인 기법을 이해하고 숙지한다. 특히 미디어 관련 텍스트 데이터를 분석하고 질적인 자료를 수량화(Quantifying)하는 과정을 교육한다. 또한 분석결과를 제공하는 데이터 시각화에 대한 다양한 접근방법을 학습한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JMCO414",
-            "position": {
-                "x": 1980,
-                "y": 0
-            },
-            "data": {
-                "label": "미디어연구방법",
-                "학수번호": "JMCO414",
-                "세부전공": null,
-                "전공역량": "융합적 문제해결",
-                "개설학과": "미디어학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "미디어 연구를 설계하고 적합한 방법론을 선정, 활용하는 과정을 학습한다. 이를 위해 다양한 질적, 양적 방법론을 소개하고 각 방법론의 실제적인 적용사례를 분석하며 방법론을 활용하기 위한 통계적 기법이나 도구들을 숙지한다.  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JMCO444",
-            "position": {
-                "x": 1980,
-                "y": 100
-            },
-            "data": {
-                "label": "미디어법과윤리",
-                "학수번호": "JMCO444",
-                "세부전공": null,
-                "전공역량": "윤리적 사회공헌",
-                "개설학과": "미디어학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "언론 자유, 명예훼손, 프라이버시, 알 권리 등 언론보도와 관련된 윤리적 딜레마와 법적 쟁점을 논의하고, 정부, 기업 및 미디어 이용자들이 디지털 테크놀로지를 활용하면서 발생하는 법적 이슈들과 사례들을 분석한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JMCO446",
-            "position": {
-                "x": 1980,
-                "y": 200
-            },
-            "data": {
-                "label": "광고캠페인",
-                "학수번호": "JMCO446",
-                "세부전공": null,
-                "전공역량": "창의적 사고표현",
-                "개설학과": "미디어학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "광고에 관한 다양한 개념과 이론을 실제 전략 수립과 시행에 적용하여 광고 기획, 제작의 전체 과정에 대한 실무적 훈련을 습득한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JMCO448",
-            "position": {
-                "x": 1980,
-                "y": 300
-            },
-            "data": {
-                "label": "전략커뮤니케이션리서치",
-                "학수번호": "JMCO448",
-                "세부전공": null,
-                "전공역량": "글로벌 의사소통",
-                "개설학과": "미디어학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "전통적인 설득 전략 뿐만 아니라 내러티브나 게임과 같은 엔터테인먼트를 활용한 새로운 형태의 전략적 커뮤니케이션의 효과를 평가할 수 있는 리서치 방법을 학습한다. 이후 프로젝트를 통해 상업적 캠페인이나 공공 캠페인 현실에 적용 가능한 리서치 기획과 수행 능력을  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JMCO452",
-            "position": {
-                "x": 1980,
-                "y": 400
-            },
-            "data": {
-                "label": "미디어정책",
-                "학수번호": "JMCO452",
-                "세부전공": null,
-                "전공역량": "융합적 문제해결",
-                "개설학과": "미디어학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "미디어정책과 규제의 필요성에 대한 다양한 시각과 논쟁을 검토하고, 진입규제, 소유·겸영규제, 내용·편성·광고규제, 경쟁규제 등 국내외 미디어 관련 시장에서 발생하는 정부 규제 현안 과 정책 이슈들을 비판적으로 분석하여 바람직한 미디어정책·규제 방향을 설계한다"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JMCO458",
-            "position": {
-                "x": 1980,
-                "y": 500
-            },
-            "data": {
-                "label": "미디어제작워크샵Ⅲ",
-                "학수번호": "JMCO458",
-                "세부전공": null,
-                "전공역량": "창의적 사고표현",
-                "개설학과": "미디어학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "문화, 기술 변화에 따라 진화하는 다양한 형태의 미디어 제작을 경험할 수 있도록 특별한 분야를 선정해 제작 워크샵을 제공하는 강좌 중 하나이다._x000D_\n예를 들어 수강생들은 방송 프로그램 구성작법을 학습하고 몇 회차의 프로그램을 완성해 자신의 작품 포트폴리오를 만들 수"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JMCO462",
-            "position": {
-                "x": 1980,
-                "y": 600
-            },
-            "data": {
-                "label": "미디어·커뮤니케이션특강Ⅱ",
-                "학수번호": "JMCO462",
-                "세부전공": null,
-                "전공역량": "윤리적 사회공헌",
-                "개설학과": "미디어학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "미디어 및 커뮤니케이션과 관련된 특별한 주제를 선정해 심화 학습하는 강좌 중 하나이다. 학생들에게 필요한 이슈와 교수의 전문성을 고려해 학기마다 새로운 강의가 제공될 수 있다. 예를 들어 로봇저널리즘과 같은 특별 주제의 강의를 한 학기 제공할 수 있다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1989,6 +1719,276 @@
             "style": {
                 "backgroundColor": "#f8f8f8",
                 "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO414",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "data": {
+                "label": "미디어연구방법",
+                "학수번호": "JMCO414",
+                "세부전공": null,
+                "전공역량": "융합적 문제해결",
+                "개설학과": "미디어학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "미디어 연구를 설계하고 적합한 방법론을 선정, 활용하는 과정을 학습한다. 이를 위해 다양한 질적, 양적 방법론을 소개하고 각 방법론의 실제적인 적용사례를 분석하며 방법론을 활용하기 위한 통계적 기법이나 도구들을 숙지한다.  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO444",
+            "position": {
+                "x": 1980,
+                "y": 100
+            },
+            "data": {
+                "label": "미디어법과윤리",
+                "학수번호": "JMCO444",
+                "세부전공": null,
+                "전공역량": "윤리적 사회공헌",
+                "개설학과": "미디어학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "언론 자유, 명예훼손, 프라이버시, 알 권리 등 언론보도와 관련된 윤리적 딜레마와 법적 쟁점을 논의하고, 정부, 기업 및 미디어 이용자들이 디지털 테크놀로지를 활용하면서 발생하는 법적 이슈들과 사례들을 분석한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO446",
+            "position": {
+                "x": 1980,
+                "y": 200
+            },
+            "data": {
+                "label": "광고캠페인",
+                "학수번호": "JMCO446",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "광고에 관한 다양한 개념과 이론을 실제 전략 수립과 시행에 적용하여 광고 기획, 제작의 전체 과정에 대한 실무적 훈련을 습득한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO448",
+            "position": {
+                "x": 1980,
+                "y": 300
+            },
+            "data": {
+                "label": "전략커뮤니케이션리서치",
+                "학수번호": "JMCO448",
+                "세부전공": null,
+                "전공역량": "글로벌 의사소통",
+                "개설학과": "미디어학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "전통적인 설득 전략 뿐만 아니라 내러티브나 게임과 같은 엔터테인먼트를 활용한 새로운 형태의 전략적 커뮤니케이션의 효과를 평가할 수 있는 리서치 방법을 학습한다. 이후 프로젝트를 통해 상업적 캠페인이나 공공 캠페인 현실에 적용 가능한 리서치 기획과 수행 능력을  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO452",
+            "position": {
+                "x": 1980,
+                "y": 400
+            },
+            "data": {
+                "label": "미디어정책",
+                "학수번호": "JMCO452",
+                "세부전공": null,
+                "전공역량": "융합적 문제해결",
+                "개설학과": "미디어학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "미디어정책과 규제의 필요성에 대한 다양한 시각과 논쟁을 검토하고, 진입규제, 소유·겸영규제, 내용·편성·광고규제, 경쟁규제 등 국내외 미디어 관련 시장에서 발생하는 정부 규제 현안 과 정책 이슈들을 비판적으로 분석하여 바람직한 미디어정책·규제 방향을 설계한다"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO458",
+            "position": {
+                "x": 1980,
+                "y": 500
+            },
+            "data": {
+                "label": "미디어제작워크샵Ⅲ",
+                "학수번호": "JMCO458",
+                "세부전공": null,
+                "전공역량": "창의적 사고표현",
+                "개설학과": "미디어학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "문화, 기술 변화에 따라 진화하는 다양한 형태의 미디어 제작을 경험할 수 있도록 특별한 분야를 선정해 제작 워크샵을 제공하는 강좌 중 하나이다._x000D_\n예를 들어 수강생들은 방송 프로그램 구성작법을 학습하고 몇 회차의 프로그램을 완성해 자신의 작품 포트폴리오를 만들 수"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO462",
+            "position": {
+                "x": 1980,
+                "y": 600
+            },
+            "data": {
+                "label": "미디어·커뮤니케이션특강Ⅱ",
+                "학수번호": "JMCO462",
+                "세부전공": null,
+                "전공역량": "윤리적 사회공헌",
+                "개설학과": "미디어학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "미디어 및 커뮤니케이션과 관련된 특별한 주제를 선정해 심화 학습하는 강좌 중 하나이다. 학생들에게 필요한 이슈와 교수의 전문성을 고려해 학기마다 새로운 강의가 제공될 수 있다. 예를 들어 로봇저널리즘과 같은 특별 주제의 강의를 한 학기 제공할 수 있다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 550.0,
+                "y": 500
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 550.0,
+                "y": 600
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 550.0,
+                "y": 700
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }

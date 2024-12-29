@@ -185,37 +185,10 @@
             }
         },
         {
-            "id": "GELI005",
-            "position": {
-                "x": 440,
-                "y": 0
-            },
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 100
+                "y": 0
             },
             "data": {
                 "label": "글쓰기",
@@ -239,37 +212,10 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 300
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -296,7 +242,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 400
+                "y": 200
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -320,37 +266,10 @@
             }
         },
         {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "MATH161",
             "position": {
                 "x": 440,
-                "y": 600
+                "y": 300
             },
             "data": {
                 "label": "미적분학및연습I",
@@ -377,7 +296,7 @@
             "id": "EAES151",
             "position": {
                 "x": 440,
-                "y": 700
+                "y": 400
             },
             "data": {
                 "label": "지구환경과학및연습 I",
@@ -404,7 +323,7 @@
             "id": "EAES153",
             "position": {
                 "x": 440,
-                "y": 800
+                "y": 500
             },
             "data": {
                 "label": "지구환경과학실험 I",
@@ -431,7 +350,7 @@
             "id": "PHYS151",
             "position": {
                 "x": 440,
-                "y": 900
+                "y": 600
             },
             "data": {
                 "label": "일반물리학연습 I",
@@ -458,7 +377,7 @@
             "id": "PHYS161",
             "position": {
                 "x": 440,
-                "y": 1000
+                "y": 700
             },
             "data": {
                 "label": "일반물리학실험 I",
@@ -485,7 +404,7 @@
             "id": "CHEM151",
             "position": {
                 "x": 440,
-                "y": 1100
+                "y": 800
             },
             "data": {
                 "label": "일반화학및연습 I",
@@ -512,7 +431,7 @@
             "id": "CHEM153",
             "position": {
                 "x": 440,
-                "y": 1200
+                "y": 900
             },
             "data": {
                 "label": "일반화학실험 I",
@@ -1184,33 +1103,6 @@
             }
         },
         {
-            "id": "SCED303",
-            "position": {
-                "x": 1320,
-                "y": 600
-            },
-            "data": {
-                "label": "과학교과논리및논술",
-                "학수번호": "SCED303",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "이과대학",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "과학 지식 습득 과정에 필요한 논리적 서술 즉 말하기와 글쓰기 능력 습득"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #ccc",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "EAES304",
             "position": {
                 "x": 1540,
@@ -1395,6 +1287,195 @@
             "style": {
                 "backgroundColor": "#FFFFFF",
                 "border": "2px solid #ccc",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES403",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "data": {
+                "label": "환경과학실습 ",
+                "학수번호": "EAES403",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "천부지권의 환경 변화, 특히 지하수와 토양의 물리,화학적 특성을 분석하고 평가하기 위한 실험실 및 야외조사 방법들을 배운다. 주요 내용은 지표수, 지하수와 토양의 물리-화학분석법, 야외조사 방법, 취득 자료의 처리와 해석 방법 등이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES423",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "data": {
+                "label": "행성지질학",
+                "학수번호": "EAES423",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "행성, 위성, 소행성, 혜성 및 최근에 발견된 외계행성에 대해 알아보고자 한다. 최근 우주망원경을 이용하여 관측된 결과를 이용하여 암석형 행성 및 거대 기체 행성까지 다양한 행성의 내부 구조를 이해하고자 한다. 또한, 충돌에 의한 행성 및 달의 형성에 대해 알아보고자"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES405",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "data": {
+                "label": "응용광물학",
+                "학수번호": "EAES405",
+                "세부전공": null,
+                "전공역량": "창의적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES407",
+            "position": {
+                "x": 1760,
+                "y": 300
+            },
+            "data": {
+                "label": "지구원소순환",
+                "학수번호": "EAES407",
+                "세부전공": null,
+                "전공역량": "글로벌 리더십",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "산소, 탄소, 질소, 황, 할로겐 등 지구환경에 중요한 영향을 미치는 주요 원소들의 지구 표면에서 순환 과정을 학습한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES417",
+            "position": {
+                "x": 1760,
+                "y": 400
+            },
+            "data": {
+                "label": "지질방재공학",
+                "학수번호": "EAES417",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "지질재해가 인간에 미치는 영향을 줄이기 위해서는 지구물질과학, 화성암석학, 구조지질학, 수리지질학, 지구물리학, 지질공학 등 지질과학 분야에 대한 유기적이고 종합적인 이해가 필요하다. 지질재해가 인간에 미치는 영향을 줄이기 위해 필요한 지질학적 지식 및 지질공 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES419",
+            "position": {
+                "x": 1760,
+                "y": 500
+            },
+            "data": {
+                "label": "지구환경과학연구Ⅰ",
+                "학수번호": "EAES419",
+                "세부전공": null,
+                "전공역량": "글로벌 리더십",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "고체-지구와 유체-지구 관련된 지구시스템의 중요성을 종합적으로 이해하고, 실내와 야외 학습 병행을 통해 지구시스템과 관련된 자연현상을 통합적으로 이해하고 해석하는 방법을 학습한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES421",
+            "position": {
+                "x": 1760,
+                "y": 600
+            },
+            "data": {
+                "label": "현장실습Ⅰ",
+                "학수번호": "EAES421",
+                "세부전공": null,
+                "전공역량": "글로벌 리더십",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "학교와 현장실습기관 간 산학협력 관계를 기반으로 산·학·연이 연계된 현장경험학습"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1616,190 +1697,109 @@
             }
         },
         {
-            "id": "EAES403",
+            "id": "GELI005",
             "position": {
-                "x": 1760,
-                "y": 0
+                "x": 550.0,
+                "y": 1000
             },
             "data": {
-                "label": "환경과학실습 ",
-                "학수번호": "EAES403",
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
                 "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "지구환경과학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "천부지권의 환경 변화, 특히 지하수와 토양의 물리,화학적 특성을 분석하고 평가하기 위한 실험실 및 야외조사 방법들을 배운다. 주요 내용은 지표수, 지하수와 토양의 물리-화학분석법, 야외조사 방법, 취득 자료의 처리와 해석 방법 등이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EAES423",
-            "position": {
-                "x": 1760,
-                "y": 100
-            },
-            "data": {
-                "label": "행성지질학",
-                "학수번호": "EAES423",
-                "세부전공": null,
-                "전공역량": "융합적 사고",
-                "개설학과": "지구환경과학과",
+                "전공역량": null,
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "행성, 위성, 소행성, 혜성 및 최근에 발견된 외계행성에 대해 알아보고자 한다. 최근 우주망원경을 이용하여 관측된 결과를 이용하여 암석형 행성 및 거대 기체 행성까지 다양한 행성의 내부 구조를 이해하고자 한다. 또한, 충돌에 의한 행성 및 달의 형성에 대해 알아보고자"
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "EAES405",
+            "id": "IFLS800",
             "position": {
-                "x": 1760,
-                "y": 200
+                "x": 550.0,
+                "y": 1100
             },
             "data": {
-                "label": "응용광물학",
-                "학수번호": "EAES405",
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
                 "세부전공": null,
-                "전공역량": "창의적 사고",
-                "개설학과": "지구환경과학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EAES407",
-            "position": {
-                "x": 1760,
-                "y": 300
-            },
-            "data": {
-                "label": "지구원소순환",
-                "학수번호": "EAES407",
-                "세부전공": null,
-                "전공역량": "글로벌 리더십",
-                "개설학과": "지구환경과학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "산소, 탄소, 질소, 황, 할로겐 등 지구환경에 중요한 영향을 미치는 주요 원소들의 지구 표면에서 순환 과정을 학습한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EAES417",
-            "position": {
-                "x": 1760,
-                "y": 400
-            },
-            "data": {
-                "label": "지질방재공학",
-                "학수번호": "EAES417",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "지구환경과학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "지질재해가 인간에 미치는 영향을 줄이기 위해서는 지구물질과학, 화성암석학, 구조지질학, 수리지질학, 지구물리학, 지질공학 등 지질과학 분야에 대한 유기적이고 종합적인 이해가 필요하다. 지질재해가 인간에 미치는 영향을 줄이기 위해 필요한 지질학적 지식 및 지질공 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EAES419",
-            "position": {
-                "x": 1760,
-                "y": 500
-            },
-            "data": {
-                "label": "지구환경과학연구Ⅰ",
-                "학수번호": "EAES419",
-                "세부전공": null,
-                "전공역량": "글로벌 리더십",
-                "개설학과": "지구환경과학과",
+                "전공역량": null,
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "고체-지구와 유체-지구 관련된 지구시스템의 중요성을 종합적으로 이해하고, 실내와 야외 학습 병행을 통해 지구시스템과 관련된 자연현상을 통합적으로 이해하고 해석하는 방법을 학습한다."
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "EAES421",
+            "id": "GEBT001",
             "position": {
-                "x": 1760,
-                "y": 600
+                "x": 550.0,
+                "y": 1200
             },
             "data": {
-                "label": "현장실습Ⅰ",
-                "학수번호": "EAES421",
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
                 "세부전공": null,
-                "전공역량": "글로벌 리더십",
-                "개설학과": "지구환경과학과",
-                "개설횟수": 0,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "학교와 현장실습기관 간 산학협력 관계를 기반으로 산·학·연이 연계된 현장경험학습"
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SCED303",
+            "position": {
+                "x": 550.0,
+                "y": 1300
+            },
+            "data": {
+                "label": "과학교과논리및논술",
+                "학수번호": "SCED303",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "이과대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "과학 지식 습득 과정에 필요한 논리적 서술 즉 말하기와 글쓰기 능력 습득"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #ccc",
                 "borderRadius": "5px",
                 "padding": "10px"
             }

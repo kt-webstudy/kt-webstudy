@@ -185,37 +185,10 @@
             }
         },
         {
-            "id": "GELI005",
-            "position": {
-                "x": 440,
-                "y": 0
-            },
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 100
+                "y": 0
             },
             "data": {
                 "label": "글쓰기",
@@ -239,37 +212,10 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 300
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -296,7 +242,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 400
+                "y": 200
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -320,37 +266,10 @@
             }
         },
         {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "LESE151",
             "position": {
                 "x": 440,
-                "y": 600
+                "y": 300
             },
             "data": {
                 "label": "식품자원경제학개론",
@@ -377,7 +296,7 @@
             "id": "LESE153",
             "position": {
                 "x": 440,
-                "y": 700
+                "y": 400
             },
             "data": {
                 "label": "시장과경제",
@@ -752,6 +671,168 @@
             }
         },
         {
+            "id": "LESE307",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "data": {
+                "label": "애그리비지니스세미나",
+                "학수번호": "LESE307",
+                "세부전공": null,
+                "전공역량": "[창의·융합] 통합적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "농업의 전후방 산업을 포함하는 애그리비지니스의 발전 과정, 최근 동향,  그리고 향후 전망 등에 관하여 조사, 분석하고 토의한다. 본 강의는 학생들이 직접 참여하는 세미나 형식으로 운영되어, 학생들이 애그리비지니스에 대하여 보다 직접적이고 긴밀한 지식과 이해를 가"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE309",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "data": {
+                "label": "국제식품정책론",
+                "학수번호": "LESE309",
+                "세부전공": null,
+                "전공역량": "[창의·융합] 사회공헌",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "세계 농업 및 식품정책의 변화가 농업과 일반경제에 미치는 효과와 거시경제와 국민경제의 변화가 농업과 식품산업에 미치는 영향을 분석한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE313",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "data": {
+                "label": "불확실성과경제행위",
+                "학수번호": "LESE313",
+                "세부전공": null,
+                "전공역량": "[창의·융합] 통합적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "개인의 의사결정과 그것이 시장에 미치는 영향을 분석하는 미시경제분석에 주안점을 두고, 불확실성하의 경제분석에서의 기본개념과 실제 응용에 대해서 논의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE317",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "data": {
+                "label": "식품소비자경제학",
+                "학수번호": "LESE317",
+                "세부전공": null,
+                "전공역량": "[창의·융합] 통합적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "소비자의 식품소비행태 결정요인과, 기업의 마케팅과 정책에 의한 구매행위의 변화를 분석할 수 있는 방법론 강의_x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE319",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "data": {
+                "label": "응용재무경제학",
+                "학수번호": "LESE319",
+                "세부전공": null,
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "기업재무, 투자, 금융기관이 직면하는 다양한 문제를 해결하기 위한 경제 이론과 실증분석방법에 대해 강의한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE321",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "data": {
+                "label": "에너지경제론",
+                "학수번호": "LESE321",
+                "세부전공": null,
+                "전공역량": "[창의·융합] 문제해결",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "인류경제의 지속가능성을 위한 효율적인 에너지 체계의 달성이 요구되는 바, 다양한 에너지원의 수요 및 공급, 개발에 관한 이해능력과 응용방법을 소개한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "LESE302",
             "position": {
                 "x": 1540,
@@ -1022,102 +1103,21 @@
             }
         },
         {
-            "id": "LESE307",
+            "id": "LESE407",
             "position": {
-                "x": 1320,
+                "x": 1760,
                 "y": 0
             },
             "data": {
-                "label": "애그리비지니스세미나",
-                "학수번호": "LESE307",
+                "label": "부동산경제론",
+                "학수번호": "LESE407",
                 "세부전공": null,
-                "전공역량": "[창의·융합] 통합적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "농업의 전후방 산업을 포함하는 애그리비지니스의 발전 과정, 최근 동향,  그리고 향후 전망 등에 관하여 조사, 분석하고 토의한다. 본 강의는 학생들이 직접 참여하는 세미나 형식으로 운영되어, 학생들이 애그리비지니스에 대하여 보다 직접적이고 긴밀한 지식과 이해를 가"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE309",
-            "position": {
-                "x": 1320,
-                "y": 100
-            },
-            "data": {
-                "label": "국제식품정책론",
-                "학수번호": "LESE309",
-                "세부전공": null,
-                "전공역량": "[창의·융합] 사회공헌",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "세계 농업 및 식품정책의 변화가 농업과 일반경제에 미치는 효과와 거시경제와 국민경제의 변화가 농업과 식품산업에 미치는 영향을 분석한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE313",
-            "position": {
-                "x": 1320,
-                "y": 200
-            },
-            "data": {
-                "label": "불확실성과경제행위",
-                "학수번호": "LESE313",
-                "세부전공": null,
-                "전공역량": "[창의·융합] 통합적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "개인의 의사결정과 그것이 시장에 미치는 영향을 분석하는 미시경제분석에 주안점을 두고, 불확실성하의 경제분석에서의 기본개념과 실제 응용에 대해서 논의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE317",
-            "position": {
-                "x": 1320,
-                "y": 300
-            },
-            "data": {
-                "label": "식품소비자경제학",
-                "학수번호": "LESE317",
-                "세부전공": null,
-                "전공역량": "[창의·융합] 통합적사고",
+                "전공역량": "[창의·융합] 문제해결",
                 "개설학과": "식품자원경제학과",
                 "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "소비자의 식품소비행태 결정요인과, 기업의 마케팅과 정책에 의한 구매행위의 변화를 분석할 수 있는 방법론 강의_x000D_\n"
+                "syllabus_kr": "토지 및 주택 등 부동산에 대한 경제적 이론과 접근방법 그리고 지가문제, 주택문제, 국토계획과 부동산거래 등 부동산 관련 정책에 대해 강의한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1130,48 +1130,48 @@
             }
         },
         {
-            "id": "LESE319",
+            "id": "LESE411",
             "position": {
-                "x": 1320,
-                "y": 400
+                "x": 1760,
+                "y": 100
             },
             "data": {
-                "label": "응용재무경제학",
-                "학수번호": "LESE319",
+                "label": "응용경제세미나",
+                "학수번호": "LESE411",
+                "세부전공": null,
+                "전공역량": "[창의·융합] 문제해결",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "식품유통과 소비분석, 정보경제와 후생경제, 응용재무관리와 금융경제, 자원·환경경제, 보건의료경제, 식품·자원·보건정책, 국제무역과 국제금융시장, 애그리비지니스, 선물거래와 가격분석 등 응용경제학 분야에 관련된 주요 이슈들에 대해 토의와 강의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE413",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "data": {
+                "label": "법경제학",
+                "학수번호": "LESE413",
                 "세부전공": null,
                 "전공역량": "[전문·실용] 전문가적사고",
                 "개설학과": "식품자원경제학과",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "기업재무, 투자, 금융기관이 직면하는 다양한 문제를 해결하기 위한 경제 이론과 실증분석방법에 대해 강의한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE321",
-            "position": {
-                "x": 1320,
-                "y": 500
-            },
-            "data": {
-                "label": "에너지경제론",
-                "학수번호": "LESE321",
-                "세부전공": null,
-                "전공역량": "[창의·융합] 문제해결",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인류경제의 지속가능성을 위한 효율적인 에너지 체계의 달성이 요구되는 바, 다양한 에너지원의 수요 및 공급, 개발에 관한 이해능력과 응용방법을 소개한다._x000D_\n"
+                "syllabus_kr": "법경제학은 경제이론이 법, 제도 및 거래비용을 고려하지 않음으로 인해 발생하는 문제를 해결하기 위해 Coase의 거래비용 이론에 기초하여 법, 제도의 경제학적 분석을 공부한다. 구체적으로 사유재산권제도, 계약법, 불법행위법을 공부한다._x000D_\n_x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1292,82 +1292,82 @@
             }
         },
         {
-            "id": "LESE407",
+            "id": "GELI005",
             "position": {
-                "x": 1760,
-                "y": 0
+                "x": 550.0,
+                "y": 500
             },
             "data": {
-                "label": "부동산경제론",
-                "학수번호": "LESE407",
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
                 "세부전공": null,
-                "전공역량": "[창의·융합] 문제해결",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 4,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "토지 및 주택 등 부동산에 대한 경제적 이론과 접근방법 그리고 지가문제, 주택문제, 국토계획과 부동산거래 등 부동산 관련 정책에 대해 강의한다._x000D_\n"
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "LESE411",
+            "id": "IFLS800",
             "position": {
-                "x": 1760,
-                "y": 100
+                "x": 550.0,
+                "y": 600
             },
             "data": {
-                "label": "응용경제세미나",
-                "학수번호": "LESE411",
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
                 "세부전공": null,
-                "전공역량": "[창의·융합] 문제해결",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 2,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "식품유통과 소비분석, 정보경제와 후생경제, 응용재무관리와 금융경제, 자원·환경경제, 보건의료경제, 식품·자원·보건정책, 국제무역과 국제금융시장, 애그리비지니스, 선물거래와 가격분석 등 응용경제학 분야에 관련된 주요 이슈들에 대해 토의와 강의한다._x000D_\n"
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "LESE413",
+            "id": "GEBT001",
             "position": {
-                "x": 1760,
-                "y": 200
+                "x": 550.0,
+                "y": 700
             },
             "data": {
-                "label": "법경제학",
-                "학수번호": "LESE413",
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
                 "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 5,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "법경제학은 경제이론이 법, 제도 및 거래비용을 고려하지 않음으로 인해 발생하는 문제를 해결하기 위해 Coase의 거래비용 이론에 기초하여 법, 제도의 경제학적 분석을 공부한다. 구체적으로 사유재산권제도, 계약법, 불법행위법을 공부한다._x000D_\n_x000D_\n"
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }

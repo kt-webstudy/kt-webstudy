@@ -185,37 +185,10 @@
             }
         },
         {
-            "id": "GELI005",
-            "position": {
-                "x": 440,
-                "y": 0
-            },
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 100
+                "y": 0
             },
             "data": {
                 "label": "글쓰기",
@@ -239,37 +212,10 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 300
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -296,7 +242,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 400
+                "y": 200
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -320,37 +266,10 @@
             }
         },
         {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "LIBS151",
             "position": {
                 "x": 440,
-                "y": 600
+                "y": 300
             },
             "data": {
                 "label": "일반생물학및연습 I",
@@ -377,7 +296,7 @@
             "id": "LIBS153",
             "position": {
                 "x": 440,
-                "y": 700
+                "y": 400
             },
             "data": {
                 "label": "일반생물학실험 I",
@@ -404,7 +323,7 @@
             "id": "LIET151",
             "position": {
                 "x": 440,
-                "y": 800
+                "y": 500
             },
             "data": {
                 "label": "화학의기초및연습 I",
@@ -431,7 +350,7 @@
             "id": "LIET155",
             "position": {
                 "x": 440,
-                "y": 900
+                "y": 600
             },
             "data": {
                 "label": "화학의기초실험 I",
@@ -458,7 +377,7 @@
             "id": "PHYS183",
             "position": {
                 "x": 440,
-                "y": 1000
+                "y": 700
             },
             "data": {
                 "label": "생명물리학및연습",
@@ -485,7 +404,7 @@
             "id": "PHYS161",
             "position": {
                 "x": 440,
-                "y": 1100
+                "y": 800
             },
             "data": {
                 "label": "일반물리학 실험 I",
@@ -1260,87 +1179,6 @@
             "style": {
                 "backgroundColor": "#f8f8f8",
                 "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBS393",
-            "position": {
-                "x": 1320,
-                "y": 700
-            },
-            "data": {
-                "label": "생물교과교육론",
-                "학수번호": "LIBS393",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명과학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "중,고교 생물교과의 교육목적을 달성하기 위한 교수이론과 학습이론을 강의, 지도한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #ccc",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SCED303",
-            "position": {
-                "x": 1320,
-                "y": 800
-            },
-            "data": {
-                "label": "과학교과논리및논술",
-                "학수번호": "SCED303",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "이과대학",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "과학 지식 습득 과정에 필요한 논리적 서술 즉 말하기와 글쓰기 능력 습득"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #ccc",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBS394",
-            "position": {
-                "x": 1320,
-                "y": 900
-            },
-            "data": {
-                "label": "생물교과교재연구및지도법",
-                "학수번호": "LIBS394",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명과학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "중,고등학교에서 생물교육을 하기 위해서 생물교과목에 관한 교재의 연구와 교안작성, 학습지도의 방법, 평가방법 등을 강의하고 실기를 연습하게 한다.\t\t\t\t_x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #ccc",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -2259,6 +2097,168 @@
             "style": {
                 "backgroundColor": "#f8f8f8",
                 "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 550.0,
+                "y": 900
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 550.0,
+                "y": 1000
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 550.0,
+                "y": 1100
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS393",
+            "position": {
+                "x": 550.0,
+                "y": 1200
+            },
+            "data": {
+                "label": "생물교과교육론",
+                "학수번호": "LIBS393",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "중,고교 생물교과의 교육목적을 달성하기 위한 교수이론과 학습이론을 강의, 지도한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #ccc",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SCED303",
+            "position": {
+                "x": 550.0,
+                "y": 1300
+            },
+            "data": {
+                "label": "과학교과논리및논술",
+                "학수번호": "SCED303",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "이과대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "과학 지식 습득 과정에 필요한 논리적 서술 즉 말하기와 글쓰기 능력 습득"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #ccc",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS394",
+            "position": {
+                "x": 550.0,
+                "y": 1400
+            },
+            "data": {
+                "label": "생물교과교재연구및지도법",
+                "학수번호": "LIBS394",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "중,고등학교에서 생물교육을 하기 위해서 생물교과목에 관한 교재의 연구와 교안작성, 학습지도의 방법, 평가방법 등을 강의하고 실기를 연습하게 한다.\t\t\t\t_x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #ccc",
                 "borderRadius": "5px",
                 "padding": "10px"
             }

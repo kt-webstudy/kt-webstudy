@@ -212,226 +212,10 @@
             }
         },
         {
-            "id": "CPSE100",
-            "position": {
-                "x": 440,
-                "y": 100
-            },
-            "data": {
-                "label": "사회과학융합세미나",
-                "학수번호": "CPSE100",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "정경대학",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": "개설학과 - 정경대학",
-                "syllabus_kr": "- 이 과목은 정치외교학, 경제학, 통계학, 행정학 등의 사회과학 분야를 융합하여 학생들에게 현대 사회의 복잡한 문제들을 다학제적 관점에서 분석하고 해결하는 방법을 제공_x000D_\n- 이론적 학습과 실제 사례 연구를 통해 학생들은 다양한 사회과학 분야의 지식을 종합적으로 습"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JURA208",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
-            "data": {
-                "label": "국제법총론",
-                "학수번호": "JURA208",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "법학전문대학원",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JURA305",
-            "position": {
-                "x": 440,
-                "y": 300
-            },
-            "data": {
-                "label": "행정법총론",
-                "학수번호": "JURA305",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "법학전문대학원",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JURA306",
-            "position": {
-                "x": 440,
-                "y": 400
-            },
-            "data": {
-                "label": "행정법각론",
-                "학수번호": "JURA306",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "법학전문대학원",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JURA309",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "data": {
-                "label": "국제법각론",
-                "학수번호": "JURA309",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "법학전문대학원",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JURA330",
-            "position": {
-                "x": 440,
-                "y": 600
-            },
-            "data": {
-                "label": "경제법",
-                "학수번호": "JURA330",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "법학전문대학원",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "국가의 경제규제에 관한 법을 다루는 강좌로서,독점규제를 주된 강의 내용으로 하고, 기타 금융규제나 물가규제도 포함한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JURA485",
-            "position": {
-                "x": 440,
-                "y": 700
-            },
-            "data": {
-                "label": "금융법",
-                "학수번호": "JURA485",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "법학전문대학원",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 440,
-                "y": 800
-            },
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 900
+                "y": 100
             },
             "data": {
                 "label": "글쓰기",
@@ -455,37 +239,10 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 1000
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 1100
+                "y": 200
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -512,7 +269,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 1200
+                "y": 300
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -524,33 +281,6 @@
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 1300
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -666,303 +396,6 @@
             "style": {
                 "backgroundColor": "#C8E6C9",
                 "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ECON174",
-            "position": {
-                "x": 1100,
-                "y": 0
-            },
-            "data": {
-                "label": "경제의통계분석",
-                "학수번호": "ECON174",
-                "세부전공": null,
-                "전공역량": "국제환경변화에대한능동적대처",
-                "개설학과": "경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "경제자료들의 본질적 특성과 상호관계를 체계적으로 분석하기 위한 통계학의 기본적인 개념들을 소개한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ECON202",
-            "position": {
-                "x": 1100,
-                "y": 100
-            },
-            "data": {
-                "label": "거시경제이론",
-                "학수번호": "ECON202",
-                "세부전공": null,
-                "전공역량": "사회적문제의이해와공감",
-                "개설학과": "경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "국가 경제에서 국민 소득, 고용량, 이자율, 환율, 인플레이션, 국제수지 등이 어떠한 원리로 결정되고 상호간에는 어떠한 관련이 있는 지를 연구한다. 금융 이론, 경기 변동, 경제성장, 개방 경제 거시의 기초 이론을 강의하며 거시 경제 정책의 효과를 중심으로 최근의 한국"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ECON207",
-            "position": {
-                "x": 1100,
-                "y": 200
-            },
-            "data": {
-                "label": "시장경제의이해",
-                "학수번호": "ECON207",
-                "세부전공": null,
-                "전공역량": "경제현상에대한통시적,융합적이해",
-                "개설학과": "경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "시장경제체제의 필요성과 장점을 이해시키기 위해 현실경험이 풍부한 각 분야의 전문가 중심의 외부강사 위주의 팀티칭으로 강의가 진행된다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ECON332",
-            "position": {
-                "x": 1100,
-                "y": 300
-            },
-            "data": {
-                "label": "한국현대경제사",
-                "학수번호": "ECON332",
-                "세부전공": null,
-                "전공역량": "경제현상에대한통시적,융합적이해",
-                "개설학과": "경제학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ECON334",
-            "position": {
-                "x": 1100,
-                "y": 400
-            },
-            "data": {
-                "label": "조세론",
-                "학수번호": "ECON334",
-                "세부전공": null,
-                "전공역량": "경제현상에대한통시적,융합적이해",
-                "개설학과": "경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "재정학 중 조세 부문을 집중적으로 다루는 과목으로서 정부수입, 조세제도 및 정책, 조세의 전가와 효과 및 각종 조세의 각론을 그 내용으로 한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ECON356",
-            "position": {
-                "x": 1100,
-                "y": 500
-            },
-            "data": {
-                "label": "경제정책",
-                "학수번호": "ECON356",
-                "세부전공": null,
-                "전공역량": "응용능력과정책적사고",
-                "개설학과": "경제학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ECON371",
-            "position": {
-                "x": 1100,
-                "y": 600
-            },
-            "data": {
-                "label": "비주류의경제학",
-                "학수번호": "ECON371",
-                "세부전공": null,
-                "전공역량": "문제의식별과구조화",
-                "개설학과": "경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "신고전파 경제학으로 대표되는 주류경제학의 경제현상 이해와 분석기법 그리고 그 결과를 비판하면서, 그에 대한 대안으로서 포스트케인지언 (칼레츠키언과 스라피안 포함) 경제학을 논의한다. 경제성장과 소득분배, 화폐와 신용, 인플레이션, 가계의 의사결정, 기업의 가격 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH212",
-            "position": {
-                "x": 1100,
-                "y": 700
-            },
-            "data": {
-                "label": "해석학II및연습",
-                "학수번호": "MATH212",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "리만-스틸쩨스 적분, 함수열과 함수의 무한합, 균등 수렴, 푸리에 급수, 다변수 함수, 미분형식의 적분, 스톡스의 정리"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH222",
-            "position": {
-                "x": 1100,
-                "y": 800
-            },
-            "data": {
-                "label": "선형대수II및연습",
-                "학수번호": "MATH222",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "단독 선형사상의 이론, 쌍대 벡터공간과 다중 선형 대수, 직교 그리고 유니터리 변환."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH240",
-            "position": {
-                "x": 1100,
-                "y": 900
-            },
-            "data": {
-                "label": "미분방정식및연습",
-                "학수번호": "MATH240",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일차 상미분 방성식, 이차 선형 상미분 방정식, 이차 선형 상미분 방정식에 대한 급수해, 고차 선형 상미분 방정식, Laplace 변환"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "STAT232",
-            "position": {
-                "x": 1100,
-                "y": 1000
-            },
-            "data": {
-                "label": "수리통계학",
-                "학수번호": "STAT232",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "통계학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "통계학의 수리적인 기초를 논리적으로 전개하여 해석한다. 여기에는 확률변수, 변수변환, 표본분포, 추정 및 가설 검정의 이론을 포함한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1280,6 +713,303 @@
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "통계학의 기초를 이루는 확률의 개념과 확률적 사고, 확률 모형을 소개한다. 그리고 기대값, 적률생성 함수, 조건부 분포이론을 포함한 확률분포이론, 극한 정리 등을 수학한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON174",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "경제의통계분석",
+                "학수번호": "ECON174",
+                "세부전공": null,
+                "전공역량": "국제환경변화에대한능동적대처",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "경제자료들의 본질적 특성과 상호관계를 체계적으로 분석하기 위한 통계학의 기본적인 개념들을 소개한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON202",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "data": {
+                "label": "거시경제이론",
+                "학수번호": "ECON202",
+                "세부전공": null,
+                "전공역량": "사회적문제의이해와공감",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "국가 경제에서 국민 소득, 고용량, 이자율, 환율, 인플레이션, 국제수지 등이 어떠한 원리로 결정되고 상호간에는 어떠한 관련이 있는 지를 연구한다. 금융 이론, 경기 변동, 경제성장, 개방 경제 거시의 기초 이론을 강의하며 거시 경제 정책의 효과를 중심으로 최근의 한국"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON207",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "data": {
+                "label": "시장경제의이해",
+                "학수번호": "ECON207",
+                "세부전공": null,
+                "전공역량": "경제현상에대한통시적,융합적이해",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "시장경제체제의 필요성과 장점을 이해시키기 위해 현실경험이 풍부한 각 분야의 전문가 중심의 외부강사 위주의 팀티칭으로 강의가 진행된다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON332",
+            "position": {
+                "x": 1100,
+                "y": 300
+            },
+            "data": {
+                "label": "한국현대경제사",
+                "학수번호": "ECON332",
+                "세부전공": null,
+                "전공역량": "경제현상에대한통시적,융합적이해",
+                "개설학과": "경제학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON334",
+            "position": {
+                "x": 1100,
+                "y": 400
+            },
+            "data": {
+                "label": "조세론",
+                "학수번호": "ECON334",
+                "세부전공": null,
+                "전공역량": "경제현상에대한통시적,융합적이해",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "재정학 중 조세 부문을 집중적으로 다루는 과목으로서 정부수입, 조세제도 및 정책, 조세의 전가와 효과 및 각종 조세의 각론을 그 내용으로 한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON356",
+            "position": {
+                "x": 1100,
+                "y": 500
+            },
+            "data": {
+                "label": "경제정책",
+                "학수번호": "ECON356",
+                "세부전공": null,
+                "전공역량": "응용능력과정책적사고",
+                "개설학과": "경제학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON371",
+            "position": {
+                "x": 1100,
+                "y": 600
+            },
+            "data": {
+                "label": "비주류의경제학",
+                "학수번호": "ECON371",
+                "세부전공": null,
+                "전공역량": "문제의식별과구조화",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "신고전파 경제학으로 대표되는 주류경제학의 경제현상 이해와 분석기법 그리고 그 결과를 비판하면서, 그에 대한 대안으로서 포스트케인지언 (칼레츠키언과 스라피안 포함) 경제학을 논의한다. 경제성장과 소득분배, 화폐와 신용, 인플레이션, 가계의 의사결정, 기업의 가격 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH212",
+            "position": {
+                "x": 1100,
+                "y": 700
+            },
+            "data": {
+                "label": "해석학II및연습",
+                "학수번호": "MATH212",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "리만-스틸쩨스 적분, 함수열과 함수의 무한합, 균등 수렴, 푸리에 급수, 다변수 함수, 미분형식의 적분, 스톡스의 정리"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH222",
+            "position": {
+                "x": 1100,
+                "y": 800
+            },
+            "data": {
+                "label": "선형대수II및연습",
+                "학수번호": "MATH222",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "단독 선형사상의 이론, 쌍대 벡터공간과 다중 선형 대수, 직교 그리고 유니터리 변환."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH240",
+            "position": {
+                "x": 1100,
+                "y": 900
+            },
+            "data": {
+                "label": "미분방정식및연습",
+                "학수번호": "MATH240",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일차 상미분 방성식, 이차 선형 상미분 방정식, 이차 선형 상미분 방정식에 대한 급수해, 고차 선형 상미분 방정식, Laplace 변환"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT232",
+            "position": {
+                "x": 1100,
+                "y": 1000
+            },
+            "data": {
+                "label": "수리통계학",
+                "학수번호": "STAT232",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "통계학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "통계학의 수리적인 기초를 논리적으로 전개하여 해석한다. 여기에는 확률변수, 변수변환, 표본분포, 추정 및 가설 검정의 이론을 포함한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2451,6 +2181,276 @@
                 "borderRadius": "5px",
                 "padding": "10px"
             }
+        },
+        {
+            "id": "CPSE100",
+            "position": {
+                "x": 550.0,
+                "y": 400
+            },
+            "data": {
+                "label": "사회과학융합세미나",
+                "학수번호": "CPSE100",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "정경대학",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": "개설학과 - 정경대학",
+                "syllabus_kr": "- 이 과목은 정치외교학, 경제학, 통계학, 행정학 등의 사회과학 분야를 융합하여 학생들에게 현대 사회의 복잡한 문제들을 다학제적 관점에서 분석하고 해결하는 방법을 제공_x000D_\n- 이론적 학습과 실제 사례 연구를 통해 학생들은 다양한 사회과학 분야의 지식을 종합적으로 습"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 550.0,
+                "y": 500
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 550.0,
+                "y": 600
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 550.0,
+                "y": 700
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA208",
+            "position": {
+                "x": 550.0,
+                "y": 800
+            },
+            "data": {
+                "label": "국제법총론",
+                "학수번호": "JURA208",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA305",
+            "position": {
+                "x": 550.0,
+                "y": 900
+            },
+            "data": {
+                "label": "행정법총론",
+                "학수번호": "JURA305",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA306",
+            "position": {
+                "x": 550.0,
+                "y": 1000
+            },
+            "data": {
+                "label": "행정법각론",
+                "학수번호": "JURA306",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA309",
+            "position": {
+                "x": 550.0,
+                "y": 1100
+            },
+            "data": {
+                "label": "국제법각론",
+                "학수번호": "JURA309",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA330",
+            "position": {
+                "x": 550.0,
+                "y": 1200
+            },
+            "data": {
+                "label": "경제법",
+                "학수번호": "JURA330",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "국가의 경제규제에 관한 법을 다루는 강좌로서,독점규제를 주된 강의 내용으로 하고, 기타 금융규제나 물가규제도 포함한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA485",
+            "position": {
+                "x": 550.0,
+                "y": 1300
+            },
+            "data": {
+                "label": "금융법",
+                "학수번호": "JURA485",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
         }
     ],
     "edges": [
@@ -2473,6 +2473,78 @@
             "type": "step",
             "data": {
                 "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON201-ECON333",
+            "source": "ECON201",
+            "target": "ECON333",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS152-BUSS207",
+            "source": "BUSS152",
+            "target": "BUSS207",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS154-BUSS207",
+            "source": "BUSS154",
+            "target": "BUSS207",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS152-BUSS213",
+            "source": "BUSS152",
+            "target": "BUSS213",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT151-STAT221",
+            "source": "STAT151",
+            "target": "STAT221",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT201-STAT221",
+            "source": "STAT201",
+            "target": "STAT221",
+            "type": "step",
+            "data": {
+                "type": "recommended"
             },
             "markerEnd": {
                 "type": "ArrowClosed"
@@ -2527,6 +2599,54 @@
             }
         },
         {
+            "id": "recommended-ECON201-ECON334",
+            "source": "ECON201",
+            "target": "ECON334",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON150-ECON371",
+            "source": "ECON150",
+            "target": "ECON371",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT201-STAT232",
+            "source": "STAT201",
+            "target": "STAT232",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT221-STAT232",
+            "source": "STAT221",
+            "target": "STAT232",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
             "id": "recommended-ECON201-ECON240",
             "source": "ECON201",
             "target": "ECON240",
@@ -2542,18 +2662,6 @@
             "id": "recommended-ECON150-ECON244",
             "source": "ECON150",
             "target": "ECON244",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-ECON301-ECON302",
-            "source": "ECON301",
-            "target": "ECON302",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -2611,9 +2719,9 @@
             }
         },
         {
-            "id": "recommended-ECON201-ECON333",
+            "id": "recommended-ECON201-ECON354",
             "source": "ECON201",
-            "target": "ECON333",
+            "target": "ECON354",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -2623,9 +2731,57 @@
             }
         },
         {
-            "id": "recommended-ECON201-ECON334",
+            "id": "recommended-ECON202-ECON354",
+            "source": "ECON202",
+            "target": "ECON354",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON201-ECON360",
             "source": "ECON201",
-            "target": "ECON334",
+            "target": "ECON360",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON150-ECON366",
+            "source": "ECON150",
+            "target": "ECON366",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS152-BUSS354",
+            "source": "BUSS152",
+            "target": "BUSS354",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON301-ECON302",
+            "source": "ECON301",
+            "target": "ECON302",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -2671,42 +2827,6 @@
             }
         },
         {
-            "id": "recommended-ECON201-ECON354",
-            "source": "ECON201",
-            "target": "ECON354",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-ECON202-ECON354",
-            "source": "ECON202",
-            "target": "ECON354",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-ECON201-ECON360",
-            "source": "ECON201",
-            "target": "ECON360",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
             "id": "recommended-ECON201-ECON362",
             "source": "ECON201",
             "target": "ECON362",
@@ -2719,9 +2839,33 @@
             }
         },
         {
-            "id": "recommended-ECON150-ECON366",
-            "source": "ECON150",
-            "target": "ECON366",
+            "id": "required-BUSS207-BUSS386",
+            "source": "BUSS207",
+            "target": "BUSS386",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS207-BUSS386",
+            "source": "BUSS207",
+            "target": "BUSS386",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS254-BUSS386",
+            "source": "BUSS254",
+            "target": "BUSS386",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -2731,12 +2875,48 @@
             }
         },
         {
-            "id": "recommended-ECON150-ECON371",
-            "source": "ECON150",
-            "target": "ECON371",
+            "id": "recommended-BUSS254-BUSS386",
+            "source": "BUSS254",
+            "target": "BUSS386",
             "type": "step",
             "data": {
                 "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON173-ECON491",
+            "source": "ECON173",
+            "target": "ECON491",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON201-ECON491",
+            "source": "ECON201",
+            "target": "ECON491",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON202-ECON491",
+            "source": "ECON202",
+            "target": "ECON491",
+            "type": "step",
+            "data": {
+                "type": "required"
             },
             "markerEnd": {
                 "type": "ArrowClosed"
@@ -2863,42 +3043,6 @@
             }
         },
         {
-            "id": "required-ECON173-ECON491",
-            "source": "ECON173",
-            "target": "ECON491",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-ECON201-ECON491",
-            "source": "ECON201",
-            "target": "ECON491",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-ECON202-ECON491",
-            "source": "ECON202",
-            "target": "ECON491",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
             "id": "required-ECON174-ECON492",
             "source": "ECON174",
             "target": "ECON492",
@@ -3010,150 +3154,6 @@
             "id": "recommended-ECON301-ECON492",
             "source": "ECON301",
             "target": "ECON492",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-BUSS152-BUSS207",
-            "source": "BUSS152",
-            "target": "BUSS207",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-BUSS154-BUSS207",
-            "source": "BUSS154",
-            "target": "BUSS207",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-BUSS152-BUSS213",
-            "source": "BUSS152",
-            "target": "BUSS213",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-BUSS152-BUSS354",
-            "source": "BUSS152",
-            "target": "BUSS354",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-BUSS207-BUSS386",
-            "source": "BUSS207",
-            "target": "BUSS386",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-BUSS207-BUSS386",
-            "source": "BUSS207",
-            "target": "BUSS386",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-BUSS254-BUSS386",
-            "source": "BUSS254",
-            "target": "BUSS386",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-BUSS254-BUSS386",
-            "source": "BUSS254",
-            "target": "BUSS386",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-STAT151-STAT221",
-            "source": "STAT151",
-            "target": "STAT221",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-STAT201-STAT221",
-            "source": "STAT201",
-            "target": "STAT221",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-STAT201-STAT232",
-            "source": "STAT201",
-            "target": "STAT232",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-STAT221-STAT232",
-            "source": "STAT221",
-            "target": "STAT232",
             "type": "step",
             "data": {
                 "type": "recommended"

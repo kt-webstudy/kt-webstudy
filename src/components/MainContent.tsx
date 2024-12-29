@@ -15,6 +15,8 @@ const MainContent: React.FC<MainContentProps> = ({ department }) => {
   const [graphBounds, setGraphBounds] = useState({ width: 1000, height: 500 }); // 기본 높이와 너비
 
   useEffect(() => {
+    setNodes([]);
+    setEdges([]);
     if (department) {
       setLoading(true);
       import(`../assets/college/${department}.json`)

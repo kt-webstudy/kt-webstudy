@@ -185,91 +185,10 @@
             }
         },
         {
-            "id": "CPSE100",
-            "position": {
-                "x": 440,
-                "y": 0
-            },
-            "data": {
-                "label": "사회과학융합세미나",
-                "학수번호": "CPSE100",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "정경대학",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": "개설학과-정경대학",
-                "syllabus_kr": "- 이 과목은 정치외교학, 경제학, 통계학, 행정학 등의 사회과학 분야를 융합하여 학생들에게 현대 사회의 복잡한 문제들을 다학제적 관점에서 분석하고 해결하는 방법을 제공_x000D_\n- 이론적 학습과 실제 사례 연구를 통해 학생들은 다양한 사회과학 분야의 지식을 종합적으로 습"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JURA305",
-            "position": {
-                "x": 440,
-                "y": 100
-            },
-            "data": {
-                "label": "행정법총론",
-                "학수번호": "JURA305",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "법학전문대학원",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 300
+                "y": 0
             },
             "data": {
                 "label": "글쓰기",
@@ -293,37 +212,10 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 400
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 500
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -350,7 +242,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 600
+                "y": 200
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -374,21 +266,129 @@
             }
         },
         {
-            "id": "GEBT001",
+            "id": "PAPP240",
             "position": {
-                "x": 440,
-                "y": 700
+                "x": 660,
+                "y": 0
             },
             "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
+                "label": "조직이론",
+                "학수번호": "PAPP240",
+                "세부전공": null,
+                "전공역량": "공감력",
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "조직현상의 이해에 초점이 주어진다. 조직내적 요소간의 관계는 물론 조직과 환경간의 상호작용을 이해하는 것을 목적으로 한다. _x000D_\n주로 강의 형식으로 이루어진다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP244",
+            "position": {
+                "x": 660,
+                "y": 100
+            },
+            "data": {
+                "label": "민주주의와행정",
+                "학수번호": "PAPP244",
+                "세부전공": null,
+                "전공역량": "공감력",
+                "개설학과": "행정학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "민주주의와 관료제 간의 관계를 다룬다. 우선 관료제를 정의하고 외부감사, 공직윤리, 시민참여 등 행정통제의 다양한 유형과 방식을 논한다. 관료제 비판의 일반적인 논거들을 살펴보고 정부의 개혁과 개선을 위해 고안·추진되어야 할 조치들을 처방적으로 논의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP352",
+            "position": {
+                "x": 660,
+                "y": 200
+            },
+            "data": {
+                "label": "통치제도와정책",
+                "학수번호": "PAPP352",
+                "세부전공": null,
+                "전공역량": "통섭력",
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 주요 국가 정책을 중심으로 대통령과 관료제를 포함한 행정조직의 관계를 설명하고, 대통령의 국정운영과정을 분석한다. 특히 정책결정과정에서 나타나는 대통령의 리더십과 행정조직 및 의회와 정당과의 관계, 이를 구성하는 다양한 조직구성원들이 상호간에 어떠"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 300
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 II",
+                "학수번호": "GEKS008",
                 "세부전공": null,
                 "전공역량": null,
                 "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅱ는 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 학교에 대한 소속감을 강화하고 창직 및 창업 등의 진로 방향성을 고민해볼 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 400
+            },
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "_x000D_\n이 과목은 데이터를 다루고 분석할 수 있는 역량과 인공지능 기술을 이해하고 자기의 일에 활용할 수 있는 방법을 학습하는 과정이다. 기초적인 데이터과학 및 인공지능 핵심 개념을 학습하고, 각 계열별 특성에 맞는 데이터를 활용한 실습을 통해 실제 데이터를 다루고 인"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -632,6 +632,195 @@
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "이 강의는 장래 공공관리자로서의 역할을 할 학생들이 현대국가에서 행정과 법의 관계를 이해하고 이를 실제사례의 해결에 적용할 수 있도록 하는 것을 목적으로 한다. 이 강의의 학습내용은 크게 세 가지로 이루어지는데 그 구체적인 내용은 다음과 같다. 첫째, 행정에 관한"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP242",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "행정통계분석",
+                "학수번호": "PAPP242",
+                "세부전공": null,
+                "전공역량": "변화주도",
+                "개설학과": "행정학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 학부 수준의 과목으로서 사회과학을 전공하는 학생들이 알아두어야 할 기본적인 통계학 지식을 습득한다. 구체적으로는 자료의 기술과 해석에서 알아야  될 사항, 설문조사에서 알아야 할 사항, 통계적 추론에서 알아야 할 사항들에 대하여 배운다. 수식에 의한 설"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP246",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "data": {
+                "label": "소수자정책",
+                "학수번호": "PAPP246",
+                "세부전공": null,
+                "전공역량": "통섭력",
+                "개설학과": "행정학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은‘정의,’‘평등,’ ‘자유’ 등의 규범적 관점에서 소수자정책을 살펴봄으로써, 소수자의 정의, 평등과 자유 증진을 위해 어떤 논점과 논쟁이 있는지 탐색해 보는 것을 목적으로 한다. 본 수업의 주요 논의 대상은 여성, 장애인, 이주민(다문화집단) 등이다. 수업 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP345",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "data": {
+                "label": "정부와시민사회",
+                "학수번호": "PAPP345",
+                "세부전공": null,
+                "전공역량": "통섭력",
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "시민사회와 정부의 관계를 다룬다. 시민사회의 개념화와 설명, 행정과 정책에서 시민사회의 중요성, 시민사회와 시민참여, 시민사회와 사회자본, 시민사회-정부 관계의 유형, ‘범지구적 시민사회,’ 시민사회와 민주주의 등의 주제를 체계적으로 고찰한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP351",
+            "position": {
+                "x": 1100,
+                "y": 300
+            },
+            "data": {
+                "label": "정부부패",
+                "학수번호": "PAPP351",
+                "세부전공": null,
+                "전공역량": "혁신적사고",
+                "개설학과": "행정학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "부패가 발생하는 다양한 원인을 이해하고, 부패가 미치는 행정, 정치, 경제, 사회적 영향을 실증적으로 분석한다. 그리고 부패를 감소시키기 위한 개혁방안과  전략을 고찰한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP353",
+            "position": {
+                "x": 1100,
+                "y": 400
+            },
+            "data": {
+                "label": "공공정책형성",
+                "학수번호": "PAPP353",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "공공기관이 현대의 복잡한 사회문제들을 선별적으로 인지하여 그 특성을 정의하는 의제화 과정과 문제해결을 위한 정책대안을 결정해 나가는 과정에 대하여 이론적 설명과 실증적 토론을 통해 체계적이고 심화된 이해를 획득한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP358",
+            "position": {
+                "x": 1100,
+                "y": 500
+            },
+            "data": {
+                "label": "조직행태론",
+                "학수번호": "PAPP358",
+                "세부전공": null,
+                "전공역량": "혁신적사고",
+                "개설학과": "행정학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "  본 수업의 목적은 개인, 집단, 조직의 행태를 조직행동적 및 조직심리적 관점에서 이해하고 해석할 수 있도록, 관련 이론과 지식을 소개하고 실제 사례를 검토하고 적용하는 데에 있다. 본 수업에서는 지금까지 발전해 온 조직이론과 행태론에 조직심리학적 관점을 추가하 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP372",
+            "position": {
+                "x": 1100,
+                "y": 600
+            },
+            "data": {
+                "label": "공공관리자를위한행정법II",
+                "학수번호": "PAPP372",
+                "세부전공": null,
+                "전공역량": "통섭력",
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": " 이 강의는 장래 공공관리자로서의 역할을 할 학생들이 현대국가의 다양한 행정분야와 각각의 분야에 대한 법이론 및 현행법의 특성을 이해하고,  이를 다양한 행정영역의 법적 문제 해결에 적용할 수 있도록 하는 것을 목적으로 한다. 이 강의의 학습내용은 크게 세 가지로 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1616,102 +1805,21 @@
             }
         },
         {
-            "id": "PAPP240",
+            "id": "GELI005",
             "position": {
-                "x": 660,
-                "y": 0
+                "x": 550.0,
+                "y": 500
             },
             "data": {
-                "label": "조직이론",
-                "학수번호": "PAPP240",
-                "세부전공": null,
-                "전공역량": "공감력",
-                "개설학과": "행정학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "조직현상의 이해에 초점이 주어진다. 조직내적 요소간의 관계는 물론 조직과 환경간의 상호작용을 이해하는 것을 목적으로 한다. _x000D_\n주로 강의 형식으로 이루어진다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PAPP244",
-            "position": {
-                "x": 660,
-                "y": 100
-            },
-            "data": {
-                "label": "민주주의와행정",
-                "학수번호": "PAPP244",
-                "세부전공": null,
-                "전공역량": "공감력",
-                "개설학과": "행정학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "민주주의와 관료제 간의 관계를 다룬다. 우선 관료제를 정의하고 외부감사, 공직윤리, 시민참여 등 행정통제의 다양한 유형과 방식을 논한다. 관료제 비판의 일반적인 논거들을 살펴보고 정부의 개혁과 개선을 위해 고안·추진되어야 할 조치들을 처방적으로 논의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PAPP352",
-            "position": {
-                "x": 660,
-                "y": 200
-            },
-            "data": {
-                "label": "통치제도와정책",
-                "학수번호": "PAPP352",
-                "세부전공": null,
-                "전공역량": "통섭력",
-                "개설학과": "행정학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 주요 국가 정책을 중심으로 대통령과 관료제를 포함한 행정조직의 관계를 설명하고, 대통령의 국정운영과정을 분석한다. 특히 정책결정과정에서 나타나는 대통령의 리더십과 행정조직 및 의회와 정당과의 관계, 이를 구성하는 다양한 조직구성원들이 상호간에 어떠"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEKS008",
-            "position": {
-                "x": 660,
-                "y": 300
-            },
-            "data": {
-                "label": "[진로창업]1학년세미나 II",
-                "학수번호": "GEKS008",
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
                 "세부전공": null,
                 "전공역량": null,
                 "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "[진로·창업] 1학년세미나Ⅱ는 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 학교에 대한 소속감을 강화하고 창직 및 창업 등의 진로 방향성을 고민해볼 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여  "
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1724,216 +1832,108 @@
             }
         },
         {
-            "id": "GECT003",
+            "id": "IFLS800",
             "position": {
-                "x": 660,
-                "y": 400
-            },
-            "data": {
-                "label": "[진로창업]데이터과학과인공지능",
-                "학수번호": "GECT003",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "_x000D_\n이 과목은 데이터를 다루고 분석할 수 있는 역량과 인공지능 기술을 이해하고 자기의 일에 활용할 수 있는 방법을 학습하는 과정이다. 기초적인 데이터과학 및 인공지능 핵심 개념을 학습하고, 각 계열별 특성에 맞는 데이터를 활용한 실습을 통해 실제 데이터를 다루고 인"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PAPP242",
-            "position": {
-                "x": 1100,
-                "y": 0
-            },
-            "data": {
-                "label": "행정통계분석",
-                "학수번호": "PAPP242",
-                "세부전공": null,
-                "전공역량": "변화주도",
-                "개설학과": "행정학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 학부 수준의 과목으로서 사회과학을 전공하는 학생들이 알아두어야 할 기본적인 통계학 지식을 습득한다. 구체적으로는 자료의 기술과 해석에서 알아야  될 사항, 설문조사에서 알아야 할 사항, 통계적 추론에서 알아야 할 사항들에 대하여 배운다. 수식에 의한 설"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PAPP246",
-            "position": {
-                "x": 1100,
-                "y": 100
-            },
-            "data": {
-                "label": "소수자정책",
-                "학수번호": "PAPP246",
-                "세부전공": null,
-                "전공역량": "통섭력",
-                "개설학과": "행정학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 과목은‘정의,’‘평등,’ ‘자유’ 등의 규범적 관점에서 소수자정책을 살펴봄으로써, 소수자의 정의, 평등과 자유 증진을 위해 어떤 논점과 논쟁이 있는지 탐색해 보는 것을 목적으로 한다. 본 수업의 주요 논의 대상은 여성, 장애인, 이주민(다문화집단) 등이다. 수업 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PAPP345",
-            "position": {
-                "x": 1100,
-                "y": 200
-            },
-            "data": {
-                "label": "정부와시민사회",
-                "학수번호": "PAPP345",
-                "세부전공": null,
-                "전공역량": "통섭력",
-                "개설학과": "행정학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "시민사회와 정부의 관계를 다룬다. 시민사회의 개념화와 설명, 행정과 정책에서 시민사회의 중요성, 시민사회와 시민참여, 시민사회와 사회자본, 시민사회-정부 관계의 유형, ‘범지구적 시민사회,’ 시민사회와 민주주의 등의 주제를 체계적으로 고찰한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PAPP351",
-            "position": {
-                "x": 1100,
-                "y": 300
-            },
-            "data": {
-                "label": "정부부패",
-                "학수번호": "PAPP351",
-                "세부전공": null,
-                "전공역량": "혁신적사고",
-                "개설학과": "행정학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "부패가 발생하는 다양한 원인을 이해하고, 부패가 미치는 행정, 정치, 경제, 사회적 영향을 실증적으로 분석한다. 그리고 부패를 감소시키기 위한 개혁방안과  전략을 고찰한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PAPP353",
-            "position": {
-                "x": 1100,
-                "y": 400
-            },
-            "data": {
-                "label": "공공정책형성",
-                "학수번호": "PAPP353",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "행정학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "공공기관이 현대의 복잡한 사회문제들을 선별적으로 인지하여 그 특성을 정의하는 의제화 과정과 문제해결을 위한 정책대안을 결정해 나가는 과정에 대하여 이론적 설명과 실증적 토론을 통해 체계적이고 심화된 이해를 획득한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PAPP358",
-            "position": {
-                "x": 1100,
-                "y": 500
-            },
-            "data": {
-                "label": "조직행태론",
-                "학수번호": "PAPP358",
-                "세부전공": null,
-                "전공역량": "혁신적사고",
-                "개설학과": "행정학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "  본 수업의 목적은 개인, 집단, 조직의 행태를 조직행동적 및 조직심리적 관점에서 이해하고 해석할 수 있도록, 관련 이론과 지식을 소개하고 실제 사례를 검토하고 적용하는 데에 있다. 본 수업에서는 지금까지 발전해 온 조직이론과 행태론에 조직심리학적 관점을 추가하 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PAPP372",
-            "position": {
-                "x": 1100,
+                "x": 550.0,
                 "y": 600
             },
             "data": {
-                "label": "공공관리자를위한행정법II",
-                "학수번호": "PAPP372",
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
                 "세부전공": null,
-                "전공역량": "통섭력",
-                "개설학과": "행정학과",
-                "개설횟수": 5,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": " 이 강의는 장래 공공관리자로서의 역할을 할 학생들이 현대국가의 다양한 행정분야와 각각의 분야에 대한 법이론 및 현행법의 특성을 이해하고,  이를 다양한 행정영역의 법적 문제 해결에 적용할 수 있도록 하는 것을 목적으로 한다. 이 강의의 학습내용은 크게 세 가지로 "
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 550.0,
+                "y": 700
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CPSE100",
+            "position": {
+                "x": 550.0,
+                "y": 800
+            },
+            "data": {
+                "label": "사회과학융합세미나",
+                "학수번호": "CPSE100",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "정경대학",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": "개설학과-정경대학",
+                "syllabus_kr": "- 이 과목은 정치외교학, 경제학, 통계학, 행정학 등의 사회과학 분야를 융합하여 학생들에게 현대 사회의 복잡한 문제들을 다학제적 관점에서 분석하고 해결하는 방법을 제공_x000D_\n- 이론적 학습과 실제 사례 연구를 통해 학생들은 다양한 사회과학 분야의 지식을 종합적으로 습"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA305",
+            "position": {
+                "x": 550.0,
+                "y": 900
+            },
+            "data": {
+                "label": "행정법총론",
+                "학수번호": "JURA305",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
                 "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
@@ -1966,9 +1966,9 @@
             }
         },
         {
-            "id": "recommended-PAPP377-PAPP378",
-            "source": "PAPP377",
-            "target": "PAPP378",
+            "id": "recommended-PAPP242-PAPP379",
+            "source": "PAPP242",
+            "target": "PAPP379",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -1978,9 +1978,9 @@
             }
         },
         {
-            "id": "recommended-PAPP242-PAPP379",
-            "source": "PAPP242",
-            "target": "PAPP379",
+            "id": "recommended-PAPP377-PAPP378",
+            "source": "PAPP377",
+            "target": "PAPP378",
             "type": "step",
             "data": {
                 "type": "recommended"

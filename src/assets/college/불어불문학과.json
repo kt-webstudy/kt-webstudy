@@ -185,6 +185,357 @@
             }
         },
         {
+            "id": "FRAN231",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "data": {
+                "label": "프랑스문학의이해",
+                "학수번호": "FRAN231",
+                "세부전공": null,
+                "전공역량": "프랑스어문학심화역량",
+                "개설학과": "불어불문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "프랑스 문학의 주요 특징과 의의를 문학사의 장구한 흐름 속에서 조망해보고, 주요 작가들과 작품들을 역사적, 사상적인 배경과 같이 살펴보도록 한다. 불어불문학과 1학년 신입생들을 대상으로 프랑스 문학에 대한 관심을 고취시키고, 공감 능력과 윤리 의식의 확장을 통해 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN233",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "data": {
+                "label": "프랑스어의이해",
+                "학수번호": "FRAN233",
+                "세부전공": null,
+                "전공역량": "프랑스어소통역량",
+                "개설학과": "불어불문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "1학년 학생들을 대상으로 프랑스어의 역사적, 지리적, 문화적 배경을 소개하고, 프랑스어의 특수성을 전반적으로 소개한다. 세계 속의 프랑스어와 프랑스어권 공동체의 위상을 살펴보고, 한국에서 프랑스어를 배우는 이유에 대해 학생들이 스스로 생각해 볼 수 있는 기회를  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN171",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "프랑스어I",
+                "학수번호": "FRAN171",
+                "세부전공": null,
+                "전공역량": "프랑스어소통역량",
+                "개설학과": "불어불문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일상생활에 필요한 초·중급 수준의 기초적인 회화와 더불어 풍부한 어휘력을 키움으로써 말하기, 듣기, 읽기, 쓰기 능력을 함양하는 것을 목표로 한다. 학생들의 적극적인 참여를 위주로 진행되는 본 강의는 학생들이 프랑스어 소통 능력의 기초를 갖추도록 하는 데 주안점 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #ff3c3c",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN141",
+            "position": {
+                "x": 440,
+                "y": 600
+            },
+            "data": {
+                "label": "교양프랑스어I",
+                "학수번호": "FRAN141",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "불어불문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 1학기에는 <교양프랑스어I>로, 2학기에는 <교양프랑스어II>라는 강의명으로 1, 2학기 두 학기에 걸쳐 동일한 시청각 교재로 연속 진행된다. 그간 문법과 독해에 치중되었던 <교양프랑스어> 강의에서 벗어나, 학생들이 국제화시대에 대한 준비를 철저히 할 수 있도 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN224",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "data": {
+                "label": "프랑스학입문",
+                "학수번호": "FRAN224",
+                "세부전공": null,
+                "전공역량": "프랑스학창의역량",
+                "개설학과": "불어불문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "프랑스의 문화, 예술, 사회, 역사 등 프랑스 전반에 관한 폭넓은 지식을 습득하여 프랑스라는 나라를 이해하는 것을 목표로 하며, 다양한 정보와 지식을 서로 연결하고 확장하여 새로운 관점을 도출할 수 있는 토대를 마련한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN234",
+            "position": {
+                "x": 660,
+                "y": 100
+            },
+            "data": {
+                "label": "프랑스역사와문화의이해",
+                "학수번호": "FRAN234",
+                "세부전공": null,
+                "전공역량": "프랑스학창의역량",
+                "개설학과": "불어불문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "불어불문학과 1학년 학생들을 대상으로 프랑스의 역사 분야, 회화, 음악, 건축과 같은 예술 분야, 그리고 프랑스의 제도와 법, 프랑스인의 습성과 사회적 특성 등을 살펴본다. 전공지식 및 다학제적 소양을 갖추고 여러 분야의 지식과 기술을 통합할 수 있는 기초역량을 다진"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN172",
+            "position": {
+                "x": 660,
+                "y": 200
+            },
+            "data": {
+                "label": "프랑스어II",
+                "학수번호": "FRAN172",
+                "세부전공": null,
+                "전공역량": "프랑스어소통역량",
+                "개설학과": "불어불문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "프랑스어Ⅰ을 마친 학생들을 위한 중급 수준의 프랑스어Ⅱ 강의는 말하기, 듣기, 읽기, 쓰기 능력을 심화하는 것을 목표로 한다. 프랑스어 소통능력을 갖추는 것과 동시에 타자의 언어에 대한 이해를 바탕으로 다문화 포용 능력을 기르는 데에도 주안점을 둔다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #ff3c3c",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 300
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 II",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅱ는 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 학교에 대한 소속감을 강화하고 창직 및 창업 등의 진로 방향성을 고민해볼 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 400
+            },
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "_x000D_\n이 과목은 데이터를 다루고 분석할 수 있는 역량과 인공지능 기술을 이해하고 자기의 일에 활용할 수 있는 방법을 학습하는 과정이다. 기초적인 데이터과학 및 인공지능 핵심 개념을 학습하고, 각 계열별 특성에 맞는 데이터를 활용한 실습을 통해 실제 데이터를 다루고 인"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN142",
+            "position": {
+                "x": 660,
+                "y": 500
+            },
+            "data": {
+                "label": "교양프랑스어II",
+                "학수번호": "FRAN142",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "불어불문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 1학기에는 <교양프랑스어I>로, 2학기에는 <교양프랑스어II>라는 강의명으로 1, 2학기 두 학기에 걸쳐 동일한 시청각 교재로 연속 진행된다. 그간 문법과 독해에 치중되었던 <교양프랑스어> 강의에서 벗어나, 학생들이 국제화시대에 대한 준비를 철저히 할 수 있도 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "FRAN209",
             "position": {
                 "x": 880,
@@ -428,492 +779,6 @@
             }
         },
         {
-            "id": "FRAN224",
-            "position": {
-                "x": 660,
-                "y": 0
-            },
-            "data": {
-                "label": "프랑스학입문",
-                "학수번호": "FRAN224",
-                "세부전공": null,
-                "전공역량": "프랑스학창의역량",
-                "개설학과": "불어불문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "프랑스의 문화, 예술, 사회, 역사 등 프랑스 전반에 관한 폭넓은 지식을 습득하여 프랑스라는 나라를 이해하는 것을 목표로 하며, 다양한 정보와 지식을 서로 연결하고 확장하여 새로운 관점을 도출할 수 있는 토대를 마련한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "FRAN234",
-            "position": {
-                "x": 660,
-                "y": 100
-            },
-            "data": {
-                "label": "프랑스역사와문화의이해",
-                "학수번호": "FRAN234",
-                "세부전공": null,
-                "전공역량": "프랑스학창의역량",
-                "개설학과": "불어불문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "불어불문학과 1학년 학생들을 대상으로 프랑스의 역사 분야, 회화, 음악, 건축과 같은 예술 분야, 그리고 프랑스의 제도와 법, 프랑스인의 습성과 사회적 특성 등을 살펴본다. 전공지식 및 다학제적 소양을 갖추고 여러 분야의 지식과 기술을 통합할 수 있는 기초역량을 다진"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "FRAN172",
-            "position": {
-                "x": 660,
-                "y": 200
-            },
-            "data": {
-                "label": "프랑스어II",
-                "학수번호": "FRAN172",
-                "세부전공": null,
-                "전공역량": "프랑스어소통역량",
-                "개설학과": "불어불문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "프랑스어Ⅰ을 마친 학생들을 위한 중급 수준의 프랑스어Ⅱ 강의는 말하기, 듣기, 읽기, 쓰기 능력을 심화하는 것을 목표로 한다. 프랑스어 소통능력을 갖추는 것과 동시에 타자의 언어에 대한 이해를 바탕으로 다문화 포용 능력을 기르는 데에도 주안점을 둔다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEKS008",
-            "position": {
-                "x": 660,
-                "y": 300
-            },
-            "data": {
-                "label": "[진로창업]1학년세미나 II",
-                "학수번호": "GEKS008",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "[진로·창업] 1학년세미나Ⅱ는 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 학교에 대한 소속감을 강화하고 창직 및 창업 등의 진로 방향성을 고민해볼 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GECT003",
-            "position": {
-                "x": 660,
-                "y": 400
-            },
-            "data": {
-                "label": "[진로창업]데이터과학과인공지능",
-                "학수번호": "GECT003",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "_x000D_\n이 과목은 데이터를 다루고 분석할 수 있는 역량과 인공지능 기술을 이해하고 자기의 일에 활용할 수 있는 방법을 학습하는 과정이다. 기초적인 데이터과학 및 인공지능 핵심 개념을 학습하고, 각 계열별 특성에 맞는 데이터를 활용한 실습을 통해 실제 데이터를 다루고 인"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "FRAN142",
-            "position": {
-                "x": 660,
-                "y": 500
-            },
-            "data": {
-                "label": "교양프랑스어II",
-                "학수번호": "FRAN142",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "불어불문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 과목은 1학기에는 <교양프랑스어I>로, 2학기에는 <교양프랑스어II>라는 강의명으로 1, 2학기 두 학기에 걸쳐 동일한 시청각 교재로 연속 진행된다. 그간 문법과 독해에 치중되었던 <교양프랑스어> 강의에서 벗어나, 학생들이 국제화시대에 대한 준비를 철저히 할 수 있도 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "FRAN231",
-            "position": {
-                "x": 440,
-                "y": 0
-            },
-            "data": {
-                "label": "프랑스문학의이해",
-                "학수번호": "FRAN231",
-                "세부전공": null,
-                "전공역량": "프랑스어문학심화역량",
-                "개설학과": "불어불문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "프랑스 문학의 주요 특징과 의의를 문학사의 장구한 흐름 속에서 조망해보고, 주요 작가들과 작품들을 역사적, 사상적인 배경과 같이 살펴보도록 한다. 불어불문학과 1학년 신입생들을 대상으로 프랑스 문학에 대한 관심을 고취시키고, 공감 능력과 윤리 의식의 확장을 통해 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "FRAN233",
-            "position": {
-                "x": 440,
-                "y": 100
-            },
-            "data": {
-                "label": "프랑스어의이해",
-                "학수번호": "FRAN233",
-                "세부전공": null,
-                "전공역량": "프랑스어소통역량",
-                "개설학과": "불어불문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "1학년 학생들을 대상으로 프랑스어의 역사적, 지리적, 문화적 배경을 소개하고, 프랑스어의 특수성을 전반적으로 소개한다. 세계 속의 프랑스어와 프랑스어권 공동체의 위상을 살펴보고, 한국에서 프랑스어를 배우는 이유에 대해 학생들이 스스로 생각해 볼 수 있는 기회를  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "FRAN171",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
-            "data": {
-                "label": "프랑스어I",
-                "학수번호": "FRAN171",
-                "세부전공": null,
-                "전공역량": "프랑스어소통역량",
-                "개설학과": "불어불문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일상생활에 필요한 초·중급 수준의 기초적인 회화와 더불어 풍부한 어휘력을 키움으로써 말하기, 듣기, 읽기, 쓰기 능력을 함양하는 것을 목표로 한다. 학생들의 적극적인 참여를 위주로 진행되는 본 강의는 학생들이 프랑스어 소통 능력의 기초를 갖추도록 하는 데 주안점 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COLA173",
-            "position": {
-                "x": 440,
-                "y": 300
-            },
-            "data": {
-                "label": "디지털인문학응용",
-                "학수번호": "COLA173",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "문과대학",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "해당 과목은 디지털 시대에 문과 학생들이 필수적으로 알아야 할 다양한 기술이 인문학 분야에서 어떻게 응용되는지 직접 배우고 연습해보는 기회를 제공한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COLA200",
-            "position": {
-                "x": 440,
-                "y": 400
-            },
-            "data": {
-                "label": "인문융합세미나",
-                "학수번호": "COLA200",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "문과대학",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인문학을 중심으로 인문, 사회, 자연과학 등 타 학문 영역의 전문지식을 융합하는 세미나 형식으로 운영한다._x000D_\n※심화된 인문 융합 지식을 통섭하는 세미나로서 주관 학과의 전공과목에 준하는 수준으로 운영한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEWR002",
-            "position": {
-                "x": 440,
-                "y": 600
-            },
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 700
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEKS007",
-            "position": {
-                "x": 440,
-                "y": 800
-            },
-            "data": {
-                "label": "[진로창업]1학년세미나 I",
-                "학수번호": "GEKS007",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GECT002",
-            "position": {
-                "x": 440,
-                "y": 900
-            },
-            "data": {
-                "label": "[진로창업]SW프로그래밍의기초",
-                "학수번호": "GECT002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 1000
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "FRAN141",
-            "position": {
-                "x": 440,
-                "y": 1100
-            },
-            "data": {
-                "label": "교양프랑스어I",
-                "학수번호": "FRAN141",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "불어불문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 과목은 1학기에는 <교양프랑스어I>로, 2학기에는 <교양프랑스어II>라는 강의명으로 1, 2학기 두 학기에 걸쳐 동일한 시청각 교재로 연속 진행된다. 그간 문법과 독해에 치중되었던 <교양프랑스어> 강의에서 벗어나, 학생들이 국제화시대에 대한 준비를 철저히 할 수 있도 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "FRAN232",
             "position": {
                 "x": 1100,
@@ -1118,6 +983,249 @@
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "국제관계상의 다양한 문제를 해결하고 국제사회의 상호소통에 공헌하며 국제관계의 변화를 주도하는 인재를 양성을 위해 외교 관련 자료들에 대한 분석력과 외교 프랑스어 구사력을 강화한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN345",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "data": {
+                "label": "프랑스어와미디어",
+                "학수번호": "FRAN345",
+                "세부전공": null,
+                "전공역량": "프랑스학창의역량",
+                "개설학과": "불어불문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "신문, 방송, 인터넷 등 여러 프랑스 언론매체의 기사와 영상 등을 활용하여 현대 프랑스인들이 실제로 사용하는 살아있는 프랑스어를 익힌다. 변화하는 매체적 환경에 적응하고 다양한 정보와 지식에 대한 비교분석 능력을 기른다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN347",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "data": {
+                "label": "프랑스어권문학",
+                "학수번호": "FRAN347",
+                "세부전공": null,
+                "전공역량": "프랑스어문학심화역량",
+                "개설학과": "불어불문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "벨기에, 스위스, 캐나다, 아프리카 제반 국가 등 프랑스어권에 속하는 나라들의 주요 작가들과 문학 작품 전반을 소개하는 데 주안점을 둔다. 프랑스어권 국가들의 프랑스 문학 수용 양상과 변화상을 짚어보고, 그 안에서 도출되는 혼종성과 차별성, 윤리와 공감의 문제, 나 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN349",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "data": {
+                "label": "번역의이해",
+                "학수번호": "FRAN349",
+                "세부전공": null,
+                "전공역량": "프랑스학창의역량",
+                "개설학과": "불어불문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "다학제적 소양을 갖추기 위해 번역학의 주요 개념들의 이해와 기본적인 번역 이론들을 검토해본다. 주요 번역 이론의 장단점을 비교하고 각 이론을 적용했거나 대표할 수 있는 해당 번역물들을 읽고 분석한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN351",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "data": {
+                "label": "프랑스시의이해",
+                "학수번호": "FRAN351",
+                "세부전공": null,
+                "전공역량": "프랑스어문학심화역량",
+                "개설학과": "불어불문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "프랑스 시의 구조와 역사적 발달 과정을 개괄하고, 남프랑스 트루바두르들의 사랑 노래에서 20세기 시인들의 현대시에 이르는 장구한 프랑스 시사의 흐름을 살펴보도록 한다. 각 시기별로 대표적인 시인들의 작품을 읽고 시인의 의도에 대해 토론하는 과정에서 공감 능력을  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN353",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "data": {
+                "label": "프랑스희곡과시나리오",
+                "학수번호": "FRAN353",
+                "세부전공": null,
+                "전공역량": "프랑스어문학심화역량",
+                "개설학과": "불어불문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "중세에서 현대에 이르는 시기의 작품들 가운데 선별한 극작품과 프랑스 영화 시나리오에 대한 분석과 강독을 진행한다. 이를 통해 프랑스 희곡의 전통과 특징을 파악하고, 실제 상연 및 현대적인 적용과 관련된 문제들에 대한 이해의 깊이를 도모한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN355",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "data": {
+                "label": "프랑스의언어와역사",
+                "학수번호": "FRAN355",
+                "세부전공": null,
+                "전공역량": "프랑스어소통역량",
+                "개설학과": "불어불문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "프랑스어의 탄생과 발달과정을 시기별로 살펴보고, 각 시기별 언어적 특징들과 역사적 배경을 고찰한다. 프랑스어가 발달해 온 사회적 배경에 대한 지식을 함양함으로써 프랑스어의 현재 모습을 이해할 수 있도록 한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN357",
+            "position": {
+                "x": 1320,
+                "y": 600
+            },
+            "data": {
+                "label": "프랑스현대소설",
+                "학수번호": "FRAN357",
+                "세부전공": null,
+                "전공역량": "프랑스어문학심화역량",
+                "개설학과": "불어불문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "19세기 이후부터 오늘날에 이르는 프랑스 소설사의 흐름을 조망하고, 각 개별 작가들의 새로운 시도와 독창성을 되짚어봄으로써 공감력과 창의적 사고를 발전시키는 데 주안점을 둔다. 발자크, 스탕달, 플로베르, 프루스트, 사르트르. 카뮈, 로브그리에, 투르니에, 모디아노,"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN363",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "data": {
+                "label": "프랑스여성작가연구",
+                "학수번호": "FRAN363",
+                "세부전공": null,
+                "전공역량": "글로벌리더십역량",
+                "개설학과": "불어불문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "중세의 마리 드 프랑스와 크리스틴 드 피장, 16세기의 마르그리트 드 나바르와 루이즈 라베, 17세기의 라파예트 부인, 세비네 부인, 그리고 조르주 상드, 시몬 드 보부아르, 아니 에르노, 아멜리 노통브 등 프랑스 여성 작가들의 글쓰기에서 드러나는 특징들을 살펴보고 시대"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN365",
+            "position": {
+                "x": 1320,
+                "y": 800
+            },
+            "data": {
+                "label": "PBL프랑스문학",
+                "학수번호": "FRAN365",
+                "세부전공": null,
+                "전공역량": "글로벌리더십역량",
+                "개설학과": "불어불문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "특정 대주제 및 이와 관련된 소주제들을 선별하여, 다양한 특강자의 강연과 수강생들과의 토론(문제 기반 학습 방식 기반)을 진행한다. 수강생들이 심화 조사해온 논의 주제들을 조별로 상호 토의하고, 이를 다시 교수자와 함께 재논의하는 과정을 통해 통합적인 문제해결 능"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1415,249 +1523,6 @@
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "2세기부터 16세기까지 활동했던 중세, 르네상스 시기 시인들의 작품을 읽고 분석, 토의해보는 과정에서 근대 이전 시의 요체와 특징들을 파악하고 공감능력을 확장하는 기회를 만든다. ‘사랑, 죽음, 운명, 우수’ 등의 전통적인 주제들이 당대에 어떤 독창성을 의도했던 것 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "FRAN345",
-            "position": {
-                "x": 1320,
-                "y": 0
-            },
-            "data": {
-                "label": "프랑스어와미디어",
-                "학수번호": "FRAN345",
-                "세부전공": null,
-                "전공역량": "프랑스학창의역량",
-                "개설학과": "불어불문학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "신문, 방송, 인터넷 등 여러 프랑스 언론매체의 기사와 영상 등을 활용하여 현대 프랑스인들이 실제로 사용하는 살아있는 프랑스어를 익힌다. 변화하는 매체적 환경에 적응하고 다양한 정보와 지식에 대한 비교분석 능력을 기른다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "FRAN347",
-            "position": {
-                "x": 1320,
-                "y": 100
-            },
-            "data": {
-                "label": "프랑스어권문학",
-                "학수번호": "FRAN347",
-                "세부전공": null,
-                "전공역량": "프랑스어문학심화역량",
-                "개설학과": "불어불문학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "벨기에, 스위스, 캐나다, 아프리카 제반 국가 등 프랑스어권에 속하는 나라들의 주요 작가들과 문학 작품 전반을 소개하는 데 주안점을 둔다. 프랑스어권 국가들의 프랑스 문학 수용 양상과 변화상을 짚어보고, 그 안에서 도출되는 혼종성과 차별성, 윤리와 공감의 문제, 나 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "FRAN349",
-            "position": {
-                "x": 1320,
-                "y": 200
-            },
-            "data": {
-                "label": "번역의이해",
-                "학수번호": "FRAN349",
-                "세부전공": null,
-                "전공역량": "프랑스학창의역량",
-                "개설학과": "불어불문학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "다학제적 소양을 갖추기 위해 번역학의 주요 개념들의 이해와 기본적인 번역 이론들을 검토해본다. 주요 번역 이론의 장단점을 비교하고 각 이론을 적용했거나 대표할 수 있는 해당 번역물들을 읽고 분석한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "FRAN351",
-            "position": {
-                "x": 1320,
-                "y": 300
-            },
-            "data": {
-                "label": "프랑스시의이해",
-                "학수번호": "FRAN351",
-                "세부전공": null,
-                "전공역량": "프랑스어문학심화역량",
-                "개설학과": "불어불문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "프랑스 시의 구조와 역사적 발달 과정을 개괄하고, 남프랑스 트루바두르들의 사랑 노래에서 20세기 시인들의 현대시에 이르는 장구한 프랑스 시사의 흐름을 살펴보도록 한다. 각 시기별로 대표적인 시인들의 작품을 읽고 시인의 의도에 대해 토론하는 과정에서 공감 능력을  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "FRAN353",
-            "position": {
-                "x": 1320,
-                "y": 400
-            },
-            "data": {
-                "label": "프랑스희곡과시나리오",
-                "학수번호": "FRAN353",
-                "세부전공": null,
-                "전공역량": "프랑스어문학심화역량",
-                "개설학과": "불어불문학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "중세에서 현대에 이르는 시기의 작품들 가운데 선별한 극작품과 프랑스 영화 시나리오에 대한 분석과 강독을 진행한다. 이를 통해 프랑스 희곡의 전통과 특징을 파악하고, 실제 상연 및 현대적인 적용과 관련된 문제들에 대한 이해의 깊이를 도모한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "FRAN355",
-            "position": {
-                "x": 1320,
-                "y": 500
-            },
-            "data": {
-                "label": "프랑스의언어와역사",
-                "학수번호": "FRAN355",
-                "세부전공": null,
-                "전공역량": "프랑스어소통역량",
-                "개설학과": "불어불문학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "프랑스어의 탄생과 발달과정을 시기별로 살펴보고, 각 시기별 언어적 특징들과 역사적 배경을 고찰한다. 프랑스어가 발달해 온 사회적 배경에 대한 지식을 함양함으로써 프랑스어의 현재 모습을 이해할 수 있도록 한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "FRAN357",
-            "position": {
-                "x": 1320,
-                "y": 600
-            },
-            "data": {
-                "label": "프랑스현대소설",
-                "학수번호": "FRAN357",
-                "세부전공": null,
-                "전공역량": "프랑스어문학심화역량",
-                "개설학과": "불어불문학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "19세기 이후부터 오늘날에 이르는 프랑스 소설사의 흐름을 조망하고, 각 개별 작가들의 새로운 시도와 독창성을 되짚어봄으로써 공감력과 창의적 사고를 발전시키는 데 주안점을 둔다. 발자크, 스탕달, 플로베르, 프루스트, 사르트르. 카뮈, 로브그리에, 투르니에, 모디아노,"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "FRAN363",
-            "position": {
-                "x": 1320,
-                "y": 700
-            },
-            "data": {
-                "label": "프랑스여성작가연구",
-                "학수번호": "FRAN363",
-                "세부전공": null,
-                "전공역량": "글로벌리더십역량",
-                "개설학과": "불어불문학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "중세의 마리 드 프랑스와 크리스틴 드 피장, 16세기의 마르그리트 드 나바르와 루이즈 라베, 17세기의 라파예트 부인, 세비네 부인, 그리고 조르주 상드, 시몬 드 보부아르, 아니 에르노, 아멜리 노통브 등 프랑스 여성 작가들의 글쓰기에서 드러나는 특징들을 살펴보고 시대"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "FRAN365",
-            "position": {
-                "x": 1320,
-                "y": 800
-            },
-            "data": {
-                "label": "PBL프랑스문학",
-                "학수번호": "FRAN365",
-                "세부전공": null,
-                "전공역량": "글로벌리더십역량",
-                "개설학과": "불어불문학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "특정 대주제 및 이와 관련된 소주제들을 선별하여, 다양한 특강자의 강연과 수강생들과의 토론(문제 기반 학습 방식 기반)을 진행한다. 수강생들이 심화 조사해온 논의 주제들을 조별로 상호 토의하고, 이를 다시 교수자와 함께 재논의하는 과정을 통해 통합적인 문제해결 능"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1989,6 +1854,141 @@
             "style": {
                 "backgroundColor": "#f8f8f8",
                 "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COLA173",
+            "position": {
+                "x": 550.0,
+                "y": 700
+            },
+            "data": {
+                "label": "디지털인문학응용",
+                "학수번호": "COLA173",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "해당 과목은 디지털 시대에 문과 학생들이 필수적으로 알아야 할 다양한 기술이 인문학 분야에서 어떻게 응용되는지 직접 배우고 연습해보는 기회를 제공한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #ff3c3c",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COLA200",
+            "position": {
+                "x": 550.0,
+                "y": 800
+            },
+            "data": {
+                "label": "인문융합세미나",
+                "학수번호": "COLA200",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "인문학을 중심으로 인문, 사회, 자연과학 등 타 학문 영역의 전문지식을 융합하는 세미나 형식으로 운영한다._x000D_\n※심화된 인문 융합 지식을 통섭하는 세미나로서 주관 학과의 전공과목에 준하는 수준으로 운영한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 550.0,
+                "y": 900
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 550.0,
+                "y": 1000
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 550.0,
+                "y": 1100
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }

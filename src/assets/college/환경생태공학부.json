@@ -185,37 +185,10 @@
             }
         },
         {
-            "id": "GELI005",
-            "position": {
-                "x": 440,
-                "y": 0
-            },
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 100
+                "y": 0
             },
             "data": {
                 "label": "글쓰기",
@@ -239,37 +212,10 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 300
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -296,7 +242,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 400
+                "y": 200
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -320,37 +266,10 @@
             }
         },
         {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "LIBS151",
             "position": {
                 "x": 440,
-                "y": 600
+                "y": 300
             },
             "data": {
                 "label": "일반생물학및연습 I",
@@ -377,7 +296,7 @@
             "id": "LIBS153",
             "position": {
                 "x": 440,
-                "y": 700
+                "y": 400
             },
             "data": {
                 "label": "일반생물학실험 I",
@@ -404,7 +323,7 @@
             "id": "LIET151",
             "position": {
                 "x": 440,
-                "y": 800
+                "y": 500
             },
             "data": {
                 "label": "화학의기초및연습 I",
@@ -431,7 +350,7 @@
             "id": "LIET155",
             "position": {
                 "x": 440,
-                "y": 900
+                "y": 600
             },
             "data": {
                 "label": "화학의기초실험 I",
@@ -458,7 +377,7 @@
             "id": "PHYS183",
             "position": {
                 "x": 440,
-                "y": 1000
+                "y": 700
             },
             "data": {
                 "label": "생명물리학및연습",
@@ -485,7 +404,7 @@
             "id": "PHYS161",
             "position": {
                 "x": 440,
-                "y": 1100
+                "y": 800
             },
             "data": {
                 "label": "일반물리학 실험 I",
@@ -1049,87 +968,6 @@
             }
         },
         {
-            "id": "ACEE226",
-            "position": {
-                "x": 880,
-                "y": 1300
-            },
-            "data": {
-                "label": "환경공학I",
-                "학수번호": "ACEE226",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "건축사회환경공학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "환경 오염 물질의 발생, 원인, 확산, 처리, 처분, 복원 공정에 대하여 공부한다. 공정에 관련된 물리적, 화학적, 생물학적인 원리에 대한 이해를 도모할 것이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "KHES215",
-            "position": {
-                "x": 880,
-                "y": 1400
-            },
-            "data": {
-                "label": "환경보건학",
-                "학수번호": "KHES215",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "보건환경융합과학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "환경과 인간의 관계 및 환경에 의한 장애, 대기 및 수질 위생, 의식주 위생이 인간에게 미치는 영향에 대해서 알아보고 그것들을 관리하는 방법에 대해 교육한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI255",
-            "position": {
-                "x": 880,
-                "y": 1500
-            },
-            "data": {
-                "label": "환경사회학",
-                "학수번호": "SOCI255",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "사회학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인간, 사회조직, 환경 사이의 상호관계를 이론적으로 검토하고, 사회문제로서의 환경문제에 대한 진단과 총체적 대안들을 습득한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "LIET206",
             "position": {
                 "x": 1100,
@@ -1502,60 +1340,6 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ACEE327",
-            "position": {
-                "x": 1320,
-                "y": 1000
-            },
-            "data": {
-                "label": "환경공학Ⅱ",
-                "학수번호": "ACEE327",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "건축사회환경공학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "환경공학문제에 있어서의 기초적인 생태계의 원리, 오염물질의 물리 및 화학적인 특성, 미생물의 분해와 성장특성을 하천, 호소 등을 대상으로 강론하며 유량측정법, 수질분석법, 정수 및 폐수처리방법 등과 관련된 기초적인 사항을 포함한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE302",
-            "position": {
-                "x": 1320,
-                "y": 1100
-            },
-            "data": {
-                "label": "환경경제학",
-                "학수번호": "LESE302",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "환경문제에 관련된 경제학의 기초개념과 주요 환경경제이론을 이해시키고, 외부성 문제에 대한 접근방안, 환경오염의 유형별 경제분석 및 정책대응 등을 강의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
                 "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
@@ -2420,6 +2204,222 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 550.0,
+                "y": 900
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 550.0,
+                "y": 1000
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 550.0,
+                "y": 1100
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE226",
+            "position": {
+                "x": 550.0,
+                "y": 1200
+            },
+            "data": {
+                "label": "환경공학I",
+                "학수번호": "ACEE226",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "환경 오염 물질의 발생, 원인, 확산, 처리, 처분, 복원 공정에 대하여 공부한다. 공정에 관련된 물리적, 화학적, 생물학적인 원리에 대한 이해를 도모할 것이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES215",
+            "position": {
+                "x": 550.0,
+                "y": 1300
+            },
+            "data": {
+                "label": "환경보건학",
+                "학수번호": "KHES215",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "환경과 인간의 관계 및 환경에 의한 장애, 대기 및 수질 위생, 의식주 위생이 인간에게 미치는 영향에 대해서 알아보고 그것들을 관리하는 방법에 대해 교육한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI255",
+            "position": {
+                "x": 550.0,
+                "y": 1400
+            },
+            "data": {
+                "label": "환경사회학",
+                "학수번호": "SOCI255",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "인간, 사회조직, 환경 사이의 상호관계를 이론적으로 검토하고, 사회문제로서의 환경문제에 대한 진단과 총체적 대안들을 습득한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE327",
+            "position": {
+                "x": 550.0,
+                "y": 1500
+            },
+            "data": {
+                "label": "환경공학Ⅱ",
+                "학수번호": "ACEE327",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "환경공학문제에 있어서의 기초적인 생태계의 원리, 오염물질의 물리 및 화학적인 특성, 미생물의 분해와 성장특성을 하천, 호소 등을 대상으로 강론하며 유량측정법, 수질분석법, 정수 및 폐수처리방법 등과 관련된 기초적인 사항을 포함한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE302",
+            "position": {
+                "x": 550.0,
+                "y": 1600
+            },
+            "data": {
+                "label": "환경경제학",
+                "학수번호": "LESE302",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "환경문제에 관련된 경제학의 기초개념과 주요 환경경제이론을 이해시키고, 외부성 문제에 대한 접근방안, 환경오염의 유형별 경제분석 및 정책대응 등을 강의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
                 "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"

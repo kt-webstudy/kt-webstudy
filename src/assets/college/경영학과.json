@@ -185,6 +185,276 @@
             }
         },
         {
+            "id": "BUSS165",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "data": {
+                "label": "창업가의마인드셋",
+                "학수번호": "BUSS165",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "창업가들이 고민하는 문제들은 우리가 일상생활에서 직면하는 다양한 문제들과 본질적으로 크게 다르지 않다. 그렇다면 성공한 창업가들의 문제를 이해하는 마인드셋과 이러한 문제를 해결하는 과정을 관찰해본다면, 우리도 보다 성공적으로 다양한 문제들을 해결할 수 있지 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS164",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "data": {
+                "label": "경영과사회",
+                "학수번호": "BUSS164",
+                "세부전공": null,
+                "전공역량": "사회적책임",
+                "개설학과": "경영학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목에서는 경영학에 대한 철학적 고민, 리더십에 대한 고찰, 경영 윤리에 대한 이해, 그리고 기업의 존재 이유에 대한 논쟁들을 바탕으로 기업과 사회의 관계를 조망하고 이를 바탕으로 기업경영에서 이윤만이 아니라 사회적 가치를 함께 추구하는 것이 왜 중요한지, 그 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #ff3c3c",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS152",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "data": {
+                "label": "회계학원리",
+                "학수번호": "BUSS152",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "기업이 외부 이해관계자들에게 제공하는 재무정보의 산출과정에 대한 기본적인 내용을 다룬다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #ff3c3c",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS154",
+            "position": {
+                "x": 660,
+                "y": 100
+            },
+            "data": {
+                "label": "경영통계",
+                "학수번호": "BUSS154",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "통계학의 기본개념을 소개하고, 이 개념들이 합리적인 기업의사결정을 하는데 응용될 수 있는지를 보여준다. 다루어질 주요 주제는 기초확률이론과 응용, 추정, 가설검정, 상관분석, 회기분석등이다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #ff3c3c",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS166",
+            "position": {
+                "x": 660,
+                "y": 200
+            },
+            "data": {
+                "label": "통합적사고와경영학입문",
+                "학수번호": "BUSS166",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과는 Flipped PBL (problem-based learning) class로 한 학기 동안 경영학 분야의 essential 한 이슈 및 시의성있는 이슈를 담고 있는 실제적 문제  5개를 다룰 예정입니다. 하나의 문제 상황에 대해 동일한 입장에 있는 사람들 간의 토의, 서로 다른 관점을 지닌 사람 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #ff3c3c",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 300
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 II",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅱ는 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 학교에 대한 소속감을 강화하고 창직 및 창업 등의 진로 방향성을 고민해볼 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 400
+            },
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "_x000D_\n이 과목은 데이터를 다루고 분석할 수 있는 역량과 인공지능 기술을 이해하고 자기의 일에 활용할 수 있는 방법을 학습하는 과정이다. 기초적인 데이터과학 및 인공지능 핵심 개념을 학습하고, 각 계열별 특성에 맞는 데이터를 활용한 실습을 통해 실제 데이터를 다루고 인"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "BUSS205",
             "position": {
                 "x": 880,
@@ -497,6 +767,330 @@
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "정부의 경제활동에 관한 과목으로서 세출입, 시장실패와 외부성, 공공재와 같은 정부시장개입의 근거를 비롯하여 사회후생함수와 소득분배 그리고 정부 실패에 대한 이론을 기본 내용으로 한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS203",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "경영수학",
+                "학수번호": "BUSS203",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "경영학의 연구와 이해에 필요한 기본 수리과학적 방법과 응용을 다룬다. 행렬이론, 미분, 적분, 비선형 및 선형계획법, 게임이론 등의 주제를 강의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS214",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "data": {
+                "label": "중급회계II",
+                "학수번호": "BUSS214",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "중급회계 1에서 논의된 내용을 바탕으로 보다 상급의 회계 문제들을 논하게 된다. 리스회계, 외화환산회계, 이연법인세 회계, 연계회계 등이 여기에 포함된다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS217",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "data": {
+                "label": "비즈니스애널리틱스II",
+                "학수번호": "BUSS217",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "데이터는 오늘날의 기업들에게 가장 중요한 자원 중의 하나가 되었습니다. 다양한 소스로부터 다양한 형태의 데이터를 수집하고 이를 분석해 그 결과를 바탕으로 비즈니스 의사결정을 내리는 것은 오늘날의 기업들이 경쟁에서 살아남기 위해 반드시 필요한 비즈니스 활동이  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS238",
+            "position": {
+                "x": 1100,
+                "y": 300
+            },
+            "data": {
+                "label": "광고론",
+                "학수번호": "BUSS238",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "현대기업의 마케팅 활동에 있어서 중요한 비중을 차지하고 있는 광고의 이론 및 실무의 고찰을 실습 위주로 강의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS244",
+            "position": {
+                "x": 1100,
+                "y": 400
+            },
+            "data": {
+                "label": "관리회계",
+                "학수번호": "BUSS244",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "원가회계의 기능, 원가의 개념, 원가계산의 형태 및 계정체계 등 원가의 요소 및 집계와 제품별 원가회계를 이해시키고 개별원가 계산 및 종합원가 계산을 강의한다. 아울러 원가회계를 통해 계산된 원가자료를 활용한 제반 내부의사결정과 성과평가 등에 대하여 논의한다. _x000D_"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS246",
+            "position": {
+                "x": 1100,
+                "y": 500
+            },
+            "data": {
+                "label": "경영과학",
+                "학수번호": "BUSS246",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "경영문제를 선형계획법, 대기행렬이론, 네트워크 분석, 동태적 계획법, 시뮬레이션 등의 계량적 기법을 적용하여 해결해 나가는 현대적 경영관리 방식을 이수한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS248",
+            "position": {
+                "x": 1100,
+                "y": 600
+            },
+            "data": {
+                "label": "기업경제학",
+                "학수번호": "BUSS248",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "기업 경영자의 주요 경영 의사결정에 필요한, 생산?소비이론, 시장경쟁구조와 전략, 정보경제학, 게임이론 등을 강의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS252",
+            "position": {
+                "x": 1100,
+                "y": 700
+            },
+            "data": {
+                "label": "마케팅조사론",
+                "학수번호": "BUSS252",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "현대 기업이 효과적인 마케팅전략을 수립, 실행하는 데 필요한 정보를 제공하는 시장조사 이론과 기법을 강의하고 학생들로 하여금 실습을 통하여 실무 경험을 쌓게 한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS254",
+            "position": {
+                "x": 1100,
+                "y": 800
+            },
+            "data": {
+                "label": "투자론",
+                "학수번호": "BUSS254",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "기업의 설비투자에 대한 의의, 수요예측, 기술적 타당성분석 및 투자가치의 평가기준을 연구한다. 특히 현금흐름 분석을 중심으로 미래의 위험과 불확실성을 다루며 최적포트폴리오전략, 증권분석 등도 강의에 포함된다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS256",
+            "position": {
+                "x": 1100,
+                "y": 900
+            },
+            "data": {
+                "label": "빅데이터분석과해석의기초",
+                "학수번호": "BUSS256",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과정은 다양한 종류의 데이터(예: 기업이나 정부가 인터넷에 공개하는 데이터, 개인이 수집 또는 찾아낸 데이터)를 R를 통해 정리하고 시각화한다. 정리된 데이터는 R이 제공하는 빅데이터 패키지를 사용하여 숨겨진 패턴을 발견하고, 그 의미를 해석하는 실습을 한다. 이"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON202",
+            "position": {
+                "x": 1100,
+                "y": 1000
+            },
+            "data": {
+                "label": "거시경제이론",
+                "학수번호": "ECON202",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "국가 경제에서 국민 소득, 고용량, 이자율, 환율, 인플레이션, 국제수지 등이 어떠한 원리로 결정되고 상호간에는 어떠한 관련이 있는 지를 연구한다. 금융 이론, 경기 변동, 경제성장, 개방 경제 거시의 기초 이론을 강의하며 거시 경제 정책의 효과를 중심으로 최근의 한국"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON334",
+            "position": {
+                "x": 1100,
+                "y": 1100
+            },
+            "data": {
+                "label": "조세론",
+                "학수번호": "ECON334",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "재정학 중 조세 부문을 집중적으로 다루는 과목으로서 정부수입, 조세제도 및 정책, 조세의 전가와 효과 및 각종 조세의 각론을 그 내용으로 한다. _x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1157,6 +1751,546 @@
             }
         },
         {
+            "id": "BUSS301",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "data": {
+                "label": "사회적가치프로젝트",
+                "학수번호": "BUSS301",
+                "세부전공": null,
+                "전공역량": "도전적리더",
+                "개설학과": "경영학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 사회적 가치를 창출하는 비즈니스 모델을 학생 스스로 설계하거나 연구하는데 목표가 있다. 프로젝트를 발전시키는 과정에서 학생 스스로 경영학 지식을 활용하고, 사회적 가치를 기반으로 하는 아이디어를 구체화 한다. 또한 팀원 간 상호 존중과 협력을 통해 미 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS303",
+            "position": {
+                "x": 1540,
+                "y": 100
+            },
+            "data": {
+                "label": "디자인씽킹과디지털혁신",
+                "학수번호": "BUSS303",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "디자인 씽킹은 사용자 관점에서 문제를 이해하고 창의적이고 혁신적인 해결책을 찾고자하는 과정입니다. 본 과목에서는 디자인 씽킹을 디지털 혁신 측면에서 살펴보고자 하는데 그 이유는 어떠한 파괴적 혁신도 사용자의 니즈를 이해하지 않고서는 이룰 수 없기 때문입니다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS305",
+            "position": {
+                "x": 1540,
+                "y": 200
+            },
+            "data": {
+                "label": "인공지능과비즈니스",
+                "학수번호": "BUSS305",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "인공지능과 빅데이터의 활용으로 대표되는 4차 산업혁명 시대에, 대부분의 기업들은 대량의 데이터를 보유하고 있지만 데이터를 활용하여 유익한 정보를 얻고 가치를 찾는데 어려움을 겪고 있다. 특히 인공지능 기술을 활용한 기업데이터의 전략적인 사용은 기업의 경쟁력을 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS307",
+            "position": {
+                "x": 1540,
+                "y": 300
+            },
+            "data": {
+                "label": "플랫폼비즈니스모델과디지털대전환",
+                "학수번호": "BUSS307",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "카카오, 텐센트, 페이스북, 마이크로소프트, 아마존, 구글, 애플, 넷플릭스, 우버, 에어비앤비, 페이팔. 이 기업들은 기존 전통 시장을 파괴하고 놀라운 변혁을 통해 새로운 시장을 창출하고 있습니다. 특히 이들 테크 기업들은 ‘플랫폼과 양면 시장’을 기초로 한 ‘디지털"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS322",
+            "position": {
+                "x": 1540,
+                "y": 400
+            },
+            "data": {
+                "label": "지역연구(일본)",
+                "학수번호": "BUSS322",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "  본 과목의 목적은 수강생들에게 일본 비즈니스에 대한 폭넓은 이해를 제공하는 것으로 그 구성은 아래와 같이 세 부분으로 나뉜다. _x000D_\n 첫째, 일본경제의 구조와 세부특성에 대한 전반적인 이해 _x000D_\n 둘째, 일본의 경영환경 및 경영방식에 대해  다양한 각도에서의 논의 _x000D_\n 셋"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS328",
+            "position": {
+                "x": 1540,
+                "y": 500
+            },
+            "data": {
+                "label": "거시경제와글로벌비즈니스이해",
+                "학수번호": "BUSS328",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 기업 내, 외부의 수많은 경영 및 투자 결정이 이루어지는 경영환경에 영향을 미치는 거시 경제 상황과 이러한 상황에 중요한 영향을 미치는 거시 경제정책에 대한 이해를 높이기 위해 개설되었다. 본 과목에서는 체계적인 거시경제모형들을 이용하여 정부정책 및  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS330",
+            "position": {
+                "x": 1540,
+                "y": 600
+            },
+            "data": {
+                "label": "중국경제론",
+                "학수번호": "BUSS330",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS340",
+            "position": {
+                "x": 1540,
+                "y": 700
+            },
+            "data": {
+                "label": "국제마케팅론",
+                "학수번호": "BUSS340",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "국제마케팅의 전개과정, 국제기업활동의 일환인 국제마케팅의 이론과 실무를 중점으로 강의한다._x000D_\n_x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS344",
+            "position": {
+                "x": 1540,
+                "y": 800
+            },
+            "data": {
+                "label": "국제금융론",
+                "학수번호": "BUSS344",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "국제금융시장의 현재 및 미래 현상을 분석하고, 이를 기업경영에 반영시킬 수 있는 능력개발에 목적을 두고 있다. 국제금융시장의 조직 및 제도에 중점을 두고 국제통화제도, 외환시장, 환율의 결정, 기업의 환위험 관리 등을 강의한다. _x000D_\n_x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS352",
+            "position": {
+                "x": 1540,
+                "y": 900
+            },
+            "data": {
+                "label": "세무회계",
+                "학수번호": "BUSS352",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "조세의 개념과 국세기본법을 개괄적으로 다루고 소득세회계, 부가가치세회계, 법인세회계 등 세무회계의 이론과 실무를 체계적으로 강의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS355",
+            "position": {
+                "x": 1540,
+                "y": 1000
+            },
+            "data": {
+                "label": "노사관계론",
+                "학수번호": "BUSS355",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "노사관계의 역사적 배경, 기본성격, 형성요인, 단체교섭, 임금문제, 단체협약, 쟁의, 노사협력, 경영참가, 노동자복지 등을 강의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS358",
+            "position": {
+                "x": 1540,
+                "y": 1100
+            },
+            "data": {
+                "label": "인적자원관리",
+                "학수번호": "BUSS358",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 현대 기업들의 구성원인 사람을 관리하는 것과 관련된 제반 활동들을 이해하도록 돕는다. 본 강의는 인사부서의 관점에서 인사 전문가로서 어떻게 사람의 확보, 개발 및 유지 등과 관련된 인적자원관리 기능들을 관리할 것인가에 대한 이슈를 다룸과 동시에, 어떻 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS362",
+            "position": {
+                "x": 1540,
+                "y": 1200
+            },
+            "data": {
+                "label": "유통관리",
+                "학수번호": "BUSS362",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "실증적인 관점에서 유통경로 관리와 연관된 마케팅의 여러 문제점들을 보다 더 포괄적으로 파악할 수 있도록 하며, 그러한 문제점들을 다루는 데 필요한 마케팅 전략을 세우는 데 요구되는 분석적인 기법들을 배양하는 것이 이 강의의 목적이다. 이 강의를 이수함으로써 특정"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS367",
+            "position": {
+                "x": 1540,
+                "y": 1300
+            },
+            "data": {
+                "label": "국제재무관리",
+                "학수번호": "BUSS367",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 경제개방을 효과적으로 극복하기 위한 필요조건으로 외환시장과 국제금융시장의 기능과 구조를 심도있게 분석한다. 다음 외환 및 국제재무리스크에 대한 최신 관리방법을 소개함으로써 기업과 금융기관들의 국제화 전략 수립에 필요한 이론적 수단을 제공한다. 본 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS376",
+            "position": {
+                "x": 1540,
+                "y": 1400
+            },
+            "data": {
+                "label": "서비스운영관리",
+                "학수번호": "BUSS376",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "서비스의 특성을 토대로 서비스 전략, 서비스와 정보기술, 서비스품질, 서비스생산성을 강의와 사례를 병행하여 다룬다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS386",
+            "position": {
+                "x": 1540,
+                "y": 1500
+            },
+            "data": {
+                "label": "선물옵션",
+                "학수번호": "BUSS386",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "선물옵션은 주식과 채권 등의 기초금융상품에 기초하여 발행된 파생금융 상품이다. 선물옵션은 기초자산에 대한 투자로부터 발생하는 투자위험을 헷징하고 관리하는 수단으로 이용될 뿐 아니라 보다 적극적으로 파생상품 자체의 가격변동으로부터 수익을 얻는 것을 목적으로 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS392",
+            "position": {
+                "x": 1540,
+                "y": 1600
+            },
+            "data": {
+                "label": "서비스마케팅",
+                "학수번호": "BUSS392",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "제품과는 다른 서비스의 특성에 대한 기본적인 이해를 바탕으로 서비스 산업_x000D_\n(예: 통신, 금융 등)에서 더욱 필요로 하는 고객관리 및 수요관리를 습득하고 서비스 마케팅 활동의 근간이 되는 상품 기획, 가격 설정 및 판매 촉진에 관련된 이론과 사례를 학습. 특히 고객 접 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS394",
+            "position": {
+                "x": 1540,
+                "y": 1700
+            },
+            "data": {
+                "label": "비즈니스협상",
+                "학수번호": "BUSS394",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "협상은 두 사람이나 여러 사람들간에 합의에 이르게 하는 과학(science)이자 예술이다. 협상의 기본적인 개념과 이론들을 공부함으로써 과학적인 접근을 할 뿐만 아니라, 많은 실습을 통하여 체득하게 함으로써, 책 속에 갇혀 있는 협상이론이 아니라 실제 생활에서 활용할  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS395",
+            "position": {
+                "x": 1540,
+                "y": 1800
+            },
+            "data": {
+                "label": "마케팅애널리틱스",
+                "학수번호": "BUSS395",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "마케팅 전략 및 활동에 있어서 의사 결정에 필요한 다양한 종류의 계량 모형을 이해하고, R 그로그래밍과 EXCEL을 이용한 실제 시장자료분석을 통하여, 모형 별 특징을 공부하고 마케팅 의사결정을 내리는 방법을 배운다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON335",
+            "position": {
+                "x": 1540,
+                "y": 1900
+            },
+            "data": {
+                "label": "국제금융론",
+                "학수번호": "ECON335",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "국제경제학의 화폐이론부문으로서 외환론, 국제통화론, 국제수지 및 그 조정과 국제자본이동론이 주된 내용이다. 국제금융의 최신의 움직임에 대해서도 분석을 행한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "BUSS402",
             "position": {
                 "x": 1760,
@@ -1778,1302 +2912,6 @@
             }
         },
         {
-            "id": "BUSS003",
-            "position": {
-                "x": 440,
-                "y": 0
-            },
-            "data": {
-                "label": "Topic Course",
-                "학수번호": "BUSS003",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "경영학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "학과에서 중요한 현대 사회의 특정 주제나 그에 대한 새로운 접근 방법을 학습한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS165",
-            "position": {
-                "x": 440,
-                "y": 100
-            },
-            "data": {
-                "label": "창업가의마인드셋",
-                "학수번호": "BUSS165",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "경영학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "창업가들이 고민하는 문제들은 우리가 일상생활에서 직면하는 다양한 문제들과 본질적으로 크게 다르지 않다. 그렇다면 성공한 창업가들의 문제를 이해하는 마인드셋과 이러한 문제를 해결하는 과정을 관찰해본다면, 우리도 보다 성공적으로 다양한 문제들을 해결할 수 있지 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PAPP151",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
-            "data": {
-                "label": "행정학원론",
-                "학수번호": "PAPP151",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "행정학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "학문분야로서의 행정학에 대한 이해에 초점을 두고 행정학의 발달, 행정학의 기본 개념과 이론 등을 소개한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JURA204",
-            "position": {
-                "x": 440,
-                "y": 300
-            },
-            "data": {
-                "label": "회사법",
-                "학수번호": "JURA204",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "법학전문대학원",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "회사기업, 특히 주식회사에 관하여 설립에서부터 해산·청산에 이르기까지의 법적 제문제점을 해석학적인 측면은 물론, 비교법적·입법론적으로 고찰한다"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JURA251",
-            "position": {
-                "x": 440,
-                "y": 400
-            },
-            "data": {
-                "label": "행정법",
-                "학수번호": "JURA251",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "법학전문대학원",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "재량과 기속의 구별, 법률유보론, 주관적 공권론 등 행정법의 기초개념을 바탕으로 행정행위론, 행정입법론, 행정계획, 공법상 계약, 행정상 사실행위 등 행정작용의 개별형식들을 중심으로 행정법이론을 체계화하고, 개별 행정법영역의 주요 법적 문제를 공무원법, 지방자치"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JURA301",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "data": {
-                "label": "상법",
-                "학수번호": "JURA301",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "법학전문대학원",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "상법의 개념, 역사 및 그 기반을 이루는 경제생활과 이념을 연구하고 기업주체인 상인과 기업의 동태를 규율하는 상행위법에 관한 고찰을 한다. 또한 현대 상거래에서 빼놓을 수 없는 유가증권인 어음·수표에 관하여 그 기초이론 및 판례를 통하여 공부한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGL121",
-            "position": {
-                "x": 440,
-                "y": 600
-            },
-            "data": {
-                "label": "기업영어실습",
-                "학수번호": "ENGL121",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "영어영문학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "어학실습실에서 읽고, 듣고, 말하기를 반복함으로써 학생들의 실용영어실력을 향상시키는 데 목적이 있다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS309",
-            "position": {
-                "x": 440,
-                "y": 700
-            },
-            "data": {
-                "label": "비즈니스영어",
-                "학수번호": "IFLS309",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "국제어학원",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EGRN322",
-            "position": {
-                "x": 440,
-                "y": 800
-            },
-            "data": {
-                "label": "창업과경영을위한공학기술경향",
-                "학수번호": "EGRN322",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "공과대학",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "공학을 전공하지 않는 예비 경영자를 대상으로 설계된 강좌로 에너지, 자동차, 반도체, 정보통신, 석유화학, 철강, 건설 등 주요 산업의 현황, 국제 경쟁력, 제조 공정, 핵심 기술 등에 관한 내용을 다루고 로봇, 바이오, 환경, 태양광 등 미래 산업에 대하여 소개한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS164",
-            "position": {
-                "x": 440,
-                "y": 900
-            },
-            "data": {
-                "label": "경영과사회",
-                "학수번호": "BUSS164",
-                "세부전공": null,
-                "전공역량": "사회적책임",
-                "개설학과": "경영학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 과목에서는 경영학에 대한 철학적 고민, 리더십에 대한 고찰, 경영 윤리에 대한 이해, 그리고 기업의 존재 이유에 대한 논쟁들을 바탕으로 기업과 사회의 관계를 조망하고 이를 바탕으로 기업경영에서 이윤만이 아니라 사회적 가치를 함께 추구하는 것이 왜 중요한지, 그 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 440,
-                "y": 1000
-            },
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEWR002",
-            "position": {
-                "x": 440,
-                "y": 1100
-            },
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 1200
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEKS007",
-            "position": {
-                "x": 440,
-                "y": 1300
-            },
-            "data": {
-                "label": "[진로창업]1학년세미나 I",
-                "학수번호": "GEKS007",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GECT002",
-            "position": {
-                "x": 440,
-                "y": 1400
-            },
-            "data": {
-                "label": "[진로창업]SW프로그래밍의기초",
-                "학수번호": "GECT002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 1500
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS203",
-            "position": {
-                "x": 1100,
-                "y": 0
-            },
-            "data": {
-                "label": "경영수학",
-                "학수번호": "BUSS203",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "경영학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "경영학의 연구와 이해에 필요한 기본 수리과학적 방법과 응용을 다룬다. 행렬이론, 미분, 적분, 비선형 및 선형계획법, 게임이론 등의 주제를 강의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS214",
-            "position": {
-                "x": 1100,
-                "y": 100
-            },
-            "data": {
-                "label": "중급회계II",
-                "학수번호": "BUSS214",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "경영학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "중급회계 1에서 논의된 내용을 바탕으로 보다 상급의 회계 문제들을 논하게 된다. 리스회계, 외화환산회계, 이연법인세 회계, 연계회계 등이 여기에 포함된다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS217",
-            "position": {
-                "x": 1100,
-                "y": 200
-            },
-            "data": {
-                "label": "비즈니스애널리틱스II",
-                "학수번호": "BUSS217",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "경영학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "데이터는 오늘날의 기업들에게 가장 중요한 자원 중의 하나가 되었습니다. 다양한 소스로부터 다양한 형태의 데이터를 수집하고 이를 분석해 그 결과를 바탕으로 비즈니스 의사결정을 내리는 것은 오늘날의 기업들이 경쟁에서 살아남기 위해 반드시 필요한 비즈니스 활동이  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS238",
-            "position": {
-                "x": 1100,
-                "y": 300
-            },
-            "data": {
-                "label": "광고론",
-                "학수번호": "BUSS238",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "경영학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "현대기업의 마케팅 활동에 있어서 중요한 비중을 차지하고 있는 광고의 이론 및 실무의 고찰을 실습 위주로 강의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS244",
-            "position": {
-                "x": 1100,
-                "y": 400
-            },
-            "data": {
-                "label": "관리회계",
-                "학수번호": "BUSS244",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "경영학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "원가회계의 기능, 원가의 개념, 원가계산의 형태 및 계정체계 등 원가의 요소 및 집계와 제품별 원가회계를 이해시키고 개별원가 계산 및 종합원가 계산을 강의한다. 아울러 원가회계를 통해 계산된 원가자료를 활용한 제반 내부의사결정과 성과평가 등에 대하여 논의한다. _x000D_"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS246",
-            "position": {
-                "x": 1100,
-                "y": 500
-            },
-            "data": {
-                "label": "경영과학",
-                "학수번호": "BUSS246",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "경영학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "경영문제를 선형계획법, 대기행렬이론, 네트워크 분석, 동태적 계획법, 시뮬레이션 등의 계량적 기법을 적용하여 해결해 나가는 현대적 경영관리 방식을 이수한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS248",
-            "position": {
-                "x": 1100,
-                "y": 600
-            },
-            "data": {
-                "label": "기업경제학",
-                "학수번호": "BUSS248",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "경영학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "기업 경영자의 주요 경영 의사결정에 필요한, 생산?소비이론, 시장경쟁구조와 전략, 정보경제학, 게임이론 등을 강의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS252",
-            "position": {
-                "x": 1100,
-                "y": 700
-            },
-            "data": {
-                "label": "마케팅조사론",
-                "학수번호": "BUSS252",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "경영학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "현대 기업이 효과적인 마케팅전략을 수립, 실행하는 데 필요한 정보를 제공하는 시장조사 이론과 기법을 강의하고 학생들로 하여금 실습을 통하여 실무 경험을 쌓게 한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS254",
-            "position": {
-                "x": 1100,
-                "y": 800
-            },
-            "data": {
-                "label": "투자론",
-                "학수번호": "BUSS254",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "경영학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "기업의 설비투자에 대한 의의, 수요예측, 기술적 타당성분석 및 투자가치의 평가기준을 연구한다. 특히 현금흐름 분석을 중심으로 미래의 위험과 불확실성을 다루며 최적포트폴리오전략, 증권분석 등도 강의에 포함된다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS256",
-            "position": {
-                "x": 1100,
-                "y": 900
-            },
-            "data": {
-                "label": "빅데이터분석과해석의기초",
-                "학수번호": "BUSS256",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "경영학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 과정은 다양한 종류의 데이터(예: 기업이나 정부가 인터넷에 공개하는 데이터, 개인이 수집 또는 찾아낸 데이터)를 R를 통해 정리하고 시각화한다. 정리된 데이터는 R이 제공하는 빅데이터 패키지를 사용하여 숨겨진 패턴을 발견하고, 그 의미를 해석하는 실습을 한다. 이"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ECON202",
-            "position": {
-                "x": 1100,
-                "y": 1000
-            },
-            "data": {
-                "label": "거시경제이론",
-                "학수번호": "ECON202",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "국가 경제에서 국민 소득, 고용량, 이자율, 환율, 인플레이션, 국제수지 등이 어떠한 원리로 결정되고 상호간에는 어떠한 관련이 있는 지를 연구한다. 금융 이론, 경기 변동, 경제성장, 개방 경제 거시의 기초 이론을 강의하며 거시 경제 정책의 효과를 중심으로 최근의 한국"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ECON334",
-            "position": {
-                "x": 1100,
-                "y": 1100
-            },
-            "data": {
-                "label": "조세론",
-                "학수번호": "ECON334",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "재정학 중 조세 부문을 집중적으로 다루는 과목으로서 정부수입, 조세제도 및 정책, 조세의 전가와 효과 및 각종 조세의 각론을 그 내용으로 한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS301",
-            "position": {
-                "x": 1540,
-                "y": 0
-            },
-            "data": {
-                "label": "사회적가치프로젝트",
-                "학수번호": "BUSS301",
-                "세부전공": null,
-                "전공역량": "도전적리더",
-                "개설학과": "경영학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 사회적 가치를 창출하는 비즈니스 모델을 학생 스스로 설계하거나 연구하는데 목표가 있다. 프로젝트를 발전시키는 과정에서 학생 스스로 경영학 지식을 활용하고, 사회적 가치를 기반으로 하는 아이디어를 구체화 한다. 또한 팀원 간 상호 존중과 협력을 통해 미 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS303",
-            "position": {
-                "x": 1540,
-                "y": 100
-            },
-            "data": {
-                "label": "디자인씽킹과디지털혁신",
-                "학수번호": "BUSS303",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "경영학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "디자인 씽킹은 사용자 관점에서 문제를 이해하고 창의적이고 혁신적인 해결책을 찾고자하는 과정입니다. 본 과목에서는 디자인 씽킹을 디지털 혁신 측면에서 살펴보고자 하는데 그 이유는 어떠한 파괴적 혁신도 사용자의 니즈를 이해하지 않고서는 이룰 수 없기 때문입니다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS305",
-            "position": {
-                "x": 1540,
-                "y": 200
-            },
-            "data": {
-                "label": "인공지능과비즈니스",
-                "학수번호": "BUSS305",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "경영학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인공지능과 빅데이터의 활용으로 대표되는 4차 산업혁명 시대에, 대부분의 기업들은 대량의 데이터를 보유하고 있지만 데이터를 활용하여 유익한 정보를 얻고 가치를 찾는데 어려움을 겪고 있다. 특히 인공지능 기술을 활용한 기업데이터의 전략적인 사용은 기업의 경쟁력을 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS307",
-            "position": {
-                "x": 1540,
-                "y": 300
-            },
-            "data": {
-                "label": "플랫폼비즈니스모델과디지털대전환",
-                "학수번호": "BUSS307",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "경영학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "카카오, 텐센트, 페이스북, 마이크로소프트, 아마존, 구글, 애플, 넷플릭스, 우버, 에어비앤비, 페이팔. 이 기업들은 기존 전통 시장을 파괴하고 놀라운 변혁을 통해 새로운 시장을 창출하고 있습니다. 특히 이들 테크 기업들은 ‘플랫폼과 양면 시장’을 기초로 한 ‘디지털"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS322",
-            "position": {
-                "x": 1540,
-                "y": 400
-            },
-            "data": {
-                "label": "지역연구(일본)",
-                "학수번호": "BUSS322",
-                "세부전공": null,
-                "전공역량": "글로벌",
-                "개설학과": "경영학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "  본 과목의 목적은 수강생들에게 일본 비즈니스에 대한 폭넓은 이해를 제공하는 것으로 그 구성은 아래와 같이 세 부분으로 나뉜다. _x000D_\n 첫째, 일본경제의 구조와 세부특성에 대한 전반적인 이해 _x000D_\n 둘째, 일본의 경영환경 및 경영방식에 대해  다양한 각도에서의 논의 _x000D_\n 셋"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS328",
-            "position": {
-                "x": 1540,
-                "y": 500
-            },
-            "data": {
-                "label": "거시경제와글로벌비즈니스이해",
-                "학수번호": "BUSS328",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "경영학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 과목은 기업 내, 외부의 수많은 경영 및 투자 결정이 이루어지는 경영환경에 영향을 미치는 거시 경제 상황과 이러한 상황에 중요한 영향을 미치는 거시 경제정책에 대한 이해를 높이기 위해 개설되었다. 본 과목에서는 체계적인 거시경제모형들을 이용하여 정부정책 및  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS330",
-            "position": {
-                "x": 1540,
-                "y": 600
-            },
-            "data": {
-                "label": "중국경제론",
-                "학수번호": "BUSS330",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "경영학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS340",
-            "position": {
-                "x": 1540,
-                "y": 700
-            },
-            "data": {
-                "label": "국제마케팅론",
-                "학수번호": "BUSS340",
-                "세부전공": null,
-                "전공역량": "글로벌",
-                "개설학과": "경영학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "국제마케팅의 전개과정, 국제기업활동의 일환인 국제마케팅의 이론과 실무를 중점으로 강의한다._x000D_\n_x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS344",
-            "position": {
-                "x": 1540,
-                "y": 800
-            },
-            "data": {
-                "label": "국제금융론",
-                "학수번호": "BUSS344",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "경영학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "국제금융시장의 현재 및 미래 현상을 분석하고, 이를 기업경영에 반영시킬 수 있는 능력개발에 목적을 두고 있다. 국제금융시장의 조직 및 제도에 중점을 두고 국제통화제도, 외환시장, 환율의 결정, 기업의 환위험 관리 등을 강의한다. _x000D_\n_x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS352",
-            "position": {
-                "x": 1540,
-                "y": 900
-            },
-            "data": {
-                "label": "세무회계",
-                "학수번호": "BUSS352",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "경영학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "조세의 개념과 국세기본법을 개괄적으로 다루고 소득세회계, 부가가치세회계, 법인세회계 등 세무회계의 이론과 실무를 체계적으로 강의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS355",
-            "position": {
-                "x": 1540,
-                "y": 1000
-            },
-            "data": {
-                "label": "노사관계론",
-                "학수번호": "BUSS355",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "경영학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "노사관계의 역사적 배경, 기본성격, 형성요인, 단체교섭, 임금문제, 단체협약, 쟁의, 노사협력, 경영참가, 노동자복지 등을 강의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS358",
-            "position": {
-                "x": 1540,
-                "y": 1100
-            },
-            "data": {
-                "label": "인적자원관리",
-                "학수번호": "BUSS358",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "경영학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 과목은 현대 기업들의 구성원인 사람을 관리하는 것과 관련된 제반 활동들을 이해하도록 돕는다. 본 강의는 인사부서의 관점에서 인사 전문가로서 어떻게 사람의 확보, 개발 및 유지 등과 관련된 인적자원관리 기능들을 관리할 것인가에 대한 이슈를 다룸과 동시에, 어떻 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS362",
-            "position": {
-                "x": 1540,
-                "y": 1200
-            },
-            "data": {
-                "label": "유통관리",
-                "학수번호": "BUSS362",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "경영학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "실증적인 관점에서 유통경로 관리와 연관된 마케팅의 여러 문제점들을 보다 더 포괄적으로 파악할 수 있도록 하며, 그러한 문제점들을 다루는 데 필요한 마케팅 전략을 세우는 데 요구되는 분석적인 기법들을 배양하는 것이 이 강의의 목적이다. 이 강의를 이수함으로써 특정"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS367",
-            "position": {
-                "x": 1540,
-                "y": 1300
-            },
-            "data": {
-                "label": "국제재무관리",
-                "학수번호": "BUSS367",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "경영학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 과목은 경제개방을 효과적으로 극복하기 위한 필요조건으로 외환시장과 국제금융시장의 기능과 구조를 심도있게 분석한다. 다음 외환 및 국제재무리스크에 대한 최신 관리방법을 소개함으로써 기업과 금융기관들의 국제화 전략 수립에 필요한 이론적 수단을 제공한다. 본 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS376",
-            "position": {
-                "x": 1540,
-                "y": 1400
-            },
-            "data": {
-                "label": "서비스운영관리",
-                "학수번호": "BUSS376",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "경영학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "서비스의 특성을 토대로 서비스 전략, 서비스와 정보기술, 서비스품질, 서비스생산성을 강의와 사례를 병행하여 다룬다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS386",
-            "position": {
-                "x": 1540,
-                "y": 1500
-            },
-            "data": {
-                "label": "선물옵션",
-                "학수번호": "BUSS386",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "경영학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "선물옵션은 주식과 채권 등의 기초금융상품에 기초하여 발행된 파생금융 상품이다. 선물옵션은 기초자산에 대한 투자로부터 발생하는 투자위험을 헷징하고 관리하는 수단으로 이용될 뿐 아니라 보다 적극적으로 파생상품 자체의 가격변동으로부터 수익을 얻는 것을 목적으로 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS392",
-            "position": {
-                "x": 1540,
-                "y": 1600
-            },
-            "data": {
-                "label": "서비스마케팅",
-                "학수번호": "BUSS392",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "경영학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "제품과는 다른 서비스의 특성에 대한 기본적인 이해를 바탕으로 서비스 산업_x000D_\n(예: 통신, 금융 등)에서 더욱 필요로 하는 고객관리 및 수요관리를 습득하고 서비스 마케팅 활동의 근간이 되는 상품 기획, 가격 설정 및 판매 촉진에 관련된 이론과 사례를 학습. 특히 고객 접 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS394",
-            "position": {
-                "x": 1540,
-                "y": 1700
-            },
-            "data": {
-                "label": "비즈니스협상",
-                "학수번호": "BUSS394",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "경영학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "협상은 두 사람이나 여러 사람들간에 합의에 이르게 하는 과학(science)이자 예술이다. 협상의 기본적인 개념과 이론들을 공부함으로써 과학적인 접근을 할 뿐만 아니라, 많은 실습을 통하여 체득하게 함으로써, 책 속에 갇혀 있는 협상이론이 아니라 실제 생활에서 활용할  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS395",
-            "position": {
-                "x": 1540,
-                "y": 1800
-            },
-            "data": {
-                "label": "마케팅애널리틱스",
-                "학수번호": "BUSS395",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "경영학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "마케팅 전략 및 활동에 있어서 의사 결정에 필요한 다양한 종류의 계량 모형을 이해하고, R 그로그래밍과 EXCEL을 이용한 실제 시장자료분석을 통하여, 모형 별 특징을 공부하고 마케팅 의사결정을 내리는 방법을 배운다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ECON335",
-            "position": {
-                "x": 1540,
-                "y": 1900
-            },
-            "data": {
-                "label": "국제금융론",
-                "학수번호": "ECON335",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "국제경제학의 화폐이론부문으로서 외환론, 국제통화론, 국제수지 및 그 조정과 국제자본이동론이 주된 내용이다. 국제금융의 최신의 움직임에 대해서도 분석을 행한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "BUSS405",
             "position": {
                 "x": 1980,
@@ -3587,102 +3425,21 @@
             }
         },
         {
-            "id": "BUSS152",
+            "id": "GELI005",
             "position": {
-                "x": 660,
-                "y": 0
+                "x": 550.0,
+                "y": 500
             },
             "data": {
-                "label": "회계학원리",
-                "학수번호": "BUSS152",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "경영학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "기업이 외부 이해관계자들에게 제공하는 재무정보의 산출과정에 대한 기본적인 내용을 다룬다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS154",
-            "position": {
-                "x": 660,
-                "y": 100
-            },
-            "data": {
-                "label": "경영통계",
-                "학수번호": "BUSS154",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "경영학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "통계학의 기본개념을 소개하고, 이 개념들이 합리적인 기업의사결정을 하는데 응용될 수 있는지를 보여준다. 다루어질 주요 주제는 기초확률이론과 응용, 추정, 가설검정, 상관분석, 회기분석등이다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS166",
-            "position": {
-                "x": 660,
-                "y": 200
-            },
-            "data": {
-                "label": "통합적사고와경영학입문",
-                "학수번호": "BUSS166",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "경영학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과는 Flipped PBL (problem-based learning) class로 한 학기 동안 경영학 분야의 essential 한 이슈 및 시의성있는 이슈를 담고 있는 실제적 문제  5개를 다룰 예정입니다. 하나의 문제 상황에 대해 동일한 입장에 있는 사람들 간의 토의, 서로 다른 관점을 지닌 사람 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEKS008",
-            "position": {
-                "x": 660,
-                "y": 300
-            },
-            "data": {
-                "label": "[진로창업]1학년세미나 II",
-                "학수번호": "GEKS008",
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
                 "세부전공": null,
                 "전공역량": null,
                 "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "[진로·창업] 1학년세미나Ⅱ는 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 학교에 대한 소속감을 강화하고 창직 및 창업 등의 진로 방향성을 고민해볼 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여  "
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -3695,21 +3452,21 @@
             }
         },
         {
-            "id": "GECT003",
+            "id": "IFLS800",
             "position": {
-                "x": 660,
-                "y": 400
+                "x": 550.0,
+                "y": 600
             },
             "data": {
-                "label": "[진로창업]데이터과학과인공지능",
-                "학수번호": "GECT003",
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
                 "세부전공": null,
                 "전공역량": null,
                 "개설학과": null,
-                "개설횟수": 0,
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "_x000D_\n이 과목은 데이터를 다루고 분석할 수 있는 역량과 인공지능 기술을 이해하고 자기의 일에 활용할 수 있는 방법을 학습하는 과정이다. 기초적인 데이터과학 및 인공지능 핵심 개념을 학습하고, 각 계열별 특성에 맞는 데이터를 활용한 실습을 통해 실제 데이터를 다루고 인"
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -3717,6 +3474,249 @@
             "style": {
                 "backgroundColor": "#C8E6C9",
                 "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 550.0,
+                "y": 700
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS003",
+            "position": {
+                "x": 550.0,
+                "y": 800
+            },
+            "data": {
+                "label": "Topic Course",
+                "학수번호": "BUSS003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "학과에서 중요한 현대 사회의 특정 주제나 그에 대한 새로운 접근 방법을 학습한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP151",
+            "position": {
+                "x": 550.0,
+                "y": 900
+            },
+            "data": {
+                "label": "행정학원론",
+                "학수번호": "PAPP151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "학문분야로서의 행정학에 대한 이해에 초점을 두고 행정학의 발달, 행정학의 기본 개념과 이론 등을 소개한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA204",
+            "position": {
+                "x": 550.0,
+                "y": 1000
+            },
+            "data": {
+                "label": "회사법",
+                "학수번호": "JURA204",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "회사기업, 특히 주식회사에 관하여 설립에서부터 해산·청산에 이르기까지의 법적 제문제점을 해석학적인 측면은 물론, 비교법적·입법론적으로 고찰한다"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA251",
+            "position": {
+                "x": 550.0,
+                "y": 1100
+            },
+            "data": {
+                "label": "행정법",
+                "학수번호": "JURA251",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "재량과 기속의 구별, 법률유보론, 주관적 공권론 등 행정법의 기초개념을 바탕으로 행정행위론, 행정입법론, 행정계획, 공법상 계약, 행정상 사실행위 등 행정작용의 개별형식들을 중심으로 행정법이론을 체계화하고, 개별 행정법영역의 주요 법적 문제를 공무원법, 지방자치"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA301",
+            "position": {
+                "x": 550.0,
+                "y": 1200
+            },
+            "data": {
+                "label": "상법",
+                "학수번호": "JURA301",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "상법의 개념, 역사 및 그 기반을 이루는 경제생활과 이념을 연구하고 기업주체인 상인과 기업의 동태를 규율하는 상행위법에 관한 고찰을 한다. 또한 현대 상거래에서 빼놓을 수 없는 유가증권인 어음·수표에 관하여 그 기초이론 및 판례를 통하여 공부한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ENGL121",
+            "position": {
+                "x": 550.0,
+                "y": 1300
+            },
+            "data": {
+                "label": "기업영어실습",
+                "학수번호": "ENGL121",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "영어영문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "어학실습실에서 읽고, 듣고, 말하기를 반복함으로써 학생들의 실용영어실력을 향상시키는 데 목적이 있다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS309",
+            "position": {
+                "x": 550.0,
+                "y": 1400
+            },
+            "data": {
+                "label": "비즈니스영어",
+                "학수번호": "IFLS309",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제어학원",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EGRN322",
+            "position": {
+                "x": 550.0,
+                "y": 1500
+            },
+            "data": {
+                "label": "창업과경영을위한공학기술경향",
+                "학수번호": "EGRN322",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "공과대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "공학을 전공하지 않는 예비 경영자를 대상으로 설계된 강좌로 에너지, 자동차, 반도체, 정보통신, 석유화학, 철강, 건설 등 주요 산업의 현황, 국제 경쟁력, 제조 공정, 핵심 기술 등에 관한 내용을 다루고 로봇, 바이오, 환경, 태양광 등 미래 산업에 대하여 소개한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -3772,9 +3772,9 @@
             }
         },
         {
-            "id": "recommended-ECON203-BUSS313",
-            "source": "ECON203",
-            "target": "BUSS313",
+            "id": "recommended-BUSS164-BUSS202",
+            "source": "BUSS164",
+            "target": "BUSS202",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -3784,9 +3784,45 @@
             }
         },
         {
-            "id": "recommended-BUSS164-BUSS202",
-            "source": "BUSS164",
-            "target": "BUSS202",
+            "id": "recommended-BUSS154-BUSS216",
+            "source": "BUSS154",
+            "target": "BUSS216",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON151-ECON201",
+            "source": "ECON151",
+            "target": "ECON201",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON171-ECON201",
+            "source": "ECON171",
+            "target": "ECON201",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON201-ECON333",
+            "source": "ECON201",
+            "target": "ECON333",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -3802,18 +3838,6 @@
             "type": "step",
             "data": {
                 "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-BUSS154-BUSS216",
-            "source": "BUSS154",
-            "target": "BUSS216",
-            "type": "step",
-            "data": {
-                "type": "recommended"
             },
             "markerEnd": {
                 "type": "ArrowClosed"
@@ -3892,9 +3916,57 @@
             }
         },
         {
-            "id": "recommended-BUSS164-BUSS301",
-            "source": "BUSS164",
-            "target": "BUSS301",
+            "id": "required-ECON151-ECON202",
+            "source": "ECON151",
+            "target": "ECON202",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON172-ECON202",
+            "source": "ECON172",
+            "target": "ECON202",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ISC203A-ECON202",
+            "source": "ISC203A",
+            "target": "ECON202",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ISC203B-ECON202",
+            "source": "ISC203B",
+            "target": "ECON202",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON201-ECON334",
+            "source": "ECON201",
+            "target": "ECON334",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -3904,9 +3976,9 @@
             }
         },
         {
-            "id": "recommended-BUSS202-BUSS301",
-            "source": "BUSS202",
-            "target": "BUSS301",
+            "id": "recommended-ECON203-BUSS313",
+            "source": "ECON203",
+            "target": "BUSS313",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -3979,42 +4051,6 @@
             "id": "recommended-BUSS254-BUSS302",
             "source": "BUSS254",
             "target": "BUSS302",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-BUSS215-BUSS303",
-            "source": "BUSS215",
-            "target": "BUSS303",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-BUSS217-BUSS305",
-            "source": "BUSS217",
-            "target": "BUSS305",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-BUSS453-BUSS305",
-            "source": "BUSS453",
-            "target": "BUSS305",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -4039,30 +4075,6 @@
             "id": "recommended-BUSS259-BUSS306",
             "source": "BUSS259",
             "target": "BUSS306",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-BUSS215-BUSS307",
-            "source": "BUSS215",
-            "target": "BUSS307",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-BUSS256-BUSS307",
-            "source": "BUSS256",
-            "target": "BUSS307",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -4120,18 +4132,6 @@
             }
         },
         {
-            "id": "required-BUSS152-BUSS352",
-            "source": "BUSS152",
-            "target": "BUSS352",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
             "id": "required-BUSS152-BUSS354",
             "source": "BUSS152",
             "target": "BUSS354",
@@ -4156,18 +4156,6 @@
             }
         },
         {
-            "id": "required-BUSS205-BUSS362",
-            "source": "BUSS205",
-            "target": "BUSS362",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
             "id": "required-BUSS205-BUSS363",
             "source": "BUSS205",
             "target": "BUSS363",
@@ -4183,18 +4171,6 @@
             "id": "required-BUSS311-BUSS365",
             "source": "BUSS311",
             "target": "BUSS365",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-BUSS207-BUSS367",
-            "source": "BUSS207",
-            "target": "BUSS367",
             "type": "step",
             "data": {
                 "type": "required"
@@ -4240,54 +4216,6 @@
             }
         },
         {
-            "id": "required-BUSS207-BUSS386",
-            "source": "BUSS207",
-            "target": "BUSS386",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-BUSS207-BUSS386",
-            "source": "BUSS207",
-            "target": "BUSS386",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-BUSS254-BUSS386",
-            "source": "BUSS254",
-            "target": "BUSS386",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-BUSS254-BUSS386",
-            "source": "BUSS254",
-            "target": "BUSS386",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
             "id": "required-BUSS205-BUSS390",
             "source": "BUSS205",
             "target": "BUSS390",
@@ -4300,9 +4228,9 @@
             }
         },
         {
-            "id": "required-BUSS205-BUSS392",
+            "id": "required-BUSS205-BUSS393",
             "source": "BUSS205",
-            "target": "BUSS392",
+            "target": "BUSS393",
             "type": "step",
             "data": {
                 "type": "required"
@@ -4312,9 +4240,177 @@
             }
         },
         {
-            "id": "required-BUSS205-BUSS393",
+            "id": "recommended-BUSS164-BUSS301",
+            "source": "BUSS164",
+            "target": "BUSS301",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS202-BUSS301",
+            "source": "BUSS202",
+            "target": "BUSS301",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS215-BUSS303",
+            "source": "BUSS215",
+            "target": "BUSS303",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS217-BUSS305",
+            "source": "BUSS217",
+            "target": "BUSS305",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS453-BUSS305",
+            "source": "BUSS453",
+            "target": "BUSS305",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS215-BUSS307",
+            "source": "BUSS215",
+            "target": "BUSS307",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS256-BUSS307",
+            "source": "BUSS256",
+            "target": "BUSS307",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS152-BUSS352",
+            "source": "BUSS152",
+            "target": "BUSS352",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS205-BUSS362",
             "source": "BUSS205",
-            "target": "BUSS393",
+            "target": "BUSS362",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS207-BUSS367",
+            "source": "BUSS207",
+            "target": "BUSS367",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS207-BUSS386",
+            "source": "BUSS207",
+            "target": "BUSS386",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS207-BUSS386",
+            "source": "BUSS207",
+            "target": "BUSS386",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS254-BUSS386",
+            "source": "BUSS254",
+            "target": "BUSS386",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS254-BUSS386",
+            "source": "BUSS254",
+            "target": "BUSS386",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS205-BUSS392",
+            "source": "BUSS205",
+            "target": "BUSS392",
             "type": "step",
             "data": {
                 "type": "required"
@@ -4348,12 +4444,24 @@
             }
         },
         {
-            "id": "required-BUSS205-BUSS405",
-            "source": "BUSS205",
-            "target": "BUSS405",
+            "id": "recommended-ECON201-ECON335",
+            "source": "ECON201",
+            "target": "ECON335",
             "type": "step",
             "data": {
-                "type": "required"
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON202-ECON335",
+            "source": "ECON202",
+            "target": "ECON335",
+            "type": "step",
+            "data": {
+                "type": "recommended"
             },
             "markerEnd": {
                 "type": "ArrowClosed"
@@ -4459,54 +4567,6 @@
             "id": "recommended-BUSS203-BUSS414",
             "source": "BUSS203",
             "target": "BUSS414",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-BUSS207-BUSS415",
-            "source": "BUSS207",
-            "target": "BUSS415",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-BUSS207-BUSS415",
-            "source": "BUSS207",
-            "target": "BUSS415",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-BUSS203-BUSS415",
-            "source": "BUSS203",
-            "target": "BUSS415",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-BUSS203-BUSS415",
-            "source": "BUSS203",
-            "target": "BUSS415",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -4624,33 +4684,9 @@
             }
         },
         {
-            "id": "required-BUSS311-BUSS425",
-            "source": "BUSS311",
-            "target": "BUSS425",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
             "id": "required-BUSS152-BUSS431",
             "source": "BUSS152",
             "target": "BUSS431",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-BUSS207-BUSS438",
-            "source": "BUSS207",
-            "target": "BUSS438",
             "type": "step",
             "data": {
                 "type": "required"
@@ -4684,6 +4720,102 @@
             }
         },
         {
+            "id": "required-BUSS205-BUSS475",
+            "source": "BUSS205",
+            "target": "BUSS475",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS205-BUSS405",
+            "source": "BUSS205",
+            "target": "BUSS405",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS207-BUSS415",
+            "source": "BUSS207",
+            "target": "BUSS415",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS207-BUSS415",
+            "source": "BUSS207",
+            "target": "BUSS415",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS203-BUSS415",
+            "source": "BUSS203",
+            "target": "BUSS415",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS203-BUSS415",
+            "source": "BUSS203",
+            "target": "BUSS415",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS311-BUSS425",
+            "source": "BUSS311",
+            "target": "BUSS425",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS207-BUSS438",
+            "source": "BUSS207",
+            "target": "BUSS438",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
             "id": "required-BUSS205-BUSS454",
             "source": "BUSS205",
             "target": "BUSS454",
@@ -4702,138 +4834,6 @@
             "type": "step",
             "data": {
                 "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-BUSS205-BUSS475",
-            "source": "BUSS205",
-            "target": "BUSS475",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-ECON151-ECON201",
-            "source": "ECON151",
-            "target": "ECON201",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-ECON171-ECON201",
-            "source": "ECON171",
-            "target": "ECON201",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-ECON151-ECON202",
-            "source": "ECON151",
-            "target": "ECON202",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-ECON172-ECON202",
-            "source": "ECON172",
-            "target": "ECON202",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-ISC203A-ECON202",
-            "source": "ISC203A",
-            "target": "ECON202",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-ISC203B-ECON202",
-            "source": "ISC203B",
-            "target": "ECON202",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-ECON201-ECON333",
-            "source": "ECON201",
-            "target": "ECON333",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-ECON201-ECON334",
-            "source": "ECON201",
-            "target": "ECON334",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-ECON201-ECON335",
-            "source": "ECON201",
-            "target": "ECON335",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-ECON202-ECON335",
-            "source": "ECON202",
-            "target": "ECON335",
-            "type": "step",
-            "data": {
-                "type": "recommended"
             },
             "markerEnd": {
                 "type": "ArrowClosed"

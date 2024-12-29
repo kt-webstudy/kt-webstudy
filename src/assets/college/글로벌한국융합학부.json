@@ -212,64 +212,10 @@
             }
         },
         {
-            "id": "DISS140",
-            "position": {
-                "x": 440,
-                "y": 100
-            },
-            "data": {
-                "label": "세계화의이해",
-                "학수번호": "DISS140",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "국제학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "세계화의 기본개념을 정치사상사적 측면, 국제정치경제적 측면, 문화론적 측면에서 논의하고, 세계화가 국가, 지역 그리고 범세계적 차원에서 어떠한 영향을 가져올 것인지를 분석한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 300
+                "y": 100
             },
             "data": {
                 "label": "글쓰기",
@@ -293,37 +239,10 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 400
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 500
+                "y": 200
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -350,7 +269,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 600
+                "y": 300
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -374,21 +293,129 @@
             }
         },
         {
-            "id": "GEBT001",
+            "id": "GKSS102",
             "position": {
-                "x": 440,
-                "y": 700
+                "x": 660,
+                "y": 0
             },
             "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
+                "label": "세계정치속의한국",
+                "학수번호": "GKSS102",
+                "세부전공": null,
+                "전공역량": "융합적사고역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 강의는 한국의 대외관계를 이해하는데 필요한 국제관계학의 주요 개념 및 이론들을 소개한다. 또한, 한국의 국제관계에서 중요한 역사적 사건들과 현재의 주요 안건들을 검토할 것이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS104",
+            "position": {
+                "x": 660,
+                "y": 100
+            },
+            "data": {
+                "label": "글로벌한국의문명I",
+                "학수번호": "GKSS104",
+                "세부전공": null,
+                "전공역량": "공감소통역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 한국의 문명과 사회에 대한 이해를 위한 기본적인 내용을 소개하기 위한 것으로 고대로부터 전근대에 이르기까지 한국의 역사적 궤적을  따라 전통사회와 문화에 대한 바탕을 소개한다. 아울러 이 과목은 한국의 전통사회의 물질적, 기술적, 구조적 발전과정을 탐 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS114",
+            "position": {
+                "x": 660,
+                "y": 200
+            },
+            "data": {
+                "label": "국제통상원룐",
+                "학수번호": "DISS114",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "국제무역 발생의 원인과 경제적 효과 그리고 무역패턴을 설명하는 이론들을 소개하고 통상정책의 장단점을 분석함으로써 국제 통상 환경의 이해를 높이는데 교육목표를 둔다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 300
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 II",
+                "학수번호": "GEKS008",
                 "세부전공": null,
                 "전공역량": null,
                 "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅱ는 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 학교에 대한 소속감을 강화하고 창직 및 창업 등의 진로 방향성을 고민해볼 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 400
+            },
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "_x000D_\n이 과목은 데이터를 다루고 분석할 수 있는 역량과 인공지능 기술을 이해하고 자기의 일에 활용할 수 있는 방법을 학습하는 과정이다. 기초적인 데이터과학 및 인공지능 핵심 개념을 학습하고, 각 계열별 특성에 맞는 데이터를 활용한 실습을 통해 실제 데이터를 다루고 인"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -585,141 +612,6 @@
             "style": {
                 "backgroundColor": "#f8f8f8",
                 "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GKSS102",
-            "position": {
-                "x": 660,
-                "y": 0
-            },
-            "data": {
-                "label": "세계정치속의한국",
-                "학수번호": "GKSS102",
-                "세부전공": null,
-                "전공역량": "융합적사고역량",
-                "개설학과": "글로벌한국융합학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 강의는 한국의 대외관계를 이해하는데 필요한 국제관계학의 주요 개념 및 이론들을 소개한다. 또한, 한국의 국제관계에서 중요한 역사적 사건들과 현재의 주요 안건들을 검토할 것이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GKSS104",
-            "position": {
-                "x": 660,
-                "y": 100
-            },
-            "data": {
-                "label": "글로벌한국의문명I",
-                "학수번호": "GKSS104",
-                "세부전공": null,
-                "전공역량": "공감소통역량",
-                "개설학과": "글로벌한국융합학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 한국의 문명과 사회에 대한 이해를 위한 기본적인 내용을 소개하기 위한 것으로 고대로부터 전근대에 이르기까지 한국의 역사적 궤적을  따라 전통사회와 문화에 대한 바탕을 소개한다. 아울러 이 과목은 한국의 전통사회의 물질적, 기술적, 구조적 발전과정을 탐 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "DISS114",
-            "position": {
-                "x": 660,
-                "y": 200
-            },
-            "data": {
-                "label": "국제통상원룐",
-                "학수번호": "DISS114",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "국제학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "국제무역 발생의 원인과 경제적 효과 그리고 무역패턴을 설명하는 이론들을 소개하고 통상정책의 장단점을 분석함으로써 국제 통상 환경의 이해를 높이는데 교육목표를 둔다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEKS008",
-            "position": {
-                "x": 660,
-                "y": 300
-            },
-            "data": {
-                "label": "[진로창업]1학년세미나 II",
-                "학수번호": "GEKS008",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "[진로·창업] 1학년세미나Ⅱ는 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 학교에 대한 소속감을 강화하고 창직 및 창업 등의 진로 방향성을 고민해볼 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GECT003",
-            "position": {
-                "x": 660,
-                "y": 400
-            },
-            "data": {
-                "label": "[진로창업]데이터과학과인공지능",
-                "학수번호": "GECT003",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "_x000D_\n이 과목은 데이터를 다루고 분석할 수 있는 역량과 인공지능 기술을 이해하고 자기의 일에 활용할 수 있는 방법을 학습하는 과정이다. 기초적인 데이터과학 및 인공지능 핵심 개념을 학습하고, 각 계열별 특성에 맞는 데이터를 활용한 실습을 통해 실제 데이터를 다루고 인"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1584,6 +1476,114 @@
             "style": {
                 "backgroundColor": "#FFD180",
                 "border": "2px solid #dbaf64",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 550.0,
+                "y": 500
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 550.0,
+                "y": 600
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 550.0,
+                "y": 700
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS140",
+            "position": {
+                "x": 550.0,
+                "y": 800
+            },
+            "data": {
+                "label": "세계화의이해",
+                "학수번호": "DISS140",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "세계화의 기본개념을 정치사상사적 측면, 국제정치경제적 측면, 문화론적 측면에서 논의하고, 세계화가 국가, 지역 그리고 범세계적 차원에서 어떠한 영향을 가져올 것인지를 분석한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
