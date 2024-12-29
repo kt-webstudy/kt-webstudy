@@ -1,4 +1,4 @@
-import React, { useCallback, useEffect, useState } from "react";
+import React, { useCallback, useEffect, useMemo, useState } from "react";
 import {
   Background,
   Controls,
@@ -9,12 +9,18 @@ import {
 } from "@xyflow/react";
 import "@xyflow/react/dist/style.css";
 import "../styles/ReactFlowStyles.css";
-import { CustomNode, YearNode, SemesterNode } from "../styles/CustomNode";
+import {
+  CustomNode,
+  CustomZeroNode,
+  YearNode,
+  SemesterNode,
+} from "../styles/CustomNode";
 import { GroupNode } from "../styles/GroupNode";
 import { findConnectedNodesAndEdges } from "../utils/calculateRelationCourses";
 
 const nodeTypes = {
   customNode: CustomNode,
+  customZeroNode: CustomZeroNode,
   yearNode: YearNode,
   semesterNode: SemesterNode,
   groupNode: GroupNode,
@@ -31,7 +37,7 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
   edges,
   onBoundsChange,
 }) => {
-  const reactFlowInstance = useReactFlow(); // React Flow API 사용
+  const reactFlowInstance = useReactFlow();
   const [styledNodes, , onNodesChange] = useNodesState(nodes);
   const [styledEdges, , onEdgesChange] = useEdgesState(edges);
   const [hoveredNodeId, setHoveredNodeId] = useState<string | null>(null);
@@ -63,11 +69,14 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
     setConnectedEdgeIds(new Set());
   };
 
-  const defaultViewport = {
-    x: -Math.min(...nodes.map((node) => node.position.x)) * 0.5,
-    y: -Math.min(...nodes.map((node) => node.position.y)) * 0.5,
-    zoom: 0.5,
-  };
+  const defaultViewport = useMemo(
+    () => ({
+      x: -Math.min(...nodes.map((node) => node.position.x)) * 0.5,
+      y: -Math.min(...nodes.map((node) => node.position.y)) * 0.5,
+      zoom: 0.5,
+    }),
+    [nodes]
+  );
 
   const styledNodesWithHighlight = styledNodes.map((node) => ({
     ...node,

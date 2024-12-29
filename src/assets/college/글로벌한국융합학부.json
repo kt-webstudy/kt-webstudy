@@ -185,10 +185,122 @@
             }
         },
         {
-            "id": "GKSS101",
+            "id": "DISS140",
             "position": {
                 "x": 440,
                 "y": 0
+            },
+            "학년": 1,
+            "data": {
+                "label": "세계화의이해",
+                "학수번호": "DISS140",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "세계화의 기본개념을 정치사상사적 측면, 국제정치경제적 측면, 문화론적 측면에서 논의하고, 세계화가 국가, 지역 그리고 범세계적 차원에서 어떠한 영향을 가져올 것인지를 분석한다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS101",
+            "position": {
+                "x": 440,
+                "y": 400
             },
             "학년": 1.0,
             "data": {
@@ -216,7 +328,7 @@
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 100
+                "y": 500
             },
             "학년": 1.0,
             "data": {
@@ -244,7 +356,7 @@
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 200
+                "y": 600
             },
             "학년": 1.0,
             "data": {
@@ -272,7 +384,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 300
+                "y": 700
             },
             "학년": 1.0,
             "data": {
@@ -300,7 +412,7 @@
             "id": "GKSS102",
             "position": {
                 "x": 660,
-                "y": 0
+                "y": 400
             },
             "학년": 1.0,
             "data": {
@@ -328,7 +440,7 @@
             "id": "GKSS104",
             "position": {
                 "x": 660,
-                "y": 100
+                "y": 500
             },
             "학년": 1.0,
             "data": {
@@ -356,7 +468,7 @@
             "id": "DISS114",
             "position": {
                 "x": 660,
-                "y": 200
+                "y": 600
             },
             "학년": 1.0,
             "data": {
@@ -384,7 +496,7 @@
             "id": "GEKS008",
             "position": {
                 "x": 660,
-                "y": 300
+                "y": 700
             },
             "학년": 1.0,
             "data": {
@@ -412,7 +524,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 400
+                "y": 800
             },
             "학년": 1.0,
             "data": {
@@ -1524,118 +1636,6 @@
             "style": {
                 "backgroundColor": "#FFD180",
                 "border": "2px solid #dbaf64",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 550.0,
-                "y": 500
-            },
-            "학년": 1.0,
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 550.0,
-                "y": 600
-            },
-            "학년": 1.0,
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 550.0,
-                "y": 700
-            },
-            "학년": 1.0,
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "DISS140",
-            "position": {
-                "x": 550.0,
-                "y": 800
-            },
-            "학년": null,
-            "data": {
-                "label": "세계화의이해",
-                "학수번호": "DISS140",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "국제학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "세계화의 기본개념을 정치사상사적 측면, 국제정치경제적 측면, 문화론적 측면에서 논의하고, 세계화가 국가, 지역 그리고 범세계적 차원에서 어떠한 영향을 가져올 것인지를 분석한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }

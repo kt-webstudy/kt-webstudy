@@ -185,10 +185,178 @@
             }
         },
         {
-            "id": "GEWR002",
+            "id": "GELI005",
             "position": {
                 "x": 440,
                 "y": 0
+            },
+            "학년": 1,
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "학년": 1,
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS151",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반생물학 및 연습Ⅰ",
+                "학수번호": "LIBS151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명현상의 기본개념을 생물 전반에 걸쳐 이해시킴으로써 순수생물학 응용생물학계열에 필요한 생명과학의 기본원리를 터득하게 한다._x000D_\n"
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS153",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반생물학실험Ⅰ",
+                "학수번호": "LIBS153",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "강의를 통해 들은 생물학의 기본적인 개념을 실제적인 실험을 통해 습득하게 한다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH161",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "학년": 1,
+            "data": {
+                "label": "미적분학 및 연습 Ⅰ",
+                "학수번호": "MATH161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일계함수의 미분과 적분, 적분의 응용, 극좌표계, 수열과 급수, 벡터와 벡터 공간"
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 600
             },
             "학년": 1,
             "data": {
@@ -216,7 +384,7 @@
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 100
+                "y": 700
             },
             "학년": 1,
             "data": {
@@ -244,7 +412,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 200
+                "y": 800
             },
             "학년": 1,
             "data": {
@@ -269,10 +437,122 @@
             }
         },
         {
+            "id": "CHEM151",
+            "position": {
+                "x": 440,
+                "y": 900
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반화학 및 연습Ⅰ",
+                "학수번호": "CHEM151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이공계 분야들에 관련된 화학에 관한 기본개념과 이론들을 강의와 연습을 통해 토의하고, 응용분야들인 환경화학이나 생물화학 및 공업화학 등을 소개 한다"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM153",
+            "position": {
+                "x": 440,
+                "y": 1000
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반화학실험Ⅰ",
+                "학수번호": "CHEM153",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일반화학 강의에서 다룬 내용들을 실제 실험을 통하여 화합물의 합성법을 배우고 물성을 측정한다. 또한, 화학에 관련된 실험을 수행하는데 필요한 기본 테크닉들을 익힌다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS151",
+            "position": {
+                "x": 440,
+                "y": 1100
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반물리학 및 연습Ⅰ",
+                "학수번호": "PHYS151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "대학에서 과학 및 공학을 공부하는 데에 필요한 물리학의 기본지식과 이에 근거한 방법론 및 과학적 사고방식을 가르치는 과목이다. 주요 내용은 물리량을 기술하는 방법, Newton 역학, 파동현상, 열역학이며, 미적분을 이용한 수준이다. 3시간의 강의가 있고, 1시간의 연습 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS161",
+            "position": {
+                "x": 440,
+                "y": 1200
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반물리학실험Ⅰ",
+                "학수번호": "PHYS161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일반물리학및연습 I 에서 강의 및 문제풀이로 배우는 내용을 실험을 통해서 배우는 과목이다. 주요 내용은 date분석법, Newton 역학, 파동현상, 열역학에 관한 실험이다. 한번 3시간 실험으로 진행되며, 2인 1조를 원칙으로 하고, 8개조가 한 반을 구성하여 조교 및 교수의  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS008",
             "position": {
                 "x": 660,
-                "y": 0
+                "y": 600
             },
             "학년": 1,
             "data": {
@@ -300,7 +580,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 100
+                "y": 700
             },
             "학년": 1,
             "data": {
@@ -320,6 +600,118 @@
             "style": {
                 "backgroundColor": "#C8E6C9",
                 "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM152",
+            "position": {
+                "x": 660,
+                "y": 800
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반화학 및 연습 Ⅱ",
+                "학수번호": "CHEM152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이공계 분야들에 관련된 화학에 관한 기본개념과 이론들을 강의와 연습을 통해 토의하고, 응용분야들인 환경화학이나 생물화학 및 공업화학 등을 소개 한다"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM154",
+            "position": {
+                "x": 660,
+                "y": 900
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반화학실험II",
+                "학수번호": "CHEM154",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일반화학 강의에서 다룬 내용들을 실제 실험을 통하여 화합물의 합성법을 배우고 물성을 측정한다. 또한, 화학에 관련된 실험을 수행하는데 필요한 기본 테크닉들을 익힌다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS152",
+            "position": {
+                "x": 660,
+                "y": 1000
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반물리학 및 연습Ⅱ",
+                "학수번호": "PHYS152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "대학에서 과학 및 공학을 공부하는 데에 필요한 물리학의 기본지식과 이에 근거한 방법론 및 과학적 사고방식을 가르치는 과목이다. 주요 내용은 전자기학, 광학 및 현대물리학이며, 미적분을 이용한 수준이다. 3시간의 강의가 있고, 1시간의 연습시간에 과제물에 대한 문제 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS162 ",
+            "position": {
+                "x": 660,
+                "y": 1100
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반물리학실험Ⅱ",
+                "학수번호": "PHYS162 ",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1697,10 +2089,38 @@
             }
         },
         {
-            "id": "KHES435",
+            "id": "KHPM414",
             "position": {
                 "x": 1760,
                 "y": 0
+            },
+            "학년": 4,
+            "data": {
+                "label": "보건의료관계법규",
+                "학수번호": "KHPM414",
+                "세부전공": "보건의로",
+                "전공역량": null,
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "보건 및 의료분야에 적용되고 있는 법률 가운데 국민건강에 직접 적용되고 있는 의료법, 국민건강증진법, 지역보건법, 전염병예방법 등 관련 법률과 이에 따른 시행령 및 시행규칙을 숙지하여 보건행정을 전개함에 있어 그 법적 기초를 충분히 이해하도록 한다._x000D_\n"
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES435",
+            "position": {
+                "x": 1760,
+                "y": 100
             },
             "학년": 4,
             "data": {
@@ -1728,7 +2148,7 @@
             "id": "KHES413",
             "position": {
                 "x": 1760,
-                "y": 100
+                "y": 200
             },
             "학년": 4,
             "data": {
@@ -1756,7 +2176,7 @@
             "id": "KHES417",
             "position": {
                 "x": 1760,
-                "y": 200
+                "y": 300
             },
             "학년": 4,
             "data": {
@@ -1784,7 +2204,7 @@
             "id": "KHES431",
             "position": {
                 "x": 1760,
-                "y": 300
+                "y": 400
             },
             "학년": 4,
             "data": {
@@ -1812,7 +2232,7 @@
             "id": "KHES443",
             "position": {
                 "x": 1760,
-                "y": 400
+                "y": 500
             },
             "학년": 4,
             "data": {
@@ -1840,7 +2260,7 @@
             "id": "KHES405",
             "position": {
                 "x": 1760,
-                "y": 500
+                "y": 600
             },
             "학년": 4,
             "data": {
@@ -1868,7 +2288,7 @@
             "id": "KHES437",
             "position": {
                 "x": 1760,
-                "y": 600
+                "y": 700
             },
             "학년": 4,
             "data": {
@@ -1896,7 +2316,7 @@
             "id": "KHES412",
             "position": {
                 "x": 1980,
-                "y": 0
+                "y": 100
             },
             "학년": 4,
             "data": {
@@ -1924,7 +2344,7 @@
             "id": "KHES414",
             "position": {
                 "x": 1980,
-                "y": 100
+                "y": 200
             },
             "학년": 4,
             "data": {
@@ -1952,7 +2372,7 @@
             "id": "KHES432",
             "position": {
                 "x": 1980,
-                "y": 200
+                "y": 300
             },
             "학년": 4,
             "data": {
@@ -1980,7 +2400,7 @@
             "id": "KHES422",
             "position": {
                 "x": 1980,
-                "y": 300
+                "y": 400
             },
             "학년": 4,
             "data": {
@@ -2008,7 +2428,7 @@
             "id": "KHES424",
             "position": {
                 "x": 1980,
-                "y": 400
+                "y": 500
             },
             "학년": 4,
             "data": {
@@ -2036,7 +2456,7 @@
             "id": "KHES426",
             "position": {
                 "x": 1980,
-                "y": 500
+                "y": 600
             },
             "학년": 4,
             "data": {
@@ -2064,7 +2484,7 @@
             "id": "KHES428",
             "position": {
                 "x": 1980,
-                "y": 600
+                "y": 700
             },
             "학년": 4,
             "data": {
@@ -2077,426 +2497,6 @@
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "오늘날 방사선의 선량측정, 방사선 검출기의 반응, 방사선 영상등을 구하기 위한 컴퓨터 시뮬레이션이 보편화 되고 있다. 그러한 컴퓨터 시뮬레이션 중 방사선응용에 가장 많이 사용되고 있는 몬테카를로 방법의 기본 원리를 익히고 실제 임상에 응용되는 컴퓨터 코드를 실습"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 550.0,
-                "y": 300
-            },
-            "학년": 1,
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 550.0,
-                "y": 400
-            },
-            "학년": 1,
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 550.0,
-                "y": 500
-            },
-            "학년": 1,
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBS151",
-            "position": {
-                "x": 550.0,
-                "y": 600
-            },
-            "학년": 1,
-            "data": {
-                "label": "일반생물학 및 연습Ⅰ",
-                "학수번호": "LIBS151",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명과학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명현상의 기본개념을 생물 전반에 걸쳐 이해시킴으로써 순수생물학 응용생물학계열에 필요한 생명과학의 기본원리를 터득하게 한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBS153",
-            "position": {
-                "x": 550.0,
-                "y": 700
-            },
-            "학년": 1,
-            "data": {
-                "label": "일반생물학실험Ⅰ",
-                "학수번호": "LIBS153",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명과학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "강의를 통해 들은 생물학의 기본적인 개념을 실제적인 실험을 통해 습득하게 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM151",
-            "position": {
-                "x": 550.0,
-                "y": 800
-            },
-            "학년": 1,
-            "data": {
-                "label": "일반화학 및 연습Ⅰ",
-                "학수번호": "CHEM151",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이공계 분야들에 관련된 화학에 관한 기본개념과 이론들을 강의와 연습을 통해 토의하고, 응용분야들인 환경화학이나 생물화학 및 공업화학 등을 소개 한다"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM152",
-            "position": {
-                "x": 550.0,
-                "y": 900
-            },
-            "학년": 1,
-            "data": {
-                "label": "일반화학 및 연습 Ⅱ",
-                "학수번호": "CHEM152",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이공계 분야들에 관련된 화학에 관한 기본개념과 이론들을 강의와 연습을 통해 토의하고, 응용분야들인 환경화학이나 생물화학 및 공업화학 등을 소개 한다"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM153",
-            "position": {
-                "x": 550.0,
-                "y": 1000
-            },
-            "학년": 1,
-            "data": {
-                "label": "일반화학실험Ⅰ",
-                "학수번호": "CHEM153",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일반화학 강의에서 다룬 내용들을 실제 실험을 통하여 화합물의 합성법을 배우고 물성을 측정한다. 또한, 화학에 관련된 실험을 수행하는데 필요한 기본 테크닉들을 익힌다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM154",
-            "position": {
-                "x": 550.0,
-                "y": 1100
-            },
-            "학년": 1,
-            "data": {
-                "label": "일반화학실험II",
-                "학수번호": "CHEM154",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일반화학 강의에서 다룬 내용들을 실제 실험을 통하여 화합물의 합성법을 배우고 물성을 측정한다. 또한, 화학에 관련된 실험을 수행하는데 필요한 기본 테크닉들을 익힌다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS151",
-            "position": {
-                "x": 550.0,
-                "y": 1200
-            },
-            "학년": 1,
-            "data": {
-                "label": "일반물리학 및 연습Ⅰ",
-                "학수번호": "PHYS151",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "물리학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "대학에서 과학 및 공학을 공부하는 데에 필요한 물리학의 기본지식과 이에 근거한 방법론 및 과학적 사고방식을 가르치는 과목이다. 주요 내용은 물리량을 기술하는 방법, Newton 역학, 파동현상, 열역학이며, 미적분을 이용한 수준이다. 3시간의 강의가 있고, 1시간의 연습 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS152",
-            "position": {
-                "x": 550.0,
-                "y": 1300
-            },
-            "학년": 1,
-            "data": {
-                "label": "일반물리학 및 연습Ⅱ",
-                "학수번호": "PHYS152",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "물리학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "대학에서 과학 및 공학을 공부하는 데에 필요한 물리학의 기본지식과 이에 근거한 방법론 및 과학적 사고방식을 가르치는 과목이다. 주요 내용은 전자기학, 광학 및 현대물리학이며, 미적분을 이용한 수준이다. 3시간의 강의가 있고, 1시간의 연습시간에 과제물에 대한 문제 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS161",
-            "position": {
-                "x": 550.0,
-                "y": 1400
-            },
-            "학년": 1,
-            "data": {
-                "label": "일반물리학실험Ⅰ",
-                "학수번호": "PHYS161",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "물리학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일반물리학및연습 I 에서 강의 및 문제풀이로 배우는 내용을 실험을 통해서 배우는 과목이다. 주요 내용은 date분석법, Newton 역학, 파동현상, 열역학에 관한 실험이다. 한번 3시간 실험으로 진행되며, 2인 1조를 원칙으로 하고, 8개조가 한 반을 구성하여 조교 및 교수의  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS162 ",
-            "position": {
-                "x": 550.0,
-                "y": 1500
-            },
-            "학년": 1,
-            "data": {
-                "label": "일반물리학실험Ⅱ",
-                "학수번호": "PHYS162 ",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "물리학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH161",
-            "position": {
-                "x": 550.0,
-                "y": 1600
-            },
-            "학년": 1,
-            "data": {
-                "label": "미적분학 및 연습 Ⅰ",
-                "학수번호": "MATH161",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일계함수의 미분과 적분, 적분의 응용, 극좌표계, 수열과 급수, 벡터와 벡터 공간"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "KHPM414",
-            "position": {
-                "x": 1870.0,
-                "y": 2100
-            },
-            "학년": 4,
-            "data": {
-                "label": "보건의료관계법규",
-                "학수번호": "KHPM414",
-                "세부전공": "보건의로",
-                "전공역량": null,
-                "개설학과": "보건정책관리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "보건 및 의료분야에 적용되고 있는 법률 가운데 국민건강에 직접 적용되고 있는 의료법, 국민건강증진법, 지역보건법, 전염병예방법 등 관련 법률과 이에 따른 시행령 및 시행규칙을 숙지하여 보건행정을 전개함에 있어 그 법적 기초를 충분히 이해하도록 한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",

@@ -185,10 +185,150 @@
             }
         },
         {
-            "id": "GERM203",
+            "id": "COLA173",
             "position": {
                 "x": 440,
                 "y": 0
+            },
+            "학년": 1,
+            "data": {
+                "label": "디지털인문학응용",
+                "학수번호": "COLA173",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "해당 과목은 디지털 시대에 문과 학생들이 필수적으로 알아야 할 다양한 기술이 인문학 분야에서 어떻게 응용되는지 직접 배우고 연습해보는 기회를 제공한다. "
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #ccc",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COLA200",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "학년": 1,
+            "data": {
+                "label": "인문융합세미나",
+                "학수번호": "COLA200",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "인문학을 중심으로 인문, 사회, 자연과학 등 타 학문 영역의 전문지식을 융합하는 세미나 형식으로 운영한다._x000D_\n※심화된 인문 융합 지식을 통섭하는 세미나로서 주관 학과의 전공과목에 준하는 수준으로 운영한다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "학년": 1,
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "학년": 1,
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM203",
+            "position": {
+                "x": 440,
+                "y": 500
             },
             "학년": 1,
             "data": {
@@ -216,7 +356,7 @@
             "id": "GERM205",
             "position": {
                 "x": 440,
-                "y": 100
+                "y": 600
             },
             "학년": 1,
             "data": {
@@ -244,7 +384,7 @@
             "id": "GERM171",
             "position": {
                 "x": 440,
-                "y": 200
+                "y": 700
             },
             "학년": 1,
             "data": {
@@ -272,7 +412,7 @@
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 300
+                "y": 800
             },
             "학년": 1,
             "data": {
@@ -300,7 +440,7 @@
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 400
+                "y": 900
             },
             "학년": 1,
             "data": {
@@ -328,7 +468,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 500
+                "y": 1000
             },
             "학년": 1,
             "data": {
@@ -356,7 +496,7 @@
             "id": "GERM161",
             "position": {
                 "x": 440,
-                "y": 600
+                "y": 1100
             },
             "학년": 1,
             "data": {
@@ -384,7 +524,7 @@
             "id": "GERM173",
             "position": {
                 "x": 440,
-                "y": 700
+                "y": 1200
             },
             "학년": 1,
             "data": {
@@ -412,7 +552,7 @@
             "id": "GERM172",
             "position": {
                 "x": 660,
-                "y": 0
+                "y": 500
             },
             "학년": 1,
             "data": {
@@ -440,7 +580,7 @@
             "id": "GEKS008",
             "position": {
                 "x": 660,
-                "y": 100
+                "y": 600
             },
             "학년": 1,
             "data": {
@@ -468,7 +608,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 200
+                "y": 700
             },
             "학년": 1,
             "data": {
@@ -496,7 +636,7 @@
             "id": "GERM162",
             "position": {
                 "x": 660,
-                "y": 300
+                "y": 800
             },
             "학년": 1,
             "data": {
@@ -524,7 +664,7 @@
             "id": "GERM174",
             "position": {
                 "x": 660,
-                "y": 400
+                "y": 900
             },
             "학년": 1,
             "data": {
@@ -913,10 +1053,38 @@
             }
         },
         {
-            "id": "GERM003",
+            "id": "GERM306",
             "position": {
                 "x": 1320,
                 "y": 0
+            },
+            "학년": 3,
+            "data": {
+                "label": "독산문강독",
+                "학수번호": "GERM306",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "독어독문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": "전공역량안적힘",
+                "syllabus_kr": "독일 산문문학, 특히 전후작품을 강독하고 문학적 특징과 작품 자체의 가치를 해설하고 비평한다._x000D_\n"
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM003",
+            "position": {
+                "x": 1320,
+                "y": 100
             },
             "학년": 3,
             "data": {
@@ -944,7 +1112,7 @@
             "id": "GERM303",
             "position": {
                 "x": 1320,
-                "y": 100
+                "y": 200
             },
             "학년": 3,
             "data": {
@@ -972,7 +1140,7 @@
             "id": "GERM305",
             "position": {
                 "x": 1320,
-                "y": 200
+                "y": 300
             },
             "학년": 3,
             "data": {
@@ -1000,7 +1168,7 @@
             "id": "GERM323",
             "position": {
                 "x": 1320,
-                "y": 300
+                "y": 400
             },
             "학년": 3,
             "data": {
@@ -1028,7 +1196,7 @@
             "id": "GERM325",
             "position": {
                 "x": 1320,
-                "y": 400
+                "y": 500
             },
             "학년": 3,
             "data": {
@@ -1056,7 +1224,7 @@
             "id": "GERM335",
             "position": {
                 "x": 1320,
-                "y": 500
+                "y": 600
             },
             "학년": 3,
             "data": {
@@ -1084,7 +1252,7 @@
             "id": "GERM339",
             "position": {
                 "x": 1320,
-                "y": 600
+                "y": 700
             },
             "학년": 3,
             "data": {
@@ -1112,7 +1280,7 @@
             "id": "GERM349",
             "position": {
                 "x": 1320,
-                "y": 700
+                "y": 800
             },
             "학년": 3,
             "data": {
@@ -1140,7 +1308,7 @@
             "id": "GERM355",
             "position": {
                 "x": 1320,
-                "y": 800
+                "y": 900
             },
             "학년": 3,
             "data": {
@@ -1168,7 +1336,7 @@
             "id": "GERM357",
             "position": {
                 "x": 1320,
-                "y": 900
+                "y": 1000
             },
             "학년": 3,
             "data": {
@@ -1196,7 +1364,7 @@
             "id": "GERM361",
             "position": {
                 "x": 1320,
-                "y": 1000
+                "y": 1100
             },
             "학년": 3,
             "data": {
@@ -1224,7 +1392,7 @@
             "id": "GERM365",
             "position": {
                 "x": 1320,
-                "y": 1100
+                "y": 1200
             },
             "학년": 3,
             "data": {
@@ -1252,7 +1420,7 @@
             "id": "GERM371",
             "position": {
                 "x": 1320,
-                "y": 1200
+                "y": 1300
             },
             "학년": 3,
             "data": {
@@ -1280,7 +1448,7 @@
             "id": "GERM326",
             "position": {
                 "x": 1540,
-                "y": 0
+                "y": 100
             },
             "학년": 3,
             "data": {
@@ -1308,7 +1476,7 @@
             "id": "GERM330",
             "position": {
                 "x": 1540,
-                "y": 100
+                "y": 200
             },
             "학년": 3,
             "data": {
@@ -1336,7 +1504,7 @@
             "id": "GERM332",
             "position": {
                 "x": 1540,
-                "y": 200
+                "y": 300
             },
             "학년": 3,
             "data": {
@@ -1364,7 +1532,7 @@
             "id": "GERM338",
             "position": {
                 "x": 1540,
-                "y": 300
+                "y": 400
             },
             "학년": 3,
             "data": {
@@ -1392,7 +1560,7 @@
             "id": "GERM344",
             "position": {
                 "x": 1540,
-                "y": 400
+                "y": 500
             },
             "학년": 3,
             "data": {
@@ -1420,7 +1588,7 @@
             "id": "GERM350",
             "position": {
                 "x": 1540,
-                "y": 500
+                "y": 600
             },
             "학년": 3,
             "data": {
@@ -1448,7 +1616,7 @@
             "id": "GERM366",
             "position": {
                 "x": 1540,
-                "y": 600
+                "y": 700
             },
             "학년": 3,
             "data": {
@@ -1476,7 +1644,7 @@
             "id": "GERM367",
             "position": {
                 "x": 1540,
-                "y": 700
+                "y": 800
             },
             "학년": 3,
             "data": {
@@ -1501,10 +1669,66 @@
             }
         },
         {
-            "id": "GERM351",
+            "id": "GERM411",
             "position": {
                 "x": 1760,
                 "y": 0
+            },
+            "학년": 4,
+            "data": {
+                "label": "독일현대연극",
+                "학수번호": "GERM411",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "독어독문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": "전공역량안적힘",
+                "syllabus_kr": "독일어권 내의 여러 현대 연극들에 대해 개관한다._x000D_\n"
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM417",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "학년": 4,
+            "data": {
+                "label": "독일어교과교육론",
+                "학수번호": "GERM417",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "독어독문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": "전공역량안적힘",
+                "syllabus_kr": "외국어 교육의 이론적인 기반을 고찰하고 효과적인 독일어교수를 목표로 하는 실천적 방법론을 체득하게 하여 유능한 독일어 교사의 자질을 함양한다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM351",
+            "position": {
+                "x": 1760,
+                "y": 200
             },
             "학년": 4,
             "data": {
@@ -1532,7 +1756,7 @@
             "id": "GERM419",
             "position": {
                 "x": 1760,
-                "y": 100
+                "y": 300
             },
             "학년": 4,
             "data": {
@@ -1560,7 +1784,7 @@
             "id": "GERM421",
             "position": {
                 "x": 1760,
-                "y": 200
+                "y": 400
             },
             "학년": 4,
             "data": {
@@ -1588,7 +1812,7 @@
             "id": "GERM425",
             "position": {
                 "x": 1760,
-                "y": 300
+                "y": 500
             },
             "학년": 4,
             "data": {
@@ -1616,7 +1840,7 @@
             "id": "GERM430",
             "position": {
                 "x": 1760,
-                "y": 400
+                "y": 600
             },
             "학년": 4,
             "data": {
@@ -1644,7 +1868,7 @@
             "id": "GERM431",
             "position": {
                 "x": 1760,
-                "y": 500
+                "y": 700
             },
             "학년": 4,
             "data": {
@@ -1672,7 +1896,7 @@
             "id": "GERM435",
             "position": {
                 "x": 1760,
-                "y": 600
+                "y": 800
             },
             "학년": 4,
             "data": {
@@ -1700,7 +1924,7 @@
             "id": "GERM439",
             "position": {
                 "x": 1760,
-                "y": 700
+                "y": 900
             },
             "학년": 4,
             "data": {
@@ -1728,7 +1952,7 @@
             "id": "GERM445",
             "position": {
                 "x": 1760,
-                "y": 800
+                "y": 1000
             },
             "학년": 4,
             "data": {
@@ -1756,7 +1980,7 @@
             "id": "GERM453",
             "position": {
                 "x": 1760,
-                "y": 900
+                "y": 1100
             },
             "학년": 4,
             "data": {
@@ -1784,7 +2008,7 @@
             "id": "GERM461",
             "position": {
                 "x": 1760,
-                "y": 1000
+                "y": 1200
             },
             "학년": 4,
             "data": {
@@ -1812,7 +2036,7 @@
             "id": "GERM352",
             "position": {
                 "x": 1980,
-                "y": 0
+                "y": 200
             },
             "학년": 4,
             "data": {
@@ -1840,7 +2064,7 @@
             "id": "GERM418",
             "position": {
                 "x": 1980,
-                "y": 100
+                "y": 300
             },
             "학년": 4,
             "data": {
@@ -1868,7 +2092,7 @@
             "id": "GERM426",
             "position": {
                 "x": 1980,
-                "y": 200
+                "y": 400
             },
             "학년": 4,
             "data": {
@@ -1896,7 +2120,7 @@
             "id": "GERM442",
             "position": {
                 "x": 1980,
-                "y": 300
+                "y": 500
             },
             "학년": 4,
             "data": {
@@ -1924,7 +2148,7 @@
             "id": "GERM444",
             "position": {
                 "x": 1980,
-                "y": 400
+                "y": 600
             },
             "학년": 4,
             "data": {
@@ -1952,7 +2176,7 @@
             "id": "GERM446",
             "position": {
                 "x": 1980,
-                "y": 500
+                "y": 700
             },
             "학년": 4,
             "data": {
@@ -1980,7 +2204,7 @@
             "id": "GERM452",
             "position": {
                 "x": 1980,
-                "y": 600
+                "y": 800
             },
             "학년": 4,
             "data": {
@@ -2008,7 +2232,7 @@
             "id": "GERM454",
             "position": {
                 "x": 1980,
-                "y": 700
+                "y": 900
             },
             "학년": 4,
             "data": {
@@ -2021,230 +2245,6 @@
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "드라마, 영화 같은 영상 텍스트는 문화산업에서 그 비중이 날로 커지고 있고, 활자인쇄 텍스트와는 다른 시공간적 제약 특성에 의해 외국어로 번역할 때 각각의 영상물의 특성에 맞는 다양한 번역전략이 요구된다. 본 과목에서는 한국과 독일의 영상물을 목표언어로 번역할  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COLA173",
-            "position": {
-                "x": 550.0,
-                "y": 800
-            },
-            "학년": 1,
-            "data": {
-                "label": "디지털인문학응용",
-                "학수번호": "COLA173",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "문과대학",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "해당 과목은 디지털 시대에 문과 학생들이 필수적으로 알아야 할 다양한 기술이 인문학 분야에서 어떻게 응용되는지 직접 배우고 연습해보는 기회를 제공한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #ccc",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COLA200",
-            "position": {
-                "x": 550.0,
-                "y": 900
-            },
-            "학년": 1,
-            "data": {
-                "label": "인문융합세미나",
-                "학수번호": "COLA200",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "문과대학",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인문학을 중심으로 인문, 사회, 자연과학 등 타 학문 영역의 전문지식을 융합하는 세미나 형식으로 운영한다._x000D_\n※심화된 인문 융합 지식을 통섭하는 세미나로서 주관 학과의 전공과목에 준하는 수준으로 운영한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 550.0,
-                "y": 1000
-            },
-            "학년": 1,
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 550.0,
-                "y": 1100
-            },
-            "학년": 1,
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 550.0,
-                "y": 1200
-            },
-            "학년": 1,
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GERM306",
-            "position": {
-                "x": 1430.0,
-                "y": 1800
-            },
-            "학년": 3,
-            "data": {
-                "label": "독산문강독",
-                "학수번호": "GERM306",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "독어독문학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": "전공역량안적힘",
-                "syllabus_kr": "독일 산문문학, 특히 전후작품을 강독하고 문학적 특징과 작품 자체의 가치를 해설하고 비평한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GERM411",
-            "position": {
-                "x": 1870.0,
-                "y": 1700
-            },
-            "학년": 4,
-            "data": {
-                "label": "독일현대연극",
-                "학수번호": "GERM411",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "독어독문학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": "전공역량안적힘",
-                "syllabus_kr": "독일어권 내의 여러 현대 연극들에 대해 개관한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GERM417",
-            "position": {
-                "x": 1870.0,
-                "y": 1800
-            },
-            "학년": 4,
-            "data": {
-                "label": "독일어교과교육론",
-                "학수번호": "GERM417",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "독어독문학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": "전공역량안적힘",
-                "syllabus_kr": "외국어 교육의 이론적인 기반을 고찰하고 효과적인 독일어교수를 목표로 하는 실천적 방법론을 체득하게 하여 유능한 독일어 교사의 자질을 함양한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",

@@ -185,10 +185,122 @@
             }
         },
         {
-            "id": "PHIL020",
+            "id": "COLA200",
             "position": {
                 "x": 440,
                 "y": 0
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "인문융합세미나",
+                "학수번호": "COLA200",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "인문학을 중심으로 인문, 사회, 자연과학 등 타 학문 영역의 전문지식을 융합하는 세미나 형식으로 운영한다._x000D_\n※심화된 인문 융합 지식을 통섭하는 세미나로서 주관 학과의 전공과목에 준하는 수준으로 운영한다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL020",
+            "position": {
+                "x": 440,
+                "y": 400
             },
             "학년": 1.0,
             "data": {
@@ -216,7 +328,7 @@
             "id": "PHIL191",
             "position": {
                 "x": 440,
-                "y": 100
+                "y": 500
             },
             "학년": 1.0,
             "data": {
@@ -244,7 +356,7 @@
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 200
+                "y": 600
             },
             "학년": 1.0,
             "data": {
@@ -272,7 +384,7 @@
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 300
+                "y": 700
             },
             "학년": 1.0,
             "data": {
@@ -300,7 +412,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 400
+                "y": 800
             },
             "학년": 1.0,
             "data": {
@@ -328,7 +440,7 @@
             "id": "PHIL192",
             "position": {
                 "x": 660,
-                "y": 0
+                "y": 400
             },
             "학년": 1.0,
             "data": {
@@ -356,7 +468,7 @@
             "id": "GEKS008",
             "position": {
                 "x": 660,
-                "y": 100
+                "y": 500
             },
             "학년": 1.0,
             "data": {
@@ -384,7 +496,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 200
+                "y": 600
             },
             "학년": 1.0,
             "data": {
@@ -1249,10 +1361,38 @@
             }
         },
         {
-            "id": "PHIL375",
+            "id": "PHIL355",
             "position": {
                 "x": 1320,
                 "y": 0
+            },
+            "학년": 3,
+            "data": {
+                "label": "언어철학",
+                "학수번호": "PHIL355",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "철학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": "전공역량 안적혀있음",
+                "syllabus_kr": "언어의 본질, 기능, 분류의 문제를 비롯해 意味論과 話用論 등에 관한 현대철학의 문제를 개괄한다._x000D_\n"
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL375",
+            "position": {
+                "x": 1320,
+                "y": 100
             },
             "학년": 3.0,
             "data": {
@@ -1280,7 +1420,7 @@
             "id": "PHIL376",
             "position": {
                 "x": 1320,
-                "y": 100
+                "y": 200
             },
             "학년": 3.0,
             "data": {
@@ -1308,7 +1448,7 @@
             "id": "PHIL398",
             "position": {
                 "x": 1320,
-                "y": 200
+                "y": 300
             },
             "학년": 3.0,
             "data": {
@@ -1336,7 +1476,7 @@
             "id": "PHIL414",
             "position": {
                 "x": 1320,
-                "y": 300
+                "y": 400
             },
             "학년": 3.0,
             "data": {
@@ -1364,7 +1504,7 @@
             "id": "PHIL418",
             "position": {
                 "x": 1320,
-                "y": 400
+                "y": 500
             },
             "학년": 3.0,
             "data": {
@@ -1392,7 +1532,7 @@
             "id": "PHIL419",
             "position": {
                 "x": 1320,
-                "y": 500
+                "y": 600
             },
             "학년": 3.0,
             "data": {
@@ -1420,7 +1560,7 @@
             "id": "PHIL424",
             "position": {
                 "x": 1320,
-                "y": 600
+                "y": 700
             },
             "학년": 3.0,
             "data": {
@@ -1448,7 +1588,7 @@
             "id": "PHIL431",
             "position": {
                 "x": 1320,
-                "y": 700
+                "y": 800
             },
             "학년": 3.0,
             "data": {
@@ -1476,7 +1616,7 @@
             "id": "PHIL432",
             "position": {
                 "x": 1320,
-                "y": 800
+                "y": 900
             },
             "학년": 3.0,
             "data": {
@@ -1504,7 +1644,7 @@
             "id": "PHIL435",
             "position": {
                 "x": 1320,
-                "y": 900
+                "y": 1000
             },
             "학년": 3.0,
             "data": {
@@ -1532,7 +1672,7 @@
             "id": "PHIL436",
             "position": {
                 "x": 1320,
-                "y": 1000
+                "y": 1100
             },
             "학년": 3.0,
             "data": {
@@ -1560,7 +1700,7 @@
             "id": "PHIL446",
             "position": {
                 "x": 1320,
-                "y": 1100
+                "y": 1200
             },
             "학년": 3.0,
             "data": {
@@ -1588,7 +1728,7 @@
             "id": "PHIL222",
             "position": {
                 "x": 1540,
-                "y": 0
+                "y": 100
             },
             "학년": 3.0,
             "data": {
@@ -1616,7 +1756,7 @@
             "id": "PHIL365",
             "position": {
                 "x": 1540,
-                "y": 100
+                "y": 200
             },
             "학년": 3.0,
             "data": {
@@ -1644,7 +1784,7 @@
             "id": "PHIL367",
             "position": {
                 "x": 1540,
-                "y": 200
+                "y": 300
             },
             "학년": 3.0,
             "data": {
@@ -1672,7 +1812,7 @@
             "id": "PHIL391",
             "position": {
                 "x": 1540,
-                "y": 300
+                "y": 400
             },
             "학년": 3.0,
             "data": {
@@ -1700,7 +1840,7 @@
             "id": "PHIL394",
             "position": {
                 "x": 1540,
-                "y": 400
+                "y": 500
             },
             "학년": 3.0,
             "data": {
@@ -1728,7 +1868,7 @@
             "id": "PHIL413",
             "position": {
                 "x": 1540,
-                "y": 500
+                "y": 600
             },
             "학년": 3.0,
             "data": {
@@ -1756,7 +1896,7 @@
             "id": "PHIL420",
             "position": {
                 "x": 1540,
-                "y": 600
+                "y": 700
             },
             "학년": 3.0,
             "data": {
@@ -1784,7 +1924,7 @@
             "id": "PHIL447",
             "position": {
                 "x": 1540,
-                "y": 700
+                "y": 800
             },
             "학년": 3.0,
             "data": {
@@ -1812,7 +1952,7 @@
             "id": "PHIL450",
             "position": {
                 "x": 1540,
-                "y": 800
+                "y": 900
             },
             "학년": 3.0,
             "data": {
@@ -1840,7 +1980,7 @@
             "id": "PHIL452",
             "position": {
                 "x": 1540,
-                "y": 900
+                "y": 1000
             },
             "학년": 3.0,
             "data": {
@@ -1868,7 +2008,7 @@
             "id": "PHIL454",
             "position": {
                 "x": 1540,
-                "y": 1000
+                "y": 1100
             },
             "학년": 3.0,
             "data": {
@@ -2021,146 +2161,6 @@
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "이 과목은 명말청초에서 20세기 중반에 이르는 중국의 주요 유가철학자들의 사상을 검토하는 것을 그 목적으로 한다. 그 흐름 속에서 우리는 전통유학의 근대적 전환과 현대신유학의 등장을 확인할 수 있다. 이 과목을 통해 동아시아의 전통적 사유가 집중했던 문제, 그리고 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COLA200",
-            "position": {
-                "x": 550.0,
-                "y": 500
-            },
-            "학년": 1.0,
-            "data": {
-                "label": "인문융합세미나",
-                "학수번호": "COLA200",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "문과대학",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인문학을 중심으로 인문, 사회, 자연과학 등 타 학문 영역의 전문지식을 융합하는 세미나 형식으로 운영한다._x000D_\n※심화된 인문 융합 지식을 통섭하는 세미나로서 주관 학과의 전공과목에 준하는 수준으로 운영한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 550.0,
-                "y": 600
-            },
-            "학년": 1.0,
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 550.0,
-                "y": 700
-            },
-            "학년": 1.0,
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 550.0,
-                "y": 800
-            },
-            "학년": 1.0,
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL355",
-            "position": {
-                "x": 550.0,
-                "y": 900
-            },
-            "학년": null,
-            "data": {
-                "label": "언어철학",
-                "학수번호": "PHIL355",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": "전공역량 안적혀있음",
-                "syllabus_kr": "언어의 본질, 기능, 분류의 문제를 비롯해 意味論과 話用論 등에 관한 현대철학의 문제를 개괄한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",

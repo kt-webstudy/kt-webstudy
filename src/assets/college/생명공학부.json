@@ -185,10 +185,94 @@
             }
         },
         {
-            "id": "GEWR002",
+            "id": "GELI005",
             "position": {
                 "x": 440,
                 "y": 0
+            },
+            "학년": 1,
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "학년": 1,
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 300
             },
             "학년": 1,
             "data": {
@@ -216,7 +300,7 @@
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 100
+                "y": 400
             },
             "학년": 1,
             "data": {
@@ -244,7 +328,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 200
+                "y": 500
             },
             "학년": 1,
             "data": {
@@ -272,7 +356,7 @@
             "id": "LIBS151",
             "position": {
                 "x": 440,
-                "y": 300
+                "y": 600
             },
             "학년": 1,
             "data": {
@@ -300,7 +384,7 @@
             "id": "LIBS153",
             "position": {
                 "x": 440,
-                "y": 400
+                "y": 700
             },
             "학년": 1,
             "data": {
@@ -328,7 +412,7 @@
             "id": "LIET151",
             "position": {
                 "x": 440,
-                "y": 500
+                "y": 800
             },
             "학년": 1,
             "data": {
@@ -356,7 +440,7 @@
             "id": "LIET155",
             "position": {
                 "x": 440,
-                "y": 600
+                "y": 900
             },
             "학년": 1,
             "data": {
@@ -384,7 +468,7 @@
             "id": "PHYS183",
             "position": {
                 "x": 440,
-                "y": 700
+                "y": 1000
             },
             "학년": 1,
             "data": {
@@ -412,7 +496,7 @@
             "id": "PHYS161",
             "position": {
                 "x": 440,
-                "y": 800
+                "y": 1100
             },
             "학년": 1,
             "data": {
@@ -440,7 +524,7 @@
             "id": "GEKS008",
             "position": {
                 "x": 660,
-                "y": 0
+                "y": 300
             },
             "학년": 1,
             "data": {
@@ -468,7 +552,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 100
+                "y": 400
             },
             "학년": 1,
             "data": {
@@ -496,7 +580,7 @@
             "id": "LIBS152",
             "position": {
                 "x": 660,
-                "y": 200
+                "y": 500
             },
             "학년": 1,
             "data": {
@@ -524,7 +608,7 @@
             "id": "LIBS154",
             "position": {
                 "x": 660,
-                "y": 300
+                "y": 600
             },
             "학년": 1,
             "data": {
@@ -552,7 +636,7 @@
             "id": "LIET152",
             "position": {
                 "x": 660,
-                "y": 400
+                "y": 700
             },
             "학년": 1,
             "data": {
@@ -580,7 +664,7 @@
             "id": "LIET156",
             "position": {
                 "x": 660,
-                "y": 500
+                "y": 800
             },
             "학년": 1,
             "data": {
@@ -608,7 +692,7 @@
             "id": "MATH161",
             "position": {
                 "x": 660,
-                "y": 600
+                "y": 900
             },
             "학년": 1,
             "data": {
@@ -633,10 +717,122 @@
             }
         },
         {
-            "id": "LIET153",
+            "id": "LIBT223",
             "position": {
                 "x": 880,
                 "y": 0
+            },
+            "학년": 2,
+            "data": {
+                "label": "해부조직학",
+                "학수번호": "LIBT223",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT240",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "학년": 2,
+            "data": {
+                "label": "식물번식공학",
+                "학수번호": "LIBT240",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "식물의 번식 기초이론과 종자를 이용한 종자번식과 삽목ㆍ접목ㆍ취목ㆍ분주ㆍ분구 등의 영양번식에 관한 이론을 강의한다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT256",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "학년": 2,
+            "data": {
+                "label": "식물의학개론",
+                "학수번호": "LIBT256",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "식물생산과정 중에서 피해를 주고 있는 식물 병, 해충, 재해 등의 원인, 발생경로, 관리기술에 대한 새로운 최신지식을 부여해주고 고품질, 고부가가치의 식물을  생산하기 위한 생명 과학적 최신기술을 개괄적으로 소개 한다"
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT276",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "학년": 2,
+            "data": {
+                "label": "미생물생리학",
+                "학수번호": "LIBT276",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "미생물의 대사 형식을 분류 설명하고, 생체 에너지 대사와 생체 구성 물질의 생합성 원리를 강의 한다. 아울러 미생물 대사의 조절 메카니즘에 대하여도 강의한다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET153",
+            "position": {
+                "x": 880,
+                "y": 400
             },
             "학년": 2,
             "data": {
@@ -664,7 +860,7 @@
             "id": "LIBT201",
             "position": {
                 "x": 880,
-                "y": 100
+                "y": 500
             },
             "학년": 2,
             "data": {
@@ -692,7 +888,7 @@
             "id": "LIBT215",
             "position": {
                 "x": 880,
-                "y": 200
+                "y": 600
             },
             "학년": 2,
             "data": {
@@ -720,7 +916,7 @@
             "id": "LIBT217",
             "position": {
                 "x": 880,
-                "y": 300
+                "y": 700
             },
             "학년": 2,
             "data": {
@@ -748,7 +944,7 @@
             "id": "LIBT243",
             "position": {
                 "x": 880,
-                "y": 400
+                "y": 800
             },
             "학년": 2,
             "data": {
@@ -776,7 +972,7 @@
             "id": "LIBT245",
             "position": {
                 "x": 880,
-                "y": 500
+                "y": 900
             },
             "학년": 2,
             "data": {
@@ -804,7 +1000,7 @@
             "id": "LIBT247",
             "position": {
                 "x": 880,
-                "y": 600
+                "y": 1000
             },
             "학년": 2,
             "data": {
@@ -832,7 +1028,7 @@
             "id": "LIBT271",
             "position": {
                 "x": 880,
-                "y": 700
+                "y": 1100
             },
             "학년": 2,
             "data": {
@@ -860,7 +1056,7 @@
             "id": "LIST201",
             "position": {
                 "x": 880,
-                "y": 800
+                "y": 1200
             },
             "학년": 2,
             "data": {
@@ -888,7 +1084,7 @@
             "id": "LIST203",
             "position": {
                 "x": 880,
-                "y": 900
+                "y": 1300
             },
             "학년": 2,
             "data": {
@@ -916,7 +1112,7 @@
             "id": "LIBT202",
             "position": {
                 "x": 1100,
-                "y": 0
+                "y": 400
             },
             "학년": 2,
             "data": {
@@ -944,7 +1140,7 @@
             "id": "LIBT210",
             "position": {
                 "x": 1100,
-                "y": 100
+                "y": 500
             },
             "학년": 2,
             "data": {
@@ -972,7 +1168,7 @@
             "id": "LIBT272",
             "position": {
                 "x": 1100,
-                "y": 200
+                "y": 600
             },
             "학년": 2,
             "data": {
@@ -1000,7 +1196,7 @@
             "id": "LIBT274",
             "position": {
                 "x": 1100,
-                "y": 300
+                "y": 700
             },
             "학년": 2,
             "data": {
@@ -1028,7 +1224,7 @@
             "id": "LIST202",
             "position": {
                 "x": 1100,
-                "y": 400
+                "y": 800
             },
             "학년": 2,
             "data": {
@@ -1056,7 +1252,7 @@
             "id": "LIST204",
             "position": {
                 "x": 1100,
-                "y": 500
+                "y": 900
             },
             "학년": 2,
             "data": {
@@ -1081,10 +1277,234 @@
             }
         },
         {
-            "id": "LIBT307",
+            "id": "LIBT325",
             "position": {
                 "x": 1320,
                 "y": 0
+            },
+            "학년": 3,
+            "data": {
+                "label": "대사조절학",
+                "학수번호": "LIBT325",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT332",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "학년": 3,
+            "data": {
+                "label": "동물분자육종학",
+                "학수번호": "LIBT332",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "선발과 교배를 통한 전통적인 동물육종방법을 기초로 하여 형질전환 동물생산에 의한 신품종 육성과 주요 경제형질의 개량을 위한 DNA 표지인자의 선발과 이용 등 최근에 개발된 분자생물학적 기법을 응용한 분자육종에 대한 강의를 한다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT338",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "학년": 3,
+            "data": {
+                "label": "식물조직배양공학",
+                "학수번호": "LIBT338",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "식물조직배양을 통한 유용식물의 기내대량번식 및 육종을 위한 생물공학적 최첨단 관련 이론 및 기술을 강의한다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT344",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "학년": 3,
+            "data": {
+                "label": "식물분자육종학",
+                "학수번호": "LIBT344",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "식물육종과 최근의 생명유전공학적 기법을 접목하여 신품종육성을 위한 이론 및 응용을 강의함으로써 식물의 교배육종으로부터 형질전환으로 이루어지는 생식 및 유전자 재조합에 대한 지식을 습득하고, 얻어진 지식을 바탕으로 유용한 식물체 개발을 위한 응용방법을 실험을"
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT360",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "학년": 3,
+            "data": {
+                "label": "식물이차대사조절학",
+                "학수번호": "LIBT360",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "식물의 이차대사산물은 인류에게 여러 가지 유용성을 제공하는데 이들의 생합성은 식물 유전자들의 다양한 발현 조절 과정을 거쳐서 이루어진다.  식물생명공학의 기본 지식과 이들 유전자들의 발현 조절 및 유전공학적 조작에 관한 다양한 지식과 응용 방법을 아울러 학습한"
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT361",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "학년": 3,
+            "data": {
+                "label": "식물진균학",
+                "학수번호": "LIBT361",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "고품질 식물생산의 주요 제한 인자인 식물병원진균의 생리, 생화학적 특성 및 분류 그리고 식물의 생장 및 생리에 미치는 영향뿐만 아니라 경제적인 피해를 초래하는 주요한 식물진균들을 심도있게 강의한다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT368",
+            "position": {
+                "x": 1320,
+                "y": 600
+            },
+            "학년": 3,
+            "data": {
+                "label": "식물병제어학",
+                "학수번호": "LIBT368",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "식물생산시스템 제한요인인 진균, 세균, 바이러스 등에 의한 식물 병을 예방, 감소, 치료의 목표를 성취하기 위해 미생물을 이용한 생물적, 물리적, 화학적 수단 등을 강의하고 식물 병을 효율적으로 억제하기 위한 최신 종합적 병 관리 및 제어법에 대하여 논한다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT371",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "학년": 3,
+            "data": {
+                "label": "미생물생명공학Ⅰ",
+                "학수번호": "LIBT371",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "미생물에 대한 제반 지식을 기초로 미생물에 의해 생산되는 생성물과 그의 공업화 과정 그리고 미래의 미생물 생명공학에 대하여 강의와 실험을 한다.    "
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT307",
+            "position": {
+                "x": 1320,
+                "y": 800
             },
             "학년": 3,
             "data": {
@@ -1112,7 +1532,7 @@
             "id": "LIBT311",
             "position": {
                 "x": 1320,
-                "y": 100
+                "y": 900
             },
             "학년": 3,
             "data": {
@@ -1140,7 +1560,7 @@
             "id": "LIBT327",
             "position": {
                 "x": 1320,
-                "y": 200
+                "y": 1000
             },
             "학년": 3,
             "data": {
@@ -1168,7 +1588,7 @@
             "id": "LIBT359",
             "position": {
                 "x": 1320,
-                "y": 300
+                "y": 1100
             },
             "학년": 3,
             "data": {
@@ -1196,7 +1616,7 @@
             "id": "LIBT367",
             "position": {
                 "x": 1320,
-                "y": 400
+                "y": 1200
             },
             "학년": 3,
             "data": {
@@ -1224,7 +1644,7 @@
             "id": "LIBT369",
             "position": {
                 "x": 1320,
-                "y": 500
+                "y": 1300
             },
             "학년": 3,
             "data": {
@@ -1252,7 +1672,7 @@
             "id": "LIBT373",
             "position": {
                 "x": 1320,
-                "y": 600
+                "y": 1400
             },
             "학년": 3,
             "data": {
@@ -1280,7 +1700,7 @@
             "id": "LIBT379",
             "position": {
                 "x": 1320,
-                "y": 700
+                "y": 1500
             },
             "학년": 3,
             "data": {
@@ -1308,7 +1728,7 @@
             "id": "LIBT377",
             "position": {
                 "x": 1320,
-                "y": 800
+                "y": 1600
             },
             "학년": 3,
             "data": {
@@ -1336,7 +1756,7 @@
             "id": "LIBT381",
             "position": {
                 "x": 1320,
-                "y": 900
+                "y": 1700
             },
             "학년": 3,
             "data": {
@@ -1364,7 +1784,7 @@
             "id": "LIBT389",
             "position": {
                 "x": 1320,
-                "y": 1000
+                "y": 1800
             },
             "학년": 3,
             "data": {
@@ -1392,7 +1812,7 @@
             "id": "LIBT391",
             "position": {
                 "x": 1320,
-                "y": 1100
+                "y": 1900
             },
             "학년": 3,
             "data": {
@@ -1420,7 +1840,7 @@
             "id": "LIST301",
             "position": {
                 "x": 1320,
-                "y": 1200
+                "y": 2000
             },
             "학년": 3,
             "data": {
@@ -1448,7 +1868,7 @@
             "id": "LIST303",
             "position": {
                 "x": 1320,
-                "y": 1300
+                "y": 2100
             },
             "학년": 3,
             "data": {
@@ -1476,7 +1896,7 @@
             "id": "LIST305",
             "position": {
                 "x": 1320,
-                "y": 1400
+                "y": 2200
             },
             "학년": 3,
             "data": {
@@ -1504,7 +1924,7 @@
             "id": "LIST307",
             "position": {
                 "x": 1320,
-                "y": 1500
+                "y": 2300
             },
             "학년": 3,
             "data": {
@@ -1532,7 +1952,7 @@
             "id": "LIBT308",
             "position": {
                 "x": 1540,
-                "y": 0
+                "y": 800
             },
             "학년": 3,
             "data": {
@@ -1560,7 +1980,7 @@
             "id": "LIBT328",
             "position": {
                 "x": 1540,
-                "y": 100
+                "y": 900
             },
             "학년": 3,
             "data": {
@@ -1588,7 +2008,7 @@
             "id": "LIBT330",
             "position": {
                 "x": 1540,
-                "y": 200
+                "y": 1000
             },
             "학년": 3,
             "data": {
@@ -1616,7 +2036,7 @@
             "id": "LIBT354",
             "position": {
                 "x": 1540,
-                "y": 300
+                "y": 1100
             },
             "학년": 3,
             "data": {
@@ -1644,7 +2064,7 @@
             "id": "LIBT366",
             "position": {
                 "x": 1540,
-                "y": 400
+                "y": 1200
             },
             "학년": 3,
             "data": {
@@ -1672,7 +2092,7 @@
             "id": "LIBT417",
             "position": {
                 "x": 1540,
-                "y": 500
+                "y": 1300
             },
             "학년": 3,
             "data": {
@@ -1700,7 +2120,7 @@
             "id": "LIST302",
             "position": {
                 "x": 1540,
-                "y": 600
+                "y": 1400
             },
             "학년": 3,
             "data": {
@@ -1728,7 +2148,7 @@
             "id": "LIST304",
             "position": {
                 "x": 1540,
-                "y": 700
+                "y": 1500
             },
             "학년": 3,
             "data": {
@@ -1756,7 +2176,7 @@
             "id": "LIST306",
             "position": {
                 "x": 1540,
-                "y": 800
+                "y": 1600
             },
             "학년": 3,
             "data": {
@@ -1781,10 +2201,178 @@
             }
         },
         {
-            "id": "LIBT415",
+            "id": "LIBT416",
             "position": {
                 "x": 1760,
                 "y": 0
+            },
+            "학년": 4,
+            "data": {
+                "label": "줄기세포공학",
+                "학수번호": "LIBT416",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "줄기세포의 확립, 유지 및 분화에 관여하는 다양한 세포내/외 신호전달 및 조절 체계의 기본개념을 분자세포생물학적 수준에서 이해하고, 이를 응용하기 위한 실험적 기법을 강의와 실험을 통하여 습득하도록 한다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT436",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "학년": 4,
+            "data": {
+                "label": "생명정보공학",
+                "학수번호": "LIBT436",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "유전체학 관련 기법을 사용하여 genome 전체의 염기서열이나 transcriptome, proteome 데이터가 만들어지고 이러한 데이터에 bioinformatics 기법을 적용하여 새로운 생명 원리를 찾아내고, 응용하는 지식을 습득한다._x000D_\n"
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT461",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "학년": 4,
+            "data": {
+                "label": "독성생화학",
+                "학수번호": "LIBT461",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생화학적 지식을 토대로 세포 및 분자단계에서 생체독성기전을 이해함으로써 생화학의 이해와 응용을 넓히는데 의의가 있다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT475",
+            "position": {
+                "x": 1760,
+                "y": 300
+            },
+            "학년": 4,
+            "data": {
+                "label": "산업미생물학",
+                "학수번호": "LIBT475",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "산업 미생물학은 과거와 현재 그리고 미래에 산업현장에서 사용되고 있는 미생물의 프로세스와 그 과학적 근간을 배우는 학문이다. 우리의 전통 발효학문에서부터 의학, 환경, 공업에 직 간접적으로 이용되고 있는 미생물을 생태, 분자생화학, 마이크로 프로세스등의 기본 학"
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS474",
+            "position": {
+                "x": 1760,
+                "y": 400
+            },
+            "학년": 4,
+            "data": {
+                "label": "세포신호전달학",
+                "학수번호": "LIBS474",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "세포 증식, 분화, 사멸 등 세포의 주요 기능에 대한 조절 기전을 이해하고 이에 관여하는 여러 세포 인자들의 세포 내 신호 네트워크를 분자생물학적으로 분석하며, 여러 인간 질환과의 연관성을 이해하고자 함. _x000D_\n"
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS478",
+            "position": {
+                "x": 1760,
+                "y": 500
+            },
+            "학년": 4,
+            "data": {
+                "label": "염증생물학",
+                "학수번호": "LIBS478",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "최근의 염증염구동향을 학습하고 질환관의 연계성을 공부함\t\t\t_x000D_\n\t\t\t_x000D_\n\t\t\t_x000D_\n\t\t\t_x000D_\n_x000D_\n"
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT415",
+            "position": {
+                "x": 1760,
+                "y": 600
             },
             "학년": 4,
             "data": {
@@ -1812,7 +2400,7 @@
             "id": "LIBT439",
             "position": {
                 "x": 1760,
-                "y": 100
+                "y": 700
             },
             "학년": 4,
             "data": {
@@ -1840,7 +2428,7 @@
             "id": "LIBT453",
             "position": {
                 "x": 1760,
-                "y": 200
+                "y": 800
             },
             "학년": 4,
             "data": {
@@ -1868,7 +2456,7 @@
             "id": "LIST401",
             "position": {
                 "x": 1760,
-                "y": 300
+                "y": 900
             },
             "학년": 4,
             "data": {
@@ -1896,7 +2484,7 @@
             "id": "LIBT414",
             "position": {
                 "x": 1980,
-                "y": 0
+                "y": 600
             },
             "학년": 4,
             "data": {
@@ -1924,7 +2512,7 @@
             "id": "LIBT438",
             "position": {
                 "x": 1980,
-                "y": 100
+                "y": 700
             },
             "학년": 4,
             "data": {
@@ -1952,7 +2540,7 @@
             "id": "LIBT454",
             "position": {
                 "x": 1980,
-                "y": 200
+                "y": 800
             },
             "학년": 4,
             "data": {
@@ -1980,7 +2568,7 @@
             "id": "LIBT474",
             "position": {
                 "x": 1980,
-                "y": 300
+                "y": 900
             },
             "학년": 4,
             "data": {
@@ -2008,7 +2596,7 @@
             "id": "LIBT476",
             "position": {
                 "x": 1980,
-                "y": 400
+                "y": 1000
             },
             "학년": 4,
             "data": {
@@ -2027,594 +2615,6 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 550.0,
-                "y": 900
-            },
-            "학년": 1,
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 550.0,
-                "y": 1000
-            },
-            "학년": 1,
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 550.0,
-                "y": 1100
-            },
-            "학년": 1,
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT223",
-            "position": {
-                "x": 990.0,
-                "y": 1300
-            },
-            "학년": 2,
-            "data": {
-                "label": "해부조직학",
-                "학수번호": "LIBT223",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT240",
-            "position": {
-                "x": 990.0,
-                "y": 1400
-            },
-            "학년": 2,
-            "data": {
-                "label": "식물번식공학",
-                "학수번호": "LIBT240",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "식물의 번식 기초이론과 종자를 이용한 종자번식과 삽목ㆍ접목ㆍ취목ㆍ분주ㆍ분구 등의 영양번식에 관한 이론을 강의한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT256",
-            "position": {
-                "x": 990.0,
-                "y": 1500
-            },
-            "학년": 2,
-            "data": {
-                "label": "식물의학개론",
-                "학수번호": "LIBT256",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "식물생산과정 중에서 피해를 주고 있는 식물 병, 해충, 재해 등의 원인, 발생경로, 관리기술에 대한 새로운 최신지식을 부여해주고 고품질, 고부가가치의 식물을  생산하기 위한 생명 과학적 최신기술을 개괄적으로 소개 한다"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT276",
-            "position": {
-                "x": 990.0,
-                "y": 1600
-            },
-            "학년": 2,
-            "data": {
-                "label": "미생물생리학",
-                "학수번호": "LIBT276",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "미생물의 대사 형식을 분류 설명하고, 생체 에너지 대사와 생체 구성 물질의 생합성 원리를 강의 한다. 아울러 미생물 대사의 조절 메카니즘에 대하여도 강의한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT325",
-            "position": {
-                "x": 1430.0,
-                "y": 2300
-            },
-            "학년": 3,
-            "data": {
-                "label": "대사조절학",
-                "학수번호": "LIBT325",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT332",
-            "position": {
-                "x": 1430.0,
-                "y": 2400
-            },
-            "학년": 3,
-            "data": {
-                "label": "동물분자육종학",
-                "학수번호": "LIBT332",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "선발과 교배를 통한 전통적인 동물육종방법을 기초로 하여 형질전환 동물생산에 의한 신품종 육성과 주요 경제형질의 개량을 위한 DNA 표지인자의 선발과 이용 등 최근에 개발된 분자생물학적 기법을 응용한 분자육종에 대한 강의를 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT338",
-            "position": {
-                "x": 1430.0,
-                "y": 2500
-            },
-            "학년": 3,
-            "data": {
-                "label": "식물조직배양공학",
-                "학수번호": "LIBT338",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "식물조직배양을 통한 유용식물의 기내대량번식 및 육종을 위한 생물공학적 최첨단 관련 이론 및 기술을 강의한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT344",
-            "position": {
-                "x": 1430.0,
-                "y": 2600
-            },
-            "학년": 3,
-            "data": {
-                "label": "식물분자육종학",
-                "학수번호": "LIBT344",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "식물육종과 최근의 생명유전공학적 기법을 접목하여 신품종육성을 위한 이론 및 응용을 강의함으로써 식물의 교배육종으로부터 형질전환으로 이루어지는 생식 및 유전자 재조합에 대한 지식을 습득하고, 얻어진 지식을 바탕으로 유용한 식물체 개발을 위한 응용방법을 실험을"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT360",
-            "position": {
-                "x": 1430.0,
-                "y": 2700
-            },
-            "학년": 3,
-            "data": {
-                "label": "식물이차대사조절학",
-                "학수번호": "LIBT360",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "식물의 이차대사산물은 인류에게 여러 가지 유용성을 제공하는데 이들의 생합성은 식물 유전자들의 다양한 발현 조절 과정을 거쳐서 이루어진다.  식물생명공학의 기본 지식과 이들 유전자들의 발현 조절 및 유전공학적 조작에 관한 다양한 지식과 응용 방법을 아울러 학습한"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT361",
-            "position": {
-                "x": 1430.0,
-                "y": 2800
-            },
-            "학년": 3,
-            "data": {
-                "label": "식물진균학",
-                "학수번호": "LIBT361",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "고품질 식물생산의 주요 제한 인자인 식물병원진균의 생리, 생화학적 특성 및 분류 그리고 식물의 생장 및 생리에 미치는 영향뿐만 아니라 경제적인 피해를 초래하는 주요한 식물진균들을 심도있게 강의한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT368",
-            "position": {
-                "x": 1430.0,
-                "y": 2900
-            },
-            "학년": 3,
-            "data": {
-                "label": "식물병제어학",
-                "학수번호": "LIBT368",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "식물생산시스템 제한요인인 진균, 세균, 바이러스 등에 의한 식물 병을 예방, 감소, 치료의 목표를 성취하기 위해 미생물을 이용한 생물적, 물리적, 화학적 수단 등을 강의하고 식물 병을 효율적으로 억제하기 위한 최신 종합적 병 관리 및 제어법에 대하여 논한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT371",
-            "position": {
-                "x": 1430.0,
-                "y": 3000
-            },
-            "학년": 3,
-            "data": {
-                "label": "미생물생명공학Ⅰ",
-                "학수번호": "LIBT371",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "미생물에 대한 제반 지식을 기초로 미생물에 의해 생산되는 생성물과 그의 공업화 과정 그리고 미래의 미생물 생명공학에 대하여 강의와 실험을 한다.    "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT416",
-            "position": {
-                "x": 1870.0,
-                "y": 2000
-            },
-            "학년": 4,
-            "data": {
-                "label": "줄기세포공학",
-                "학수번호": "LIBT416",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "줄기세포의 확립, 유지 및 분화에 관여하는 다양한 세포내/외 신호전달 및 조절 체계의 기본개념을 분자세포생물학적 수준에서 이해하고, 이를 응용하기 위한 실험적 기법을 강의와 실험을 통하여 습득하도록 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT436",
-            "position": {
-                "x": 1870.0,
-                "y": 2100
-            },
-            "학년": 4,
-            "data": {
-                "label": "생명정보공학",
-                "학수번호": "LIBT436",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "유전체학 관련 기법을 사용하여 genome 전체의 염기서열이나 transcriptome, proteome 데이터가 만들어지고 이러한 데이터에 bioinformatics 기법을 적용하여 새로운 생명 원리를 찾아내고, 응용하는 지식을 습득한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT461",
-            "position": {
-                "x": 1870.0,
-                "y": 2200
-            },
-            "학년": 4,
-            "data": {
-                "label": "독성생화학",
-                "학수번호": "LIBT461",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생화학적 지식을 토대로 세포 및 분자단계에서 생체독성기전을 이해함으로써 생화학의 이해와 응용을 넓히는데 의의가 있다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT475",
-            "position": {
-                "x": 1870.0,
-                "y": 2300
-            },
-            "학년": 4,
-            "data": {
-                "label": "산업미생물학",
-                "학수번호": "LIBT475",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "산업 미생물학은 과거와 현재 그리고 미래에 산업현장에서 사용되고 있는 미생물의 프로세스와 그 과학적 근간을 배우는 학문이다. 우리의 전통 발효학문에서부터 의학, 환경, 공업에 직 간접적으로 이용되고 있는 미생물을 생태, 분자생화학, 마이크로 프로세스등의 기본 학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBS474",
-            "position": {
-                "x": 1870.0,
-                "y": 2400
-            },
-            "학년": 4,
-            "data": {
-                "label": "세포신호전달학",
-                "학수번호": "LIBS474",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명과학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "세포 증식, 분화, 사멸 등 세포의 주요 기능에 대한 조절 기전을 이해하고 이에 관여하는 여러 세포 인자들의 세포 내 신호 네트워크를 분자생물학적으로 분석하며, 여러 인간 질환과의 연관성을 이해하고자 함. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBS478",
-            "position": {
-                "x": 1870.0,
-                "y": 2500
-            },
-            "학년": 4,
-            "data": {
-                "label": "염증생물학",
-                "학수번호": "LIBS478",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명과학부",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "최근의 염증염구동향을 학습하고 질환관의 연계성을 공부함\t\t\t_x000D_\n\t\t\t_x000D_\n\t\t\t_x000D_\n\t\t\t_x000D_\n_x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
                 "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"

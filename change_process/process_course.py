@@ -26,9 +26,9 @@ node_line_colors = {
 
 def calculate_x_position(학년, 학기):
     if 학기 is None  or 학기 == 0:
-        학기 = 1.5
+        학기 = 1
     if 학년 is None or 학년 == 0:
-        학년 = 4
+        학년 = 1.5
     return 학년 * 440 + ((학기) - 1) * 220
 
 def create_year_and_semester_nodes():
@@ -72,8 +72,7 @@ def sort_courses_by_grade_and_semester(courses):
         if grade is None:
             grade = float('inf')
         if semester is None or semester == 0 or semester == 'null':
-            semester = float('inf')
-            
+            semester = float(0)
         return (grade, semester)
 
     return sorted(courses, key=sort_key)
@@ -81,7 +80,6 @@ def sort_courses_by_grade_and_semester(courses):
 def parse_courses(courses):
     nodes = create_year_and_semester_nodes()
     x_groups = {}
-    zero_semester_nodes = []
 
     for course in courses:
         x = calculate_x_position(course["학년"], course["학기"])
@@ -89,15 +87,26 @@ def parse_courses(courses):
             x_groups[x] = []
         x_groups[x].append(course)
 
+    current_grade = None
+    zero_cnt = 0
     for x, group_courses in x_groups.items():
+        grade = grade = x // 440
+        if grade != current_grade:
+            current_grade = grade
+            zero_cnt = 0
+            
         for index, course in enumerate(group_courses):
             color = node_colors.get(course["구분"], node_colors["기타"])
             line_color = node_line_colors.get(course["구분"], node_line_colors["기타"])
+            if course["학기"] == 2: 
+                y = (index + zero_cnt) * (node_height + node_spacing)
+            else:
+                y = index * (node_height + node_spacing)
             node = {
                 "id": course["학수번호"],
                 "position": {
                     "x": int(x),
-                    "y": index * (node_height + node_spacing),
+                    "y": y,
                 },
                 "학년": course["학년"],
                 "data": {
@@ -123,32 +132,15 @@ def parse_courses(courses):
             }
 
             if (course["학기"] == 0 or course["학기"] is None) and (course["학년"] != 0 or course["학년"] is not None):
-                zero_semester_nodes.append(node)
+                node["position"] = {
+                    "x": int(x),
+                    "y": index * (node_height + node_spacing),
+                }
+                node["type"] = "customZeroNode"
+                nodes.append(node)
+                zero_cnt += 1
             else:
                 nodes.append(node)
-
-    for index, zero_node in enumerate(zero_semester_nodes):
-        
-        # 학년 = (zero_node["학년"]) ? zero_node["학년"] : 1 # 학년 정보가 없으면 1로 기본 설정
-        학년 = zero_node["학년"] if (zero_node["학년"]) else 1 # 학년 정보가 없으면 1로 기본 설정
-
-        first_semester_x = calculate_x_position(학년, 1)
-        second_semester_x = calculate_x_position(학년, 2)
-
-        first_y = [
-        node["position"]["y"] for node in nodes if node["position"]["x"] == first_semester_x
-        ]
-        second_y = [
-            node["position"]["y"] for node in nodes if node["position"]["x"] == second_semester_x
-        ]
-
-        max_y = max(max(first_y, default=0), max(second_y, default=0))
-    
-        zero_node["position"] = {
-            "x": (first_semester_x + second_semester_x) / 2,
-            "y": max_y + (index + 1) * (node_height + node_spacing),
-        }
-        nodes.append(zero_node)
 
     edges = []
     for course in courses:

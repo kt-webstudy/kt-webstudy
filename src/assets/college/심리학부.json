@@ -185,10 +185,178 @@
             }
         },
         {
-            "id": "GEWR002",
+            "id": "GELI005",
             "position": {
                 "x": 440,
                 "y": 0
+            },
+            "학년": 1,
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "학년": 1,
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC201",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "학년": 1,
+            "data": {
+                "label": "심리학의기초I",
+                "학수번호": "PSYC201",
+                "세부전공": null,
+                "전공역량": "Mind&Machine",
+                "개설학과": "심리학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "‘심리학의기초II’와 함께 심리학 전공자를 위한 심리학 전반을 소개하는 기초강의이다. ‘심리학의기초I’에서는 인간의 사고와 행동을 미시적이고 자연과학적 관점에서 다루는 심리학의 하부 분야들을 집중적으로 다룬다. 구체적으로 신경생리학적 기초, 감각 및 지각, 학"
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC202",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "학년": 1,
+            "data": {
+                "label": "심리학의기초II",
+                "학수번호": "PSYC202",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "'심리학의 기초 I'와 함께, 심리학 전공자를 위한 심리학 전반을 소개하는 기초강의이다. '심리학의 기초 II'에서는 인간의 사고와 행동을 미시적이고 자연과학적 관점에서 다루는 심리학의 하부 분야들을 집중적으로 다룬다. 구체적으로 발달과 성격, 사회, 임상, 상담심리 "
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC209",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "학년": 1,
+            "data": {
+                "label": "초급심리통계",
+                "학수번호": "PSYC209",
+                "세부전공": null,
+                "전공역량": "Schema&Scale",
+                "개설학과": "심리학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "심리학의 과학적 연구내용과 방법을 이해하는데 필요한 통계 조사 방법 및 이론을 소개한다. 기본 통계 개념, 각종 자료의 특성과 기술통계, 통계 분포를 이용한 가설 검증 등을 다룬다. 심리 통계 이론 및 실스블 통해 통계 분석, 프로그램 운용 방법, 자료 분석 방법, 결과"
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 600
             },
             "학년": 1,
             "data": {
@@ -216,7 +384,7 @@
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 100
+                "y": 700
             },
             "학년": 1,
             "data": {
@@ -244,7 +412,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 200
+                "y": 800
             },
             "학년": 1,
             "data": {
@@ -272,7 +440,7 @@
             "id": "GEKS008",
             "position": {
                 "x": 660,
-                "y": 0
+                "y": 600
             },
             "학년": 1,
             "data": {
@@ -300,7 +468,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 100
+                "y": 700
             },
             "학년": 1,
             "data": {
@@ -328,7 +496,7 @@
             "id": "PSYC220",
             "position": {
                 "x": 660,
-                "y": 200
+                "y": 800
             },
             "학년": 1,
             "data": {
@@ -1725,10 +1893,206 @@
             }
         },
         {
-            "id": "PSYC422",
+            "id": "PSYC703",
             "position": {
                 "x": 1760,
                 "y": 0
+            },
+            "학년": 4,
+            "data": {
+                "label": "캡스톤디자인",
+                "학수번호": "PSYC703",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "캡스톤디자인은 심리하과 전공과목에서 학습한 것을 바탕으로 사회가 요구하는 과제에 대해 학생들이 스스로 기획하고 종합적인 문제해결을 제안하는 과목이다. 팀 프로젝트를 기반으로 학생들이 주체적으로 문제를 정의하고 이를 해결할 창의적인 방안을 고안한다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC704",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "학년": 4,
+            "data": {
+                "label": "심리학현장실습A1",
+                "학수번호": "PSYC704",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "표준현장실습은 학생들이 산업체에서 본인이 배운 심리학적 지식을 활용하여 실무를 경험하는 과정이다. 실용적인 직무 역량을 배양함과 동시에 본인의 역량과 적성을 탐색하며 전공 지식을 사회에 적용하는 경험을 할 수 있다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC705",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "학년": 4,
+            "data": {
+                "label": "심리학현장실습A2",
+                "학수번호": "PSYC705",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "표준현장실습은 학생들이 산업체에서 본인이 배운 심리학적 지식을 활용하여 실무를 경험하는 과정이다. 실용적인 직무 역량을 배양함과 동시에 본인의 역량과 적성을 탐색하며 전공 지식을 사회에 적용하는 경험을 할 수 있다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC706",
+            "position": {
+                "x": 1760,
+                "y": 300
+            },
+            "학년": 4,
+            "data": {
+                "label": "심리학현장실습B1",
+                "학수번호": "PSYC706",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "표준현장실습은 학생들이 산업체에서 본인이 배운 심리학적 지식을 활용하여 실무를 경험하는 과정이다. 실용적인 직무 역량을 배양함과 동시에 본인의 역량과 적성을 탐색하며 전공 지식을 사회에 적용하는 경험을 할 수 있다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC707",
+            "position": {
+                "x": 1760,
+                "y": 400
+            },
+            "학년": 4,
+            "data": {
+                "label": "심리학현장실습B2",
+                "학수번호": "PSYC707",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "표준현장실습은 학생들이 산업체에서 본인이 배운 심리학적 지식을 활용하여 실무를 경험하는 과정이다. 실용적인 직무 역량을 배양함과 동시에 본인의 역량과 적성을 탐색하며 전공 지식을 사회에 적용하는 경험을 할 수 있다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC708",
+            "position": {
+                "x": 1760,
+                "y": 500
+            },
+            "학년": 4,
+            "data": {
+                "label": "심리학현장실습C",
+                "학수번호": "PSYC708",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "표준현장실습은 학생들이 산업체에서 본인이 배운 심리학적 지식을 활용하여 실무를 경험하는 과정이다. 실용적인 직무 역량을 배양함과 동시에 본인의 역량과 적성을 탐색하며 전공 지식을 사회에 적용하는 경험을 할 수 있다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC709",
+            "position": {
+                "x": 1760,
+                "y": 600
+            },
+            "학년": 4,
+            "data": {
+                "label": "심리학현장실습D",
+                "학수번호": "PSYC709",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "표준현장실습은 학생들이 산업체에서 본인이 배운 심리학적 지식을 활용하여 실무를 경험하는 과정이다. 실용적인 직무 역량을 배양함과 동시에 본인의 역량과 적성을 탐색하며 전공 지식을 사회에 적용하는 경험을 할 수 있다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC422",
+            "position": {
+                "x": 1760,
+                "y": 700
             },
             "학년": 4,
             "data": {
@@ -1756,7 +2120,7 @@
             "id": "PSYC437",
             "position": {
                 "x": 1760,
-                "y": 100
+                "y": 800
             },
             "학년": 4,
             "data": {
@@ -1784,7 +2148,7 @@
             "id": "PSYC439",
             "position": {
                 "x": 1760,
-                "y": 200
+                "y": 900
             },
             "학년": 4,
             "data": {
@@ -1812,7 +2176,7 @@
             "id": "PSYC479",
             "position": {
                 "x": 1760,
-                "y": 300
+                "y": 1000
             },
             "학년": 4,
             "data": {
@@ -1840,7 +2204,7 @@
             "id": "PSYC481",
             "position": {
                 "x": 1760,
-                "y": 400
+                "y": 1100
             },
             "학년": 4,
             "data": {
@@ -1868,7 +2232,7 @@
             "id": "PSYC483",
             "position": {
                 "x": 1760,
-                "y": 500
+                "y": 1200
             },
             "학년": 4,
             "data": {
@@ -1896,7 +2260,7 @@
             "id": "PSYC495",
             "position": {
                 "x": 1760,
-                "y": 600
+                "y": 1300
             },
             "학년": 4,
             "data": {
@@ -1924,7 +2288,7 @@
             "id": "PSYC497",
             "position": {
                 "x": 1760,
-                "y": 700
+                "y": 1400
             },
             "학년": 4,
             "data": {
@@ -1952,7 +2316,7 @@
             "id": "PSYC701",
             "position": {
                 "x": 1760,
-                "y": 800
+                "y": 1500
             },
             "학년": 4,
             "data": {
@@ -1980,7 +2344,7 @@
             "id": "PSYC423",
             "position": {
                 "x": 1980,
-                "y": 0
+                "y": 700
             },
             "학년": 4,
             "data": {
@@ -2008,7 +2372,7 @@
             "id": "PSYC424",
             "position": {
                 "x": 1980,
-                "y": 100
+                "y": 800
             },
             "학년": 4,
             "data": {
@@ -2036,7 +2400,7 @@
             "id": "PSYC468",
             "position": {
                 "x": 1980,
-                "y": 200
+                "y": 900
             },
             "학년": 4,
             "data": {
@@ -2064,7 +2428,7 @@
             "id": "PSYC472",
             "position": {
                 "x": 1980,
-                "y": 300
+                "y": 1000
             },
             "학년": 4,
             "data": {
@@ -2092,7 +2456,7 @@
             "id": "PSYC493",
             "position": {
                 "x": 1980,
-                "y": 400
+                "y": 1100
             },
             "학년": 4,
             "data": {
@@ -2120,7 +2484,7 @@
             "id": "PSYC496",
             "position": {
                 "x": 1980,
-                "y": 500
+                "y": 1200
             },
             "학년": 4,
             "data": {
@@ -2148,7 +2512,7 @@
             "id": "PSYC498",
             "position": {
                 "x": 1980,
-                "y": 600
+                "y": 1300
             },
             "학년": 4,
             "data": {
@@ -2161,370 +2525,6 @@
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "현대사회의 일의 세계에서 나타나는 변화를 이해하고 이러한 변화에 적응하기 위해 필요로 되는 심리사회적 요인을 탐색한다. 비전통적인 진로 양상을 설명하는 진로모형들과 각 진로모형에서 강조되는 적응 자원과 기술을 이해한다.  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 550.0,
-                "y": 300
-            },
-            "학년": 1,
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 550.0,
-                "y": 400
-            },
-            "학년": 1,
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 550.0,
-                "y": 500
-            },
-            "학년": 1,
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC201",
-            "position": {
-                "x": 550.0,
-                "y": 600
-            },
-            "학년": 1,
-            "data": {
-                "label": "심리학의기초I",
-                "학수번호": "PSYC201",
-                "세부전공": null,
-                "전공역량": "Mind&Machine",
-                "개설학과": "심리학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "‘심리학의기초II’와 함께 심리학 전공자를 위한 심리학 전반을 소개하는 기초강의이다. ‘심리학의기초I’에서는 인간의 사고와 행동을 미시적이고 자연과학적 관점에서 다루는 심리학의 하부 분야들을 집중적으로 다룬다. 구체적으로 신경생리학적 기초, 감각 및 지각, 학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC202",
-            "position": {
-                "x": 550.0,
-                "y": 700
-            },
-            "학년": 1,
-            "data": {
-                "label": "심리학의기초II",
-                "학수번호": "PSYC202",
-                "세부전공": null,
-                "전공역량": "Wellness&Wellbeing",
-                "개설학과": "심리학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "'심리학의 기초 I'와 함께, 심리학 전공자를 위한 심리학 전반을 소개하는 기초강의이다. '심리학의 기초 II'에서는 인간의 사고와 행동을 미시적이고 자연과학적 관점에서 다루는 심리학의 하부 분야들을 집중적으로 다룬다. 구체적으로 발달과 성격, 사회, 임상, 상담심리 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC209",
-            "position": {
-                "x": 550.0,
-                "y": 800
-            },
-            "학년": 1,
-            "data": {
-                "label": "초급심리통계",
-                "학수번호": "PSYC209",
-                "세부전공": null,
-                "전공역량": "Schema&Scale",
-                "개설학과": "심리학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "심리학의 과학적 연구내용과 방법을 이해하는데 필요한 통계 조사 방법 및 이론을 소개한다. 기본 통계 개념, 각종 자료의 특성과 기술통계, 통계 분포를 이용한 가설 검증 등을 다룬다. 심리 통계 이론 및 실스블 통해 통계 분석, 프로그램 운용 방법, 자료 분석 방법, 결과"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC703",
-            "position": {
-                "x": 1870.0,
-                "y": 1500
-            },
-            "학년": 4,
-            "data": {
-                "label": "캡스톤디자인",
-                "학수번호": "PSYC703",
-                "세부전공": null,
-                "전공역량": "Leadership&Link",
-                "개설학과": "심리학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "캡스톤디자인은 심리하과 전공과목에서 학습한 것을 바탕으로 사회가 요구하는 과제에 대해 학생들이 스스로 기획하고 종합적인 문제해결을 제안하는 과목이다. 팀 프로젝트를 기반으로 학생들이 주체적으로 문제를 정의하고 이를 해결할 창의적인 방안을 고안한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC704",
-            "position": {
-                "x": 1870.0,
-                "y": 1600
-            },
-            "학년": 4,
-            "data": {
-                "label": "심리학현장실습A1",
-                "학수번호": "PSYC704",
-                "세부전공": null,
-                "전공역량": "Leadership&Link",
-                "개설학과": "심리학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "표준현장실습은 학생들이 산업체에서 본인이 배운 심리학적 지식을 활용하여 실무를 경험하는 과정이다. 실용적인 직무 역량을 배양함과 동시에 본인의 역량과 적성을 탐색하며 전공 지식을 사회에 적용하는 경험을 할 수 있다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC705",
-            "position": {
-                "x": 1870.0,
-                "y": 1700
-            },
-            "학년": 4,
-            "data": {
-                "label": "심리학현장실습A2",
-                "학수번호": "PSYC705",
-                "세부전공": null,
-                "전공역량": "Leadership&Link",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "표준현장실습은 학생들이 산업체에서 본인이 배운 심리학적 지식을 활용하여 실무를 경험하는 과정이다. 실용적인 직무 역량을 배양함과 동시에 본인의 역량과 적성을 탐색하며 전공 지식을 사회에 적용하는 경험을 할 수 있다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC706",
-            "position": {
-                "x": 1870.0,
-                "y": 1800
-            },
-            "학년": 4,
-            "data": {
-                "label": "심리학현장실습B1",
-                "학수번호": "PSYC706",
-                "세부전공": null,
-                "전공역량": "Leadership&Link",
-                "개설학과": "심리학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "표준현장실습은 학생들이 산업체에서 본인이 배운 심리학적 지식을 활용하여 실무를 경험하는 과정이다. 실용적인 직무 역량을 배양함과 동시에 본인의 역량과 적성을 탐색하며 전공 지식을 사회에 적용하는 경험을 할 수 있다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC707",
-            "position": {
-                "x": 1870.0,
-                "y": 1900
-            },
-            "학년": 4,
-            "data": {
-                "label": "심리학현장실습B2",
-                "학수번호": "PSYC707",
-                "세부전공": null,
-                "전공역량": "Leadership&Link",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "표준현장실습은 학생들이 산업체에서 본인이 배운 심리학적 지식을 활용하여 실무를 경험하는 과정이다. 실용적인 직무 역량을 배양함과 동시에 본인의 역량과 적성을 탐색하며 전공 지식을 사회에 적용하는 경험을 할 수 있다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC708",
-            "position": {
-                "x": 1870.0,
-                "y": 2000
-            },
-            "학년": 4,
-            "data": {
-                "label": "심리학현장실습C",
-                "학수번호": "PSYC708",
-                "세부전공": null,
-                "전공역량": "Leadership&Link",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "표준현장실습은 학생들이 산업체에서 본인이 배운 심리학적 지식을 활용하여 실무를 경험하는 과정이다. 실용적인 직무 역량을 배양함과 동시에 본인의 역량과 적성을 탐색하며 전공 지식을 사회에 적용하는 경험을 할 수 있다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC709",
-            "position": {
-                "x": 1870.0,
-                "y": 2100
-            },
-            "학년": 4,
-            "data": {
-                "label": "심리학현장실습D",
-                "학수번호": "PSYC709",
-                "세부전공": null,
-                "전공역량": "Leadership&Link",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "표준현장실습은 학생들이 산업체에서 본인이 배운 심리학적 지식을 활용하여 실무를 경험하는 과정이다. 실용적인 직무 역량을 배양함과 동시에 본인의 역량과 적성을 탐색하며 전공 지식을 사회에 적용하는 경험을 할 수 있다."
             },
             "type": "customNode",
             "sourcePosition": "Right",

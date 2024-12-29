@@ -185,10 +185,94 @@
             }
         },
         {
-            "id": "POLI215",
+            "id": "GELI005",
             "position": {
                 "x": 440,
                 "y": 0
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI215",
+            "position": {
+                "x": 440,
+                "y": 300
             },
             "학년": 1.0,
             "data": {
@@ -216,7 +300,7 @@
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 100
+                "y": 400
             },
             "학년": 1.0,
             "data": {
@@ -244,7 +328,7 @@
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 200
+                "y": 500
             },
             "학년": 1.0,
             "data": {
@@ -272,7 +356,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 300
+                "y": 600
             },
             "학년": 1.0,
             "data": {
@@ -300,7 +384,7 @@
             "id": "GEKS008",
             "position": {
                 "x": 660,
-                "y": 0
+                "y": 300
             },
             "학년": 1.0,
             "data": {
@@ -328,7 +412,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 100
+                "y": 400
             },
             "학년": 1.0,
             "data": {
@@ -1053,10 +1137,38 @@
             }
         },
         {
-            "id": "POLI312",
+            "id": "POLI375",
             "position": {
                 "x": 1320,
                 "y": 0
+            },
+            "학년": 3,
+            "data": {
+                "label": "인턴십프로그램I",
+                "학수번호": "POLI375",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "정치외교학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "전공역량안적힘",
+                "syllabus_kr": null
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI312",
+            "position": {
+                "x": 1320,
+                "y": 100
             },
             "학년": 3.0,
             "data": {
@@ -1084,7 +1196,7 @@
             "id": "POLI313",
             "position": {
                 "x": 1320,
-                "y": 100
+                "y": 200
             },
             "학년": 3.0,
             "data": {
@@ -1112,7 +1224,7 @@
             "id": "POLI320",
             "position": {
                 "x": 1320,
-                "y": 200
+                "y": 300
             },
             "학년": 3.0,
             "data": {
@@ -1140,7 +1252,7 @@
             "id": "POLI321",
             "position": {
                 "x": 1320,
-                "y": 300
+                "y": 400
             },
             "학년": 3.0,
             "data": {
@@ -1168,7 +1280,7 @@
             "id": "POLI322",
             "position": {
                 "x": 1320,
-                "y": 400
+                "y": 500
             },
             "학년": 3.0,
             "data": {
@@ -1196,7 +1308,7 @@
             "id": "POLI325",
             "position": {
                 "x": 1320,
-                "y": 500
+                "y": 600
             },
             "학년": 3.0,
             "data": {
@@ -1224,7 +1336,7 @@
             "id": "POLI326",
             "position": {
                 "x": 1320,
-                "y": 600
+                "y": 700
             },
             "학년": 3.0,
             "data": {
@@ -1252,7 +1364,7 @@
             "id": "POLI330",
             "position": {
                 "x": 1320,
-                "y": 700
+                "y": 800
             },
             "학년": 3.0,
             "data": {
@@ -1280,7 +1392,7 @@
             "id": "POLI331",
             "position": {
                 "x": 1320,
-                "y": 800
+                "y": 900
             },
             "학년": 3.0,
             "data": {
@@ -1308,7 +1420,7 @@
             "id": "POLI338",
             "position": {
                 "x": 1320,
-                "y": 900
+                "y": 1000
             },
             "학년": 3.0,
             "data": {
@@ -1336,7 +1448,7 @@
             "id": "POLI342",
             "position": {
                 "x": 1320,
-                "y": 1000
+                "y": 1100
             },
             "학년": 3.0,
             "data": {
@@ -1364,7 +1476,7 @@
             "id": "POLI355",
             "position": {
                 "x": 1320,
-                "y": 1100
+                "y": 1200
             },
             "학년": 3.0,
             "data": {
@@ -1392,7 +1504,7 @@
             "id": "POLI367",
             "position": {
                 "x": 1320,
-                "y": 1200
+                "y": 1300
             },
             "학년": 3.0,
             "data": {
@@ -1420,7 +1532,7 @@
             "id": "POLI433",
             "position": {
                 "x": 1320,
-                "y": 1300
+                "y": 1400
             },
             "학년": 3.0,
             "data": {
@@ -1448,7 +1560,7 @@
             "id": "POLI453",
             "position": {
                 "x": 1320,
-                "y": 1400
+                "y": 1500
             },
             "학년": 3.0,
             "data": {
@@ -1476,7 +1588,7 @@
             "id": "POLI373",
             "position": {
                 "x": 1540,
-                "y": 0
+                "y": 100
             },
             "학년": 3.0,
             "data": {
@@ -1504,7 +1616,7 @@
             "id": "POLI336",
             "position": {
                 "x": 1540,
-                "y": 100
+                "y": 200
             },
             "학년": 3.0,
             "data": {
@@ -1532,7 +1644,7 @@
             "id": "POLI317",
             "position": {
                 "x": 1540,
-                "y": 200
+                "y": 300
             },
             "학년": 3.0,
             "data": {
@@ -1560,7 +1672,7 @@
             "id": "POLI333",
             "position": {
                 "x": 1540,
-                "y": 300
+                "y": 400
             },
             "학년": 3.0,
             "data": {
@@ -1588,7 +1700,7 @@
             "id": "POLI364",
             "position": {
                 "x": 1540,
-                "y": 400
+                "y": 500
             },
             "학년": 3.0,
             "data": {
@@ -1616,7 +1728,7 @@
             "id": "POLI378",
             "position": {
                 "x": 1540,
-                "y": 500
+                "y": 600
             },
             "학년": 3.0,
             "data": {
@@ -1644,7 +1756,7 @@
             "id": "POLI379",
             "position": {
                 "x": 1540,
-                "y": 600
+                "y": 700
             },
             "학년": 3.0,
             "data": {
@@ -1672,7 +1784,7 @@
             "id": "POLI383",
             "position": {
                 "x": 1540,
-                "y": 700
+                "y": 800
             },
             "학년": 3.0,
             "data": {
@@ -1700,7 +1812,7 @@
             "id": "POLI384",
             "position": {
                 "x": 1540,
-                "y": 800
+                "y": 900
             },
             "학년": 3.0,
             "data": {
@@ -1728,7 +1840,7 @@
             "id": "POLI385",
             "position": {
                 "x": 1540,
-                "y": 900
+                "y": 1000
             },
             "학년": 3.0,
             "data": {
@@ -1753,10 +1865,66 @@
             }
         },
         {
-            "id": "POLI253",
+            "id": "POLI414",
             "position": {
                 "x": 1760,
                 "y": 0
+            },
+            "학년": 4,
+            "data": {
+                "label": "정치사상특수과제연구",
+                "학수번호": "POLI414",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "정치사상분야에서 논쟁이 되고 있는 특수 과제를 선정하여 집중적으로 다루어 봄으로써 정치사상의 현재적 의미를 발견한다._x000D_\n"
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI424",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "학년": 4,
+            "data": {
+                "label": "유럽정치론",
+                "학수번호": "POLI424",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "정치외교학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI253",
+            "position": {
+                "x": 1760,
+                "y": 200
             },
             "학년": 4.0,
             "data": {
@@ -1784,7 +1952,7 @@
             "id": "POLI256",
             "position": {
                 "x": 1760,
-                "y": 100
+                "y": 300
             },
             "학년": 4.0,
             "data": {
@@ -1812,7 +1980,7 @@
             "id": "POLI350",
             "position": {
                 "x": 1760,
-                "y": 200
+                "y": 400
             },
             "학년": 4.0,
             "data": {
@@ -1840,7 +2008,7 @@
             "id": "POLI382",
             "position": {
                 "x": 1760,
-                "y": 300
+                "y": 500
             },
             "학년": 4.0,
             "data": {
@@ -1868,7 +2036,7 @@
             "id": "POLI389",
             "position": {
                 "x": 1760,
-                "y": 400
+                "y": 600
             },
             "학년": 4.0,
             "data": {
@@ -1896,7 +2064,7 @@
             "id": "POLI391",
             "position": {
                 "x": 1760,
-                "y": 500
+                "y": 700
             },
             "학년": 4.0,
             "data": {
@@ -1924,7 +2092,7 @@
             "id": "POLI392",
             "position": {
                 "x": 1760,
-                "y": 600
+                "y": 800
             },
             "학년": 4.0,
             "data": {
@@ -1952,7 +2120,7 @@
             "id": "POLI425",
             "position": {
                 "x": 1760,
-                "y": 700
+                "y": 900
             },
             "학년": 4.0,
             "data": {
@@ -1980,7 +2148,7 @@
             "id": "POLI329",
             "position": {
                 "x": 1980,
-                "y": 0
+                "y": 200
             },
             "학년": 4.0,
             "data": {
@@ -2008,7 +2176,7 @@
             "id": "POLI366",
             "position": {
                 "x": 1980,
-                "y": 100
+                "y": 300
             },
             "학년": 4.0,
             "data": {
@@ -2036,7 +2204,7 @@
             "id": "POLI386",
             "position": {
                 "x": 1980,
-                "y": 200
+                "y": 400
             },
             "학년": 4.0,
             "data": {
@@ -2064,7 +2232,7 @@
             "id": "POLI387",
             "position": {
                 "x": 1980,
-                "y": 300
+                "y": 500
             },
             "학년": 4.0,
             "data": {
@@ -2092,7 +2260,7 @@
             "id": "POLI388",
             "position": {
                 "x": 1980,
-                "y": 400
+                "y": 600
             },
             "학년": 4.0,
             "data": {
@@ -2120,7 +2288,7 @@
             "id": "POLI390",
             "position": {
                 "x": 1980,
-                "y": 500
+                "y": 700
             },
             "학년": 4.0,
             "data": {
@@ -2148,7 +2316,7 @@
             "id": "POLI393",
             "position": {
                 "x": 1980,
-                "y": 600
+                "y": 800
             },
             "학년": 4.0,
             "data": {
@@ -2176,7 +2344,7 @@
             "id": "POLI438",
             "position": {
                 "x": 1980,
-                "y": 700
+                "y": 900
             },
             "학년": 4.0,
             "data": {
@@ -2204,7 +2372,7 @@
             "id": "POLI457",
             "position": {
                 "x": 1980,
-                "y": 800
+                "y": 1000
             },
             "학년": 4.0,
             "data": {
@@ -2232,7 +2400,7 @@
             "id": "POLI458",
             "position": {
                 "x": 1980,
-                "y": 900
+                "y": 1100
             },
             "학년": 4.0,
             "data": {
@@ -2245,174 +2413,6 @@
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "정치사상분야에서 논쟁이 되고 있는 특수 과제를 선정하여 집중적으로 다루어 봄으로써 정치사상의 현재적 의미를 발견한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 550.0,
-                "y": 400
-            },
-            "학년": 1.0,
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 550.0,
-                "y": 500
-            },
-            "학년": 1.0,
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 550.0,
-                "y": 600
-            },
-            "학년": 1.0,
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI375",
-            "position": {
-                "x": 550.0,
-                "y": 700
-            },
-            "학년": null,
-            "data": {
-                "label": "인턴십프로그램I",
-                "학수번호": "POLI375",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "정치외교학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": "전공역량안적힘",
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI414",
-            "position": {
-                "x": 550.0,
-                "y": 800
-            },
-            "학년": null,
-            "data": {
-                "label": "정치사상특수과제연구",
-                "학수번호": "POLI414",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "정치외교학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "정치사상분야에서 논쟁이 되고 있는 특수 과제를 선정하여 집중적으로 다루어 봄으로써 정치사상의 현재적 의미를 발견한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI424",
-            "position": {
-                "x": 550.0,
-                "y": 900
-            },
-            "학년": null,
-            "data": {
-                "label": "유럽정치론",
-                "학수번호": "POLI424",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "정치외교학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
             },
             "type": "customNode",
             "sourcePosition": "Right",

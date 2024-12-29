@@ -185,10 +185,94 @@
             }
         },
         {
-            "id": "GEWR002",
+            "id": "GELI005",
             "position": {
                 "x": 440,
                 "y": 0
+            },
+            "학년": 1,
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "학년": 1,
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 300
             },
             "학년": 1,
             "data": {
@@ -216,7 +300,7 @@
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 100
+                "y": 400
             },
             "학년": 1,
             "data": {
@@ -244,7 +328,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 200
+                "y": 500
             },
             "학년": 1,
             "data": {
@@ -272,7 +356,7 @@
             "id": "MATH161",
             "position": {
                 "x": 440,
-                "y": 300
+                "y": 600
             },
             "학년": 1,
             "data": {
@@ -300,7 +384,7 @@
             "id": "CHEM151",
             "position": {
                 "x": 440,
-                "y": 400
+                "y": 700
             },
             "학년": 1,
             "data": {
@@ -328,7 +412,7 @@
             "id": "CHEM153",
             "position": {
                 "x": 440,
-                "y": 500
+                "y": 800
             },
             "학년": 1,
             "data": {
@@ -356,7 +440,7 @@
             "id": "PHYS151",
             "position": {
                 "x": 440,
-                "y": 600
+                "y": 900
             },
             "학년": 1,
             "data": {
@@ -384,7 +468,7 @@
             "id": "PHYS152",
             "position": {
                 "x": 440,
-                "y": 700
+                "y": 1000
             },
             "학년": 1,
             "data": {
@@ -412,7 +496,7 @@
             "id": "PHYS161",
             "position": {
                 "x": 440,
-                "y": 800
+                "y": 1100
             },
             "학년": 1,
             "data": {
@@ -440,7 +524,7 @@
             "id": "GEKS008",
             "position": {
                 "x": 660,
-                "y": 0
+                "y": 300
             },
             "학년": 1,
             "data": {
@@ -468,7 +552,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 100
+                "y": 400
             },
             "학년": 1,
             "data": {
@@ -496,7 +580,7 @@
             "id": "MATH162",
             "position": {
                 "x": 660,
-                "y": 200
+                "y": 500
             },
             "학년": 1,
             "data": {
@@ -524,7 +608,7 @@
             "id": "CHEM152",
             "position": {
                 "x": 660,
-                "y": 300
+                "y": 600
             },
             "학년": 1,
             "data": {
@@ -552,7 +636,7 @@
             "id": "CHEM156",
             "position": {
                 "x": 660,
-                "y": 400
+                "y": 700
             },
             "학년": 1,
             "data": {
@@ -580,7 +664,7 @@
             "id": "CHEM160",
             "position": {
                 "x": 660,
-                "y": 500
+                "y": 800
             },
             "학년": 1,
             "data": {
@@ -608,7 +692,7 @@
             "id": "PHYS162",
             "position": {
                 "x": 660,
-                "y": 600
+                "y": 900
             },
             "학년": 1,
             "data": {
@@ -633,10 +717,122 @@
             }
         },
         {
-            "id": "CHEM201",
+            "id": "MATH221",
             "position": {
                 "x": 880,
                 "y": 0
+            },
+            "학년": 2,
+            "data": {
+                "label": "선형대수Ⅰ및연습",
+                "학수번호": "MATH221",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "벡터 공간과 연립 일차 방정식, 선형사상과 행렬, 내적 벡터 공간, 행렬식"
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH240",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "학년": 2,
+            "data": {
+                "label": "미분방정식및연습",
+                "학수번호": "MATH240",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일차 상미분 방성식, 이차 선형 상미분 방정식, 이차 선형 상미분 방정식에 대한 급수해, 고차 선형 상미분 방정식, Laplace 변환"
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIST201",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "학년": 2,
+            "data": {
+                "label": "세포생물학Ⅰ",
+                "학수번호": "LIST201",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명체의 기본단위인 세포들의 일반적 구조와 기능, 세포들과 주위의 미세환경과의 상호연관관계에 관한 특성을 강의한다_x000D_\n"
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS233",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "학년": 2,
+            "data": {
+                "label": "수리물리학",
+                "학수번호": "PHYS233",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "학부에서 필수적으로 수강하는 고전역학, 전자기학 및 양자역학에서 필요한 수학적인 방법을 강의한다. 강의 내용으로는 고급 미적분학, 수열, 행렬, 복소함수론, 미분방정식 등을 배운다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM201",
+            "position": {
+                "x": 880,
+                "y": 400
             },
             "학년": 2,
             "data": {
@@ -664,7 +860,7 @@
             "id": "CHEM207",
             "position": {
                 "x": 880,
-                "y": 100
+                "y": 500
             },
             "학년": 2,
             "data": {
@@ -692,7 +888,7 @@
             "id": "CHEM205",
             "position": {
                 "x": 880,
-                "y": 200
+                "y": 600
             },
             "학년": 2,
             "data": {
@@ -720,7 +916,7 @@
             "id": "CHEM202",
             "position": {
                 "x": 1100,
-                "y": 0
+                "y": 400
             },
             "학년": 2,
             "data": {
@@ -748,7 +944,7 @@
             "id": "CHEM206",
             "position": {
                 "x": 1100,
-                "y": 100
+                "y": 500
             },
             "학년": 2,
             "data": {
@@ -776,7 +972,7 @@
             "id": "CHEM214",
             "position": {
                 "x": 1100,
-                "y": 200
+                "y": 600
             },
             "학년": 2,
             "data": {
@@ -804,7 +1000,7 @@
             "id": "CHEM208",
             "position": {
                 "x": 1100,
-                "y": 300
+                "y": 700
             },
             "학년": 2,
             "data": {
@@ -829,10 +1025,150 @@
             }
         },
         {
-            "id": "CHEM305",
+            "id": "CHEM391",
             "position": {
                 "x": 1320,
                 "y": 0
+            },
+            "학년": 3,
+            "data": {
+                "label": "화학교과교육론",
+                "학수번호": "CHEM391",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "체계적인 중등 화학 교육이 이루어지도록 중등학교의 화학 교육과정을 비교 분석하며, 교직과정 이수자에게 개설됨._x000D_\n"
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #ccc",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SCED303",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "학년": 3,
+            "data": {
+                "label": "과학교과논리및논술",
+                "학수번호": "SCED303",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "이과대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "과학 지식 습득 과정에 필요한 논리적 서술 즉 말하기와 글쓰기 능력 습득"
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #ccc",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM394",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "학년": 3,
+            "data": {
+                "label": "화학교과교재연구및지도법",
+                "학수번호": "CHEM394",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "중등학교 화학 교사 지망자들을 위해 일반화학 수준의 강의 방법과 교재 이용법을 소개한다._x000D_\n"
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #ccc",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIST301",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "학년": 3,
+            "data": {
+                "label": "분자생물학Ⅰ",
+                "학수번호": "LIST301",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명현상을 분자수준에서 이해를 도모한다. 특히 유전자의 구조, 기능, 발현 및 조절 등 기작을 포함하여 재조합, 전환, 신호 전달현상 등을 심도 있게 다루며 또한 주요 유전자 조작기법의 원리를 강의한다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS304",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "학년": 3,
+            "data": {
+                "label": "현대물리학실험",
+                "학수번호": "PHYS304",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM305",
+            "position": {
+                "x": 1320,
+                "y": 500
             },
             "학년": 3,
             "data": {
@@ -860,7 +1196,7 @@
             "id": "CHEM307",
             "position": {
                 "x": 1320,
-                "y": 100
+                "y": 600
             },
             "학년": 3,
             "data": {
@@ -888,7 +1224,7 @@
             "id": "CHEM313",
             "position": {
                 "x": 1320,
-                "y": 200
+                "y": 700
             },
             "학년": 3,
             "data": {
@@ -916,7 +1252,7 @@
             "id": "CHEM321",
             "position": {
                 "x": 1320,
-                "y": 300
+                "y": 800
             },
             "학년": 3,
             "data": {
@@ -944,7 +1280,7 @@
             "id": "CHEM322",
             "position": {
                 "x": 1320,
-                "y": 400
+                "y": 900
             },
             "학년": 3,
             "data": {
@@ -972,7 +1308,7 @@
             "id": "CHEM308",
             "position": {
                 "x": 1540,
-                "y": 0
+                "y": 500
             },
             "학년": 3,
             "data": {
@@ -1000,7 +1336,7 @@
             "id": "CHEM300",
             "position": {
                 "x": 1540,
-                "y": 100
+                "y": 600
             },
             "학년": 3,
             "data": {
@@ -1028,7 +1364,7 @@
             "id": "CHEM326",
             "position": {
                 "x": 1540,
-                "y": 200
+                "y": 700
             },
             "학년": 3,
             "data": {
@@ -1056,7 +1392,7 @@
             "id": "CHEM328",
             "position": {
                 "x": 1540,
-                "y": 300
+                "y": 800
             },
             "학년": 3,
             "data": {
@@ -1084,7 +1420,7 @@
             "id": "CHEM452",
             "position": {
                 "x": 1540,
-                "y": 400
+                "y": 900
             },
             "학년": 3,
             "data": {
@@ -1112,7 +1448,7 @@
             "id": "CHEM455",
             "position": {
                 "x": 1540,
-                "y": 500
+                "y": 1000
             },
             "학년": 3,
             "data": {
@@ -1140,7 +1476,7 @@
             "id": "CHEM461",
             "position": {
                 "x": 1540,
-                "y": 600
+                "y": 1100
             },
             "학년": 3,
             "data": {
@@ -1165,10 +1501,38 @@
             }
         },
         {
-            "id": "CHEM411",
+            "id": "PHYS482",
             "position": {
                 "x": 1760,
                 "y": 0
+            },
+            "학년": 4,
+            "data": {
+                "label": "고체물리학",
+                "학수번호": "PHYS482",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "결정 구조와 격자진동, 에너지띠 구조 등 응집물질의 공통적인 특성을 공부한다. 아울러 금속, 반도체, 절연체 등의 물리적 특성을 이해한다."
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM411",
+            "position": {
+                "x": 1760,
+                "y": 100
             },
             "학년": 4,
             "data": {
@@ -1196,7 +1560,7 @@
             "id": "CHEM310",
             "position": {
                 "x": 1760,
-                "y": 100
+                "y": 200
             },
             "학년": 4,
             "data": {
@@ -1224,7 +1588,7 @@
             "id": "CHEM453",
             "position": {
                 "x": 1760,
-                "y": 200
+                "y": 300
             },
             "학년": 4,
             "data": {
@@ -1252,7 +1616,7 @@
             "id": "CHEM458",
             "position": {
                 "x": 1760,
-                "y": 300
+                "y": 400
             },
             "학년": 4,
             "data": {
@@ -1280,7 +1644,7 @@
             "id": "CHEM462",
             "position": {
                 "x": 1760,
-                "y": 400
+                "y": 500
             },
             "학년": 4,
             "data": {
@@ -1308,7 +1672,7 @@
             "id": "CHEM464",
             "position": {
                 "x": 1760,
-                "y": 500
+                "y": 600
             },
             "학년": 4,
             "data": {
@@ -1336,7 +1700,7 @@
             "id": "CHEM467",
             "position": {
                 "x": 1760,
-                "y": 600
+                "y": 700
             },
             "학년": 4,
             "data": {
@@ -1364,7 +1728,7 @@
             "id": "CHEM469",
             "position": {
                 "x": 1760,
-                "y": 700
+                "y": 800
             },
             "학년": 4,
             "data": {
@@ -1392,7 +1756,7 @@
             "id": "CHEM457",
             "position": {
                 "x": 1980,
-                "y": 0
+                "y": 100
             },
             "학년": 4,
             "data": {
@@ -1420,7 +1784,7 @@
             "id": "CHEM466",
             "position": {
                 "x": 1980,
-                "y": 100
+                "y": 200
             },
             "학년": 4,
             "data": {
@@ -1439,370 +1803,6 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 550.0,
-                "y": 900
-            },
-            "학년": 1,
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 550.0,
-                "y": 1000
-            },
-            "학년": 1,
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 550.0,
-                "y": 1100
-            },
-            "학년": 1,
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH221",
-            "position": {
-                "x": 990.0,
-                "y": 700
-            },
-            "학년": 2,
-            "data": {
-                "label": "선형대수Ⅰ및연습",
-                "학수번호": "MATH221",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "벡터 공간과 연립 일차 방정식, 선형사상과 행렬, 내적 벡터 공간, 행렬식"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH240",
-            "position": {
-                "x": 990.0,
-                "y": 800
-            },
-            "학년": 2,
-            "data": {
-                "label": "미분방정식및연습",
-                "학수번호": "MATH240",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일차 상미분 방성식, 이차 선형 상미분 방정식, 이차 선형 상미분 방정식에 대한 급수해, 고차 선형 상미분 방정식, Laplace 변환"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIST201",
-            "position": {
-                "x": 990.0,
-                "y": 900
-            },
-            "학년": 2,
-            "data": {
-                "label": "세포생물학Ⅰ",
-                "학수번호": "LIST201",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명과학대학",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명체의 기본단위인 세포들의 일반적 구조와 기능, 세포들과 주위의 미세환경과의 상호연관관계에 관한 특성을 강의한다_x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS233",
-            "position": {
-                "x": 990.0,
-                "y": 1000
-            },
-            "학년": 2,
-            "data": {
-                "label": "수리물리학",
-                "학수번호": "PHYS233",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "물리학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "학부에서 필수적으로 수강하는 고전역학, 전자기학 및 양자역학에서 필요한 수학적인 방법을 강의한다. 강의 내용으로는 고급 미적분학, 수열, 행렬, 복소함수론, 미분방정식 등을 배운다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM391",
-            "position": {
-                "x": 1430.0,
-                "y": 1400
-            },
-            "학년": 3,
-            "data": {
-                "label": "화학교과교육론",
-                "학수번호": "CHEM391",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "체계적인 중등 화학 교육이 이루어지도록 중등학교의 화학 교육과정을 비교 분석하며, 교직과정 이수자에게 개설됨._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #ccc",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SCED303",
-            "position": {
-                "x": 1430.0,
-                "y": 1500
-            },
-            "학년": 3,
-            "data": {
-                "label": "과학교과논리및논술",
-                "학수번호": "SCED303",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "이과대학",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "과학 지식 습득 과정에 필요한 논리적 서술 즉 말하기와 글쓰기 능력 습득"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #ccc",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM394",
-            "position": {
-                "x": 1430.0,
-                "y": 1600
-            },
-            "학년": 3,
-            "data": {
-                "label": "화학교과교재연구및지도법",
-                "학수번호": "CHEM394",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "중등학교 화학 교사 지망자들을 위해 일반화학 수준의 강의 방법과 교재 이용법을 소개한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #ccc",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIST301",
-            "position": {
-                "x": 1430.0,
-                "y": 1700
-            },
-            "학년": 3,
-            "data": {
-                "label": "분자생물학Ⅰ",
-                "학수번호": "LIST301",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명과학대학",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명현상을 분자수준에서 이해를 도모한다. 특히 유전자의 구조, 기능, 발현 및 조절 등 기작을 포함하여 재조합, 전환, 신호 전달현상 등을 심도 있게 다루며 또한 주요 유전자 조작기법의 원리를 강의한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS304",
-            "position": {
-                "x": 1430.0,
-                "y": 1800
-            },
-            "학년": 3,
-            "data": {
-                "label": "현대물리학실험",
-                "학수번호": "PHYS304",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "물리학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS482",
-            "position": {
-                "x": 1870.0,
-                "y": 2000
-            },
-            "학년": 4,
-            "data": {
-                "label": "고체물리학",
-                "학수번호": "PHYS482",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "물리학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "결정 구조와 격자진동, 에너지띠 구조 등 응집물질의 공통적인 특성을 공부한다. 아울러 금속, 반도체, 절연체 등의 물리적 특성을 이해한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
                 "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
