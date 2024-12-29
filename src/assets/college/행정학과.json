@@ -521,34 +521,6 @@
             }
         },
         {
-            "id": "JURA305",
-            "position": {
-                "x": 660,
-                "y": 500
-            },
-            "학년": null,
-            "data": {
-                "label": "행정법총론",
-                "학수번호": "JURA305",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "법학전문대학원",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customZeroNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "PAPP201",
             "position": {
                 "x": 880,

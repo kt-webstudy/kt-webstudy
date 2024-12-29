@@ -9,18 +9,18 @@ node_colors = {
     "교양선택": "#f8f8f8",
     "전공필수": "#D1C4E9",
     "전공선택": "#f8f8f8",
-    "전공필수선택" : "#FFD180",
+    "전공필수선택" : "#c4d0e9",
     "전공인정": "#FFFFFF",
     "기타": "#FFFFFF",
 }
 node_line_colors = {
-    "학문의기초": "#ff3c3c",
+    "학문의기초": "#92c3a5",
     "교양필수": "#92c3a5",
     "교양선택": "#F8BBD0",
     "전공필수": "#9a49c2",
     "전공선택": "#8f8f8f",
-    "전공필수선택" : "#dbaf64",
-    "전공인정": "#8f8f8f",
+    "전공필수선택" : "#55aad4",
+    "전공인정": "#55aad4",
     "기타": "#ccc",
 }
 
@@ -28,7 +28,7 @@ def calculate_x_position(학년, 학기):
     if 학기 is None  or 학기 == 0:
         학기 = 1
     if 학년 is None or 학년 == 0:
-        학년 = 1.5
+        학년 = 1
     return 학년 * 440 + ((학기) - 1) * 220
 
 def create_year_and_semester_nodes():
@@ -70,7 +70,7 @@ def sort_courses_by_grade_and_semester(courses):
         semester = course.get("학기", None) 
 
         if grade is None:
-            grade = float('inf')
+            grade = float('-inf')
         if semester is None or semester == 0 or semester == 'null':
             semester = float(0)
         return (grade, semester)
@@ -85,6 +85,10 @@ def parse_courses(courses):
         x = calculate_x_position(course["학년"], course["학기"])
         if x not in x_groups:
             x_groups[x] = []
+            
+        if (course["학년"] == 0 or course["학년"] is None) and course["구분"] == "전공인정": # 전공인정인데 과목이 불분명한 경우 표시하지 않기
+            continue
+        
         x_groups[x].append(course)
 
     current_grade = None
@@ -98,6 +102,7 @@ def parse_courses(courses):
         for index, course in enumerate(group_courses):
             color = node_colors.get(course["구분"], node_colors["기타"])
             line_color = node_line_colors.get(course["구분"], node_line_colors["기타"])
+            
             if course["학기"] == 2: 
                 y = (index + zero_cnt) * (node_height + node_spacing)
             else:

@@ -319,7 +319,7 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -431,7 +431,7 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -459,7 +459,7 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -487,7 +487,7 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -544,230 +544,6 @@
             "style": {
                 "backgroundColor": "#C8E6C9",
                 "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BUSS003",
-            "position": {
-                "x": 660,
-                "y": 500
-            },
-            "학년": null,
-            "data": {
-                "label": "Topic Course",
-                "학수번호": "BUSS003",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "경영학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "학과에서 중요한 현대 사회의 특정 주제나 그에 대한 새로운 접근 방법을 학습한다. "
-            },
-            "type": "customZeroNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PAPP151",
-            "position": {
-                "x": 660,
-                "y": 600
-            },
-            "학년": null,
-            "data": {
-                "label": "행정학원론",
-                "학수번호": "PAPP151",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "행정학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "학문분야로서의 행정학에 대한 이해에 초점을 두고 행정학의 발달, 행정학의 기본 개념과 이론 등을 소개한다. "
-            },
-            "type": "customZeroNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JURA204",
-            "position": {
-                "x": 660,
-                "y": 700
-            },
-            "학년": null,
-            "data": {
-                "label": "회사법",
-                "학수번호": "JURA204",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "법학전문대학원",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "회사기업, 특히 주식회사에 관하여 설립에서부터 해산·청산에 이르기까지의 법적 제문제점을 해석학적인 측면은 물론, 비교법적·입법론적으로 고찰한다"
-            },
-            "type": "customZeroNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JURA251",
-            "position": {
-                "x": 660,
-                "y": 800
-            },
-            "학년": null,
-            "data": {
-                "label": "행정법",
-                "학수번호": "JURA251",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "법학전문대학원",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "재량과 기속의 구별, 법률유보론, 주관적 공권론 등 행정법의 기초개념을 바탕으로 행정행위론, 행정입법론, 행정계획, 공법상 계약, 행정상 사실행위 등 행정작용의 개별형식들을 중심으로 행정법이론을 체계화하고, 개별 행정법영역의 주요 법적 문제를 공무원법, 지방자치"
-            },
-            "type": "customZeroNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JURA301",
-            "position": {
-                "x": 660,
-                "y": 900
-            },
-            "학년": null,
-            "data": {
-                "label": "상법",
-                "학수번호": "JURA301",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "법학전문대학원",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "상법의 개념, 역사 및 그 기반을 이루는 경제생활과 이념을 연구하고 기업주체인 상인과 기업의 동태를 규율하는 상행위법에 관한 고찰을 한다. 또한 현대 상거래에서 빼놓을 수 없는 유가증권인 어음·수표에 관하여 그 기초이론 및 판례를 통하여 공부한다."
-            },
-            "type": "customZeroNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGL121",
-            "position": {
-                "x": 660,
-                "y": 1000
-            },
-            "학년": null,
-            "data": {
-                "label": "기업영어실습",
-                "학수번호": "ENGL121",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "영어영문학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "어학실습실에서 읽고, 듣고, 말하기를 반복함으로써 학생들의 실용영어실력을 향상시키는 데 목적이 있다. "
-            },
-            "type": "customZeroNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS309",
-            "position": {
-                "x": 660,
-                "y": 1100
-            },
-            "학년": null,
-            "data": {
-                "label": "비즈니스영어",
-                "학수번호": "IFLS309",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "국제어학원",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customZeroNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EGRN322",
-            "position": {
-                "x": 660,
-                "y": 1200
-            },
-            "학년": null,
-            "data": {
-                "label": "창업과경영을위한공학기술경향",
-                "학수번호": "EGRN322",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "공과대학",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "공학을 전공하지 않는 예비 경영자를 대상으로 설계된 강좌로 에너지, 자동차, 반도체, 정보통신, 석유화학, 철강, 건설 등 주요 산업의 현황, 국제 경쟁력, 제조 공정, 핵심 기술 등에 관한 내용을 다루고 로봇, 바이오, 환경, 태양광 등 미래 산업에 대하여 소개한다."
-            },
-            "type": "customZeroNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1075,7 +851,7 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1103,7 +879,7 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1411,7 +1187,7 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1439,6 +1215,34 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS003",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "학년": 3,
+            "data": {
+                "label": "Topic Course",
+                "학수번호": "BUSS003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "학과에서 중요한 현대 사회의 특정 주제나 그에 대한 새로운 접근 방법을 학습한다. "
+            },
+            "type": "customZeroNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
                 "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
@@ -1448,7 +1252,7 @@
             "id": "BUSS311",
             "position": {
                 "x": 1320,
-                "y": 0
+                "y": 100
             },
             "학년": 3.0,
             "data": {
@@ -1476,7 +1280,7 @@
             "id": "BUSS313",
             "position": {
                 "x": 1320,
-                "y": 100
+                "y": 200
             },
             "학년": 3.0,
             "data": {
@@ -1504,7 +1308,7 @@
             "id": "BUSS302",
             "position": {
                 "x": 1320,
-                "y": 200
+                "y": 300
             },
             "학년": 3.0,
             "data": {
@@ -1532,7 +1336,7 @@
             "id": "BUSS306",
             "position": {
                 "x": 1320,
-                "y": 300
+                "y": 400
             },
             "학년": 3.0,
             "data": {
@@ -1560,7 +1364,7 @@
             "id": "BUSS316",
             "position": {
                 "x": 1320,
-                "y": 400
+                "y": 500
             },
             "학년": 3.0,
             "data": {
@@ -1588,7 +1392,7 @@
             "id": "BUSS317",
             "position": {
                 "x": 1320,
-                "y": 500
+                "y": 600
             },
             "학년": 3.0,
             "data": {
@@ -1616,7 +1420,7 @@
             "id": "BUSS321",
             "position": {
                 "x": 1320,
-                "y": 600
+                "y": 700
             },
             "학년": 3.0,
             "data": {
@@ -1644,7 +1448,7 @@
             "id": "BUSS325",
             "position": {
                 "x": 1320,
-                "y": 700
+                "y": 800
             },
             "학년": 3.0,
             "data": {
@@ -1672,7 +1476,7 @@
             "id": "BUSS331",
             "position": {
                 "x": 1320,
-                "y": 800
+                "y": 900
             },
             "학년": 3.0,
             "data": {
@@ -1700,7 +1504,7 @@
             "id": "BUSS335",
             "position": {
                 "x": 1320,
-                "y": 900
+                "y": 1000
             },
             "학년": 3.0,
             "data": {
@@ -1728,7 +1532,7 @@
             "id": "BUSS342",
             "position": {
                 "x": 1320,
-                "y": 1000
+                "y": 1100
             },
             "학년": 3.0,
             "data": {
@@ -1756,7 +1560,7 @@
             "id": "BUSS354",
             "position": {
                 "x": 1320,
-                "y": 1100
+                "y": 1200
             },
             "학년": 3.0,
             "data": {
@@ -1784,7 +1588,7 @@
             "id": "BUSS356",
             "position": {
                 "x": 1320,
-                "y": 1200
+                "y": 1300
             },
             "학년": 3.0,
             "data": {
@@ -1812,7 +1616,7 @@
             "id": "BUSS361",
             "position": {
                 "x": 1320,
-                "y": 1300
+                "y": 1400
             },
             "학년": 3.0,
             "data": {
@@ -1840,7 +1644,7 @@
             "id": "BUSS363",
             "position": {
                 "x": 1320,
-                "y": 1400
+                "y": 1500
             },
             "학년": 3.0,
             "data": {
@@ -1868,7 +1672,7 @@
             "id": "BUSS364",
             "position": {
                 "x": 1320,
-                "y": 1500
+                "y": 1600
             },
             "학년": 3.0,
             "data": {
@@ -1896,7 +1700,7 @@
             "id": "BUSS365",
             "position": {
                 "x": 1320,
-                "y": 1600
+                "y": 1700
             },
             "학년": 3.0,
             "data": {
@@ -1924,7 +1728,7 @@
             "id": "BUSS377",
             "position": {
                 "x": 1320,
-                "y": 1700
+                "y": 1800
             },
             "학년": 3.0,
             "data": {
@@ -1952,7 +1756,7 @@
             "id": "BUSS382",
             "position": {
                 "x": 1320,
-                "y": 1800
+                "y": 1900
             },
             "학년": 3.0,
             "data": {
@@ -1980,7 +1784,7 @@
             "id": "BUSS384",
             "position": {
                 "x": 1320,
-                "y": 1900
+                "y": 2000
             },
             "학년": 3.0,
             "data": {
@@ -2008,7 +1812,7 @@
             "id": "BUSS385",
             "position": {
                 "x": 1320,
-                "y": 2000
+                "y": 2100
             },
             "학년": 3.0,
             "data": {
@@ -2036,7 +1840,7 @@
             "id": "BUSS390",
             "position": {
                 "x": 1320,
-                "y": 2100
+                "y": 2200
             },
             "학년": 3.0,
             "data": {
@@ -2064,7 +1868,7 @@
             "id": "BUSS393",
             "position": {
                 "x": 1320,
-                "y": 2200
+                "y": 2300
             },
             "학년": 3.0,
             "data": {
@@ -2092,7 +1896,7 @@
             "id": "BUSS397",
             "position": {
                 "x": 1320,
-                "y": 2300
+                "y": 2400
             },
             "학년": 3.0,
             "data": {
@@ -2120,7 +1924,7 @@
             "id": "BUSS301",
             "position": {
                 "x": 1540,
-                "y": 0
+                "y": 100
             },
             "학년": 3.0,
             "data": {
@@ -2148,7 +1952,7 @@
             "id": "BUSS303",
             "position": {
                 "x": 1540,
-                "y": 100
+                "y": 200
             },
             "학년": 3.0,
             "data": {
@@ -2176,7 +1980,7 @@
             "id": "BUSS305",
             "position": {
                 "x": 1540,
-                "y": 200
+                "y": 300
             },
             "학년": 3.0,
             "data": {
@@ -2204,7 +2008,7 @@
             "id": "BUSS307",
             "position": {
                 "x": 1540,
-                "y": 300
+                "y": 400
             },
             "학년": 3.0,
             "data": {
@@ -2232,7 +2036,7 @@
             "id": "BUSS322",
             "position": {
                 "x": 1540,
-                "y": 400
+                "y": 500
             },
             "학년": 3.0,
             "data": {
@@ -2260,7 +2064,7 @@
             "id": "BUSS328",
             "position": {
                 "x": 1540,
-                "y": 500
+                "y": 600
             },
             "학년": 3.0,
             "data": {
@@ -2288,7 +2092,7 @@
             "id": "BUSS330",
             "position": {
                 "x": 1540,
-                "y": 600
+                "y": 700
             },
             "학년": 3.0,
             "data": {
@@ -2316,7 +2120,7 @@
             "id": "BUSS340",
             "position": {
                 "x": 1540,
-                "y": 700
+                "y": 800
             },
             "학년": 3.0,
             "data": {
@@ -2344,7 +2148,7 @@
             "id": "BUSS344",
             "position": {
                 "x": 1540,
-                "y": 800
+                "y": 900
             },
             "학년": 3.0,
             "data": {
@@ -2372,7 +2176,7 @@
             "id": "BUSS352",
             "position": {
                 "x": 1540,
-                "y": 900
+                "y": 1000
             },
             "학년": 3.0,
             "data": {
@@ -2400,7 +2204,7 @@
             "id": "BUSS355",
             "position": {
                 "x": 1540,
-                "y": 1000
+                "y": 1100
             },
             "학년": 3.0,
             "data": {
@@ -2428,7 +2232,7 @@
             "id": "BUSS358",
             "position": {
                 "x": 1540,
-                "y": 1100
+                "y": 1200
             },
             "학년": 3.0,
             "data": {
@@ -2456,7 +2260,7 @@
             "id": "BUSS362",
             "position": {
                 "x": 1540,
-                "y": 1200
+                "y": 1300
             },
             "학년": 3.0,
             "data": {
@@ -2484,7 +2288,7 @@
             "id": "BUSS367",
             "position": {
                 "x": 1540,
-                "y": 1300
+                "y": 1400
             },
             "학년": 3.0,
             "data": {
@@ -2512,7 +2316,7 @@
             "id": "BUSS376",
             "position": {
                 "x": 1540,
-                "y": 1400
+                "y": 1500
             },
             "학년": 3.0,
             "data": {
@@ -2540,7 +2344,7 @@
             "id": "BUSS386",
             "position": {
                 "x": 1540,
-                "y": 1500
+                "y": 1600
             },
             "학년": 3.0,
             "data": {
@@ -2568,7 +2372,7 @@
             "id": "BUSS392",
             "position": {
                 "x": 1540,
-                "y": 1600
+                "y": 1700
             },
             "학년": 3.0,
             "data": {
@@ -2596,7 +2400,7 @@
             "id": "BUSS394",
             "position": {
                 "x": 1540,
-                "y": 1700
+                "y": 1800
             },
             "학년": 3.0,
             "data": {
@@ -2624,7 +2428,7 @@
             "id": "BUSS395",
             "position": {
                 "x": 1540,
-                "y": 1800
+                "y": 1900
             },
             "학년": 3.0,
             "data": {
@@ -2652,7 +2456,7 @@
             "id": "ECON335",
             "position": {
                 "x": 1540,
-                "y": 1900
+                "y": 2000
             },
             "학년": 3.0,
             "data": {
@@ -2671,7 +2475,7 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }

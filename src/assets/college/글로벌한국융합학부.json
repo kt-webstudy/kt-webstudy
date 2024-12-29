@@ -962,8 +962,8 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#FFD180",
-                "border": "2px solid #dbaf64",
+                "backgroundColor": "#c4d0e9",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1410,8 +1410,8 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#FFD180",
-                "border": "2px solid #dbaf64",
+                "backgroundColor": "#c4d0e9",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1550,8 +1550,8 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#FFD180",
-                "border": "2px solid #dbaf64",
+                "backgroundColor": "#c4d0e9",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1634,8 +1634,8 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#FFD180",
-                "border": "2px solid #dbaf64",
+                "backgroundColor": "#c4d0e9",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
