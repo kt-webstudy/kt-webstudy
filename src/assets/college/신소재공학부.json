@@ -202,7 +202,7 @@
                 "메모": null,
                 "syllabus_kr": "본 교과목에서는 영어, 프랑스어, 중국어, 한국어 등 여러 언어권에서 쓰여진 죽음을 다룬 시들을 읽는다. 학생들은 이 시들을 비교하고 분석하면서 삶과 죽음을 심도 있게 고찰하고 죽음에 대한 다양한 문화적 관점을 탐구하게 된다. ‘죽음시’의 학습은 학생들의 문학적  "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -230,7 +230,7 @@
                 "메모": null,
                 "syllabus_kr": " 본 강의는 초급 수준의 외국인 교환학생 및 학부생을 대상으로 하는 강의로 한_x000D_\n국어 읽기 능력을 갖추도록 하는 하는 데 목적이 있다. 본 강의에서는 초급 수준_x000D_\n의 어휘와 문법에 대한 학습을 바탕으로 일상적인 소재와 친숙한 사회적 소재로 _x000D_\n이루어진 여러 장르의 글을"
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -258,7 +258,7 @@
                 "메모": null,
                 "syllabus_kr": "표준현장실습은 학생들이 산업체에서 본인이 배운 심리학적 지식을 활용하여 실무를 경험하는 과정이다. 실용적인 직무 역량을 배양함과 동시에 본인의 역량과 적성을 탐색하며 전공 지식을 사회에 적용하는 경험을 할 수 있다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -524,7 +524,7 @@
             "id": "GEKS008",
             "position": {
                 "x": 660,
-                "y": 300
+                "y": 0
             },
             "학년": 1,
             "data": {
@@ -552,7 +552,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 400
+                "y": 100
             },
             "학년": 1,
             "data": {
@@ -580,7 +580,7 @@
             "id": "MATH162",
             "position": {
                 "x": 660,
-                "y": 500
+                "y": 200
             },
             "학년": 1,
             "data": {
@@ -608,7 +608,7 @@
             "id": "PHYS152",
             "position": {
                 "x": 660,
-                "y": 600
+                "y": 300
             },
             "학년": 1,
             "data": {
@@ -636,7 +636,7 @@
             "id": "CHEM152",
             "position": {
                 "x": 660,
-                "y": 700
+                "y": 400
             },
             "학년": 1,
             "data": {
@@ -664,7 +664,7 @@
             "id": "EGRN128",
             "position": {
                 "x": 660,
-                "y": 800
+                "y": 500
             },
             "학년": 1,
             "data": {
@@ -692,7 +692,7 @@
             "id": "EGRN130",
             "position": {
                 "x": 660,
-                "y": 900
+                "y": 600
             },
             "학년": 1,
             "data": {
@@ -734,7 +734,7 @@
                 "메모": null,
                 "syllabus_kr": "4학년 학생을 대상으로 정규 학기 중에 해외에 소재한 기업 또는 기관에서 강의실에서 배운 이론적인 지식을 현장에서 적용하도록 한다. 해외 진출에 따른 실무적인 준비, 현지 생활, 해당국 어학 및 타국 문화이해 증진 등의 다양한 경험을 쌓도록 한다"
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -762,7 +762,7 @@
                 "메모": null,
                 "syllabus_kr": "기계학습 이론과 전문기술은 현대 데이터과학 응용에서 결정적인 역할을 하며, 다양한 분류, 회귀모델, 군집화, 차원축소, 강화학습 그리고 딥러닝을 포함합니다. 기계학습 문제와 관련 전문기술에 대한 큰 그림에 대해 이해하고 문제해결에 활용할 수 있도록 합니다. 이 강 "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -1000,7 +1000,7 @@
             "id": "KMSE202",
             "position": {
                 "x": 1100,
-                "y": 200
+                "y": 0
             },
             "학년": 2,
             "data": {
@@ -1028,7 +1028,7 @@
             "id": "KMSE204",
             "position": {
                 "x": 1100,
-                "y": 300
+                "y": 100
             },
             "학년": 2,
             "data": {
@@ -1056,7 +1056,7 @@
             "id": "KMSE206",
             "position": {
                 "x": 1100,
-                "y": 400
+                "y": 200
             },
             "학년": 2,
             "data": {
@@ -1084,7 +1084,7 @@
             "id": "KMSE208",
             "position": {
                 "x": 1100,
-                "y": 500
+                "y": 300
             },
             "학년": 2,
             "data": {
@@ -1112,7 +1112,7 @@
             "id": "KMSE210",
             "position": {
                 "x": 1100,
-                "y": 600
+                "y": 400
             },
             "학년": 2,
             "data": {
@@ -1140,7 +1140,7 @@
             "id": "KMSE212",
             "position": {
                 "x": 1100,
-                "y": 700
+                "y": 500
             },
             "학년": 2,
             "data": {
@@ -1182,7 +1182,7 @@
                 "메모": null,
                 "syllabus_kr": null
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -1504,7 +1504,7 @@
             "id": "KMSE302",
             "position": {
                 "x": 1540,
-                "y": 100
+                "y": 0
             },
             "학년": 3,
             "data": {
@@ -1532,7 +1532,7 @@
             "id": "KMSE304",
             "position": {
                 "x": 1540,
-                "y": 200
+                "y": 100
             },
             "학년": 3,
             "data": {
@@ -1560,7 +1560,7 @@
             "id": "KMSE306",
             "position": {
                 "x": 1540,
-                "y": 300
+                "y": 200
             },
             "학년": 3,
             "data": {
@@ -1588,7 +1588,7 @@
             "id": "KMSE308",
             "position": {
                 "x": 1540,
-                "y": 400
+                "y": 300
             },
             "학년": 3,
             "data": {
@@ -1616,7 +1616,7 @@
             "id": "KMSE310",
             "position": {
                 "x": 1540,
-                "y": 500
+                "y": 400
             },
             "학년": 3,
             "data": {
@@ -1644,7 +1644,7 @@
             "id": "KMSE312",
             "position": {
                 "x": 1540,
-                "y": 600
+                "y": 500
             },
             "학년": 3,
             "data": {
@@ -1672,7 +1672,7 @@
             "id": "KMSE314",
             "position": {
                 "x": 1540,
-                "y": 700
+                "y": 600
             },
             "학년": 3,
             "data": {
@@ -1700,7 +1700,7 @@
             "id": "KMSE316",
             "position": {
                 "x": 1540,
-                "y": 800
+                "y": 700
             },
             "학년": 3,
             "data": {
@@ -1728,7 +1728,7 @@
             "id": "KMSE318",
             "position": {
                 "x": 1540,
-                "y": 900
+                "y": 800
             },
             "학년": 3,
             "data": {
@@ -1756,7 +1756,7 @@
             "id": "KMSE320",
             "position": {
                 "x": 1540,
-                "y": 1000
+                "y": 900
             },
             "학년": 3,
             "data": {
@@ -1784,7 +1784,7 @@
             "id": "KMSE322",
             "position": {
                 "x": 1540,
-                "y": 1100
+                "y": 1000
             },
             "학년": 3,
             "data": {
@@ -1826,7 +1826,7 @@
                 "메모": null,
                 "syllabus_kr": "인턴쉽프로그램을 통해 수업에서 배운 이론을 실제로 적용하는 기회를 제공한다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -1854,7 +1854,7 @@
                 "메모": null,
                 "syllabus_kr": "인턴쉽프로그램을 통해 R&D 분야와 같은 다양한 공학 현장에서 이론과 기술적 사항들을 실제 적용하는 기회를 제공한다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -2176,7 +2176,7 @@
             "id": "KMSE402",
             "position": {
                 "x": 1980,
-                "y": 200
+                "y": 0
             },
             "학년": 4,
             "data": {
@@ -2204,7 +2204,7 @@
             "id": "KMSE404",
             "position": {
                 "x": 1980,
-                "y": 300
+                "y": 100
             },
             "학년": 4,
             "data": {
@@ -2232,7 +2232,7 @@
             "id": "KMSE406",
             "position": {
                 "x": 1980,
-                "y": 400
+                "y": 200
             },
             "학년": 4,
             "data": {
@@ -2260,7 +2260,7 @@
             "id": "KMSE408",
             "position": {
                 "x": 1980,
-                "y": 500
+                "y": 300
             },
             "학년": 4,
             "data": {
@@ -2288,7 +2288,7 @@
             "id": "KMSE410",
             "position": {
                 "x": 1980,
-                "y": 600
+                "y": 400
             },
             "학년": 4,
             "data": {
@@ -2316,7 +2316,7 @@
             "id": "KMSE412",
             "position": {
                 "x": 1980,
-                "y": 700
+                "y": 500
             },
             "학년": 4,
             "data": {
@@ -2344,7 +2344,7 @@
             "id": "KMSE414",
             "position": {
                 "x": 1980,
-                "y": 800
+                "y": 600
             },
             "학년": 4,
             "data": {
@@ -2372,7 +2372,7 @@
             "id": "KMSE416",
             "position": {
                 "x": 1980,
-                "y": 900
+                "y": 700
             },
             "학년": 4,
             "data": {
@@ -2400,7 +2400,7 @@
             "id": "KMSE424",
             "position": {
                 "x": 1980,
-                "y": 1000
+                "y": 800
             },
             "학년": 4,
             "data": {

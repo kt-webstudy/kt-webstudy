@@ -202,7 +202,7 @@
                 "메모": null,
                 "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -230,7 +230,7 @@
                 "메모": null,
                 "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -258,7 +258,7 @@
                 "메모": null,
                 "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -286,7 +286,7 @@
                 "메모": null,
                 "syllabus_kr": "21세기는 생명과학의 시대라고들 이야기한다. 이 과목은 21세기를 살아가는 현대인들이 기본적으로 알아야 할 생명의 기원, 세포학, 생화학, 유전학, 발생학, 생태 및 분류학과 같은 생명과학 분야 기본과목의 기초적인 이해에 그 목표가 있다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -524,7 +524,7 @@
             "id": "GEKS008",
             "position": {
                 "x": 660,
-                "y": 400
+                "y": 0
             },
             "학년": 1,
             "data": {
@@ -552,7 +552,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 500
+                "y": 100
             },
             "학년": 1,
             "data": {
@@ -580,7 +580,7 @@
             "id": "MATH162",
             "position": {
                 "x": 660,
-                "y": 600
+                "y": 200
             },
             "학년": 1,
             "data": {
@@ -608,7 +608,7 @@
             "id": "PHYS152",
             "position": {
                 "x": 660,
-                "y": 700
+                "y": 300
             },
             "학년": 1,
             "data": {
@@ -636,7 +636,7 @@
             "id": "PHYS162",
             "position": {
                 "x": 660,
-                "y": 800
+                "y": 400
             },
             "학년": 1,
             "data": {
@@ -664,7 +664,7 @@
             "id": "EGRN103",
             "position": {
                 "x": 660,
-                "y": 900
+                "y": 500
             },
             "학년": 1,
             "data": {
@@ -1546,7 +1546,7 @@
                 "메모": null,
                 "syllabus_kr": "신재생에너지 또는 미활용 에너지 기술 기반으로 생산된 열에너지를 더 유용한 열에너지로 변환할 수 있는 에너지변환시스템의 이해"
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -1812,7 +1812,7 @@
             "id": "MECH424",
             "position": {
                 "x": 1980,
-                "y": 100
+                "y": 0
             },
             "학년": 4,
             "data": {
@@ -1840,7 +1840,7 @@
             "id": "MECH436",
             "position": {
                 "x": 1980,
-                "y": 200
+                "y": 100
             },
             "학년": 4,
             "data": {
@@ -1868,7 +1868,7 @@
             "id": "MECH446",
             "position": {
                 "x": 1980,
-                "y": 300
+                "y": 200
             },
             "학년": 4,
             "data": {
@@ -1896,7 +1896,7 @@
             "id": "MECH460",
             "position": {
                 "x": 1980,
-                "y": 400
+                "y": 300
             },
             "학년": 4,
             "data": {
@@ -1924,7 +1924,7 @@
             "id": "MECH482",
             "position": {
                 "x": 1980,
-                "y": 500
+                "y": 400
             },
             "학년": 4,
             "data": {
@@ -1952,7 +1952,7 @@
             "id": "MECH483",
             "position": {
                 "x": 1980,
-                "y": 600
+                "y": 500
             },
             "학년": 4,
             "data": {
@@ -1980,7 +1980,7 @@
             "id": "MECH492",
             "position": {
                 "x": 1980,
-                "y": 700
+                "y": 600
             },
             "학년": 4,
             "data": {
@@ -2008,7 +2008,7 @@
             "id": "MECH498",
             "position": {
                 "x": 1980,
-                "y": 800
+                "y": 700
             },
             "학년": 4,
             "data": {
@@ -2036,7 +2036,7 @@
             "id": "EGRN430",
             "position": {
                 "x": 1980,
-                "y": 900
+                "y": 800
             },
             "학년": 4,
             "data": {
@@ -2064,7 +2064,7 @@
             "id": "EGRN440",
             "position": {
                 "x": 1980,
-                "y": 1000
+                "y": 900
             },
             "학년": 4,
             "data": {

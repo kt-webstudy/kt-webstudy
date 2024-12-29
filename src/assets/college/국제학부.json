@@ -202,7 +202,7 @@
                 "메모": null,
                 "syllabus_kr": "세계화의 기본개념을 정치사상사적 측면, 국제정치경제적 측면, 문화론적 측면에서 논의하고, 세계화가 국가, 지역 그리고 범세계적 차원에서 어떠한 영향을 가져올 것인지를 분석한다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -230,7 +230,7 @@
                 "메모": null,
                 "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -258,7 +258,7 @@
                 "메모": null,
                 "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -286,7 +286,7 @@
                 "메모": null,
                 "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -440,7 +440,7 @@
             "id": "DISS114",
             "position": {
                 "x": 660,
-                "y": 400
+                "y": 0
             },
             "학년": 1.0,
             "data": {
@@ -468,7 +468,7 @@
             "id": "DISS122",
             "position": {
                 "x": 660,
-                "y": 500
+                "y": 100
             },
             "학년": 1.0,
             "data": {
@@ -496,7 +496,7 @@
             "id": "DISS112",
             "position": {
                 "x": 660,
-                "y": 600
+                "y": 200
             },
             "학년": 1.0,
             "data": {
@@ -524,7 +524,7 @@
             "id": "GEKS008",
             "position": {
                 "x": 660,
-                "y": 700
+                "y": 300
             },
             "학년": 1.0,
             "data": {
@@ -552,7 +552,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 800
+                "y": 400
             },
             "학년": 1.0,
             "data": {
@@ -594,7 +594,7 @@
                 "메모": null,
                 "syllabus_kr": "한국의 산업화 과정에서 나타나는 가족관계, 종교, 정치, 경제, 사회변화 등을 사회학적 관점에서 살펴보고 이를 통해 현대 한국사회를 보다 정확하게 이해할 수 있는 기회를 제공한다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -622,7 +622,7 @@
                 "메모": null,
                 "syllabus_kr": "통일, 영토분쟁, 경제협력 등 한국과 관련된 국제법 문제를 심도 있게 논의한다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -832,7 +832,7 @@
             "id": "DISS212",
             "position": {
                 "x": 1100,
-                "y": 200
+                "y": 0
             },
             "학년": 2.0,
             "data": {
@@ -860,7 +860,7 @@
             "id": "DISS221",
             "position": {
                 "x": 1100,
-                "y": 300
+                "y": 100
             },
             "학년": 2.0,
             "data": {
@@ -888,7 +888,7 @@
             "id": "DISS222",
             "position": {
                 "x": 1100,
-                "y": 400
+                "y": 200
             },
             "학년": 2.0,
             "data": {
@@ -916,7 +916,7 @@
             "id": "DISS223",
             "position": {
                 "x": 1100,
-                "y": 500
+                "y": 300
             },
             "학년": 2.0,
             "data": {
@@ -944,7 +944,7 @@
             "id": "DISS232",
             "position": {
                 "x": 1100,
-                "y": 600
+                "y": 400
             },
             "학년": 2.0,
             "data": {
@@ -972,7 +972,7 @@
             "id": "DISS243",
             "position": {
                 "x": 1100,
-                "y": 700
+                "y": 500
             },
             "학년": 2.0,
             "data": {
@@ -1000,7 +1000,7 @@
             "id": "DISS244",
             "position": {
                 "x": 1100,
-                "y": 800
+                "y": 600
             },
             "학년": 2.0,
             "data": {
@@ -1028,7 +1028,7 @@
             "id": "DISS251",
             "position": {
                 "x": 1100,
-                "y": 900
+                "y": 700
             },
             "학년": 2.0,
             "data": {
@@ -1056,7 +1056,7 @@
             "id": "DISS256",
             "position": {
                 "x": 1100,
-                "y": 1000
+                "y": 800
             },
             "학년": 2.0,
             "data": {
@@ -1084,7 +1084,7 @@
             "id": "DISS261",
             "position": {
                 "x": 1100,
-                "y": 1100
+                "y": 900
             },
             "학년": 2.0,
             "data": {
@@ -1112,7 +1112,7 @@
             "id": "DISS283",
             "position": {
                 "x": 1100,
-                "y": 1200
+                "y": 1000
             },
             "학년": 2.0,
             "data": {
@@ -1140,7 +1140,7 @@
             "id": "DISS311",
             "position": {
                 "x": 1100,
-                "y": 1300
+                "y": 1100
             },
             "학년": 2.0,
             "data": {
@@ -1168,7 +1168,7 @@
             "id": "GKSS204",
             "position": {
                 "x": 1100,
-                "y": 1400
+                "y": 1200
             },
             "학년": 2.0,
             "data": {
@@ -1196,7 +1196,7 @@
             "id": "GKSS212",
             "position": {
                 "x": 1100,
-                "y": 1500
+                "y": 1300
             },
             "학년": 2.0,
             "data": {
@@ -1238,7 +1238,7 @@
                 "메모": null,
                 "syllabus_kr": "원폭, 항복, 그리고 점령으로 이어지는 일본의 제2차 세계대전 후 사건들을 소개한다. 이러한 역사적 사건들이 전후 일본의 재건에 어떤 영향과 유산을 남겼는가를 고찰한다. 이어서 경제재건의 정치경제, 국제관계, 그리고 사회적비용을 고찰한다. "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -1266,7 +1266,7 @@
                 "메모": null,
                 "syllabus_kr": "국제통상 이슈에 대하여 연구조사, 발표, 토론, 강평 등을 통하여 학습함으로써, 국제 통상 현안에 대한 실질적인 대응능력을 제고한다. 또한 통상분쟁사례를 분석하여, 국제 통상규정이 실제 사례에서는 어떻게 해석되며 적용되는가에 대하여 알아본다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -1588,7 +1588,7 @@
             "id": "DISS310",
             "position": {
                 "x": 1540,
-                "y": 200
+                "y": 0
             },
             "학년": 3.0,
             "data": {
@@ -1616,7 +1616,7 @@
             "id": "DISS312",
             "position": {
                 "x": 1540,
-                "y": 300
+                "y": 100
             },
             "학년": 3.0,
             "data": {
@@ -1644,7 +1644,7 @@
             "id": "DISS314",
             "position": {
                 "x": 1540,
-                "y": 400
+                "y": 200
             },
             "학년": 3.0,
             "data": {
@@ -1672,7 +1672,7 @@
             "id": "DISS328",
             "position": {
                 "x": 1540,
-                "y": 500
+                "y": 300
             },
             "학년": 3.0,
             "data": {
@@ -1700,7 +1700,7 @@
             "id": "DISS333",
             "position": {
                 "x": 1540,
-                "y": 600
+                "y": 400
             },
             "학년": 3.0,
             "data": {
@@ -1728,7 +1728,7 @@
             "id": "DISS362",
             "position": {
                 "x": 1540,
-                "y": 700
+                "y": 500
             },
             "학년": 3.0,
             "data": {
@@ -1756,7 +1756,7 @@
             "id": "DISS363",
             "position": {
                 "x": 1540,
-                "y": 800
+                "y": 600
             },
             "학년": 3.0,
             "data": {
@@ -1784,7 +1784,7 @@
             "id": "DISS364",
             "position": {
                 "x": 1540,
-                "y": 900
+                "y": 700
             },
             "학년": 3.0,
             "data": {
@@ -1812,7 +1812,7 @@
             "id": "DISS365",
             "position": {
                 "x": 1540,
-                "y": 1000
+                "y": 800
             },
             "학년": 3.0,
             "data": {
@@ -1840,7 +1840,7 @@
             "id": "GKSS312",
             "position": {
                 "x": 1540,
-                "y": 1100
+                "y": 900
             },
             "학년": 3.0,
             "data": {
@@ -1868,7 +1868,7 @@
             "id": "GKSS314",
             "position": {
                 "x": 1540,
-                "y": 1200
+                "y": 1000
             },
             "학년": 3.0,
             "data": {
@@ -1910,7 +1910,7 @@
                 "메모": null,
                 "syllabus_kr": "기후변화, 황사, 수질 오염 등의 지구 환경을 주제로 한 각 주권국가간 주요 이슈를 살펴본다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -1938,7 +1938,7 @@
                 "메모": null,
                 "syllabus_kr": "본 강의는 국제개발 및 협력의 주요 이슈를 이해하고, 개발원조의 효율성을 분석한다._x000D_"
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -1966,7 +1966,7 @@
                 "메모": null,
                 "syllabus_kr": "한미관계의 역사적 배경과 안보, 정치, 경제, 사회 등 각 방면에 있어서 상호관계를 파악하고 21세기 한미관계의 바람직한 방향을 모색한다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -2260,7 +2260,7 @@
             "id": "DISS423",
             "position": {
                 "x": 1980,
-                "y": 300
+                "y": 0
             },
             "학년": 4.0,
             "data": {
@@ -2288,7 +2288,7 @@
             "id": "DISS427",
             "position": {
                 "x": 1980,
-                "y": 400
+                "y": 100
             },
             "학년": 4.0,
             "data": {
@@ -2316,7 +2316,7 @@
             "id": "DISS453",
             "position": {
                 "x": 1980,
-                "y": 500
+                "y": 200
             },
             "학년": 4.0,
             "data": {
@@ -2344,7 +2344,7 @@
             "id": "DISS472",
             "position": {
                 "x": 1980,
-                "y": 600
+                "y": 300
             },
             "학년": 4.0,
             "data": {
@@ -2372,7 +2372,7 @@
             "id": "DISS475",
             "position": {
                 "x": 1980,
-                "y": 700
+                "y": 400
             },
             "학년": 4.0,
             "data": {
@@ -2400,7 +2400,7 @@
             "id": "DISS481",
             "position": {
                 "x": 1980,
-                "y": 800
+                "y": 500
             },
             "학년": 4.0,
             "data": {
@@ -2428,7 +2428,7 @@
             "id": "DISS483",
             "position": {
                 "x": 1980,
-                "y": 900
+                "y": 600
             },
             "학년": 4.0,
             "data": {
@@ -2456,7 +2456,7 @@
             "id": "GKSS404",
             "position": {
                 "x": 1980,
-                "y": 1000
+                "y": 700
             },
             "학년": 4.0,
             "data": {

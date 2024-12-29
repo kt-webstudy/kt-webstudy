@@ -202,7 +202,7 @@
                 "메모": null,
                 "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -230,7 +230,7 @@
                 "메모": null,
                 "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -258,7 +258,7 @@
                 "메모": null,
                 "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -524,7 +524,7 @@
             "id": "GEKS008",
             "position": {
                 "x": 660,
-                "y": 300
+                "y": 0
             },
             "학년": 1,
             "data": {
@@ -552,7 +552,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 400
+                "y": 100
             },
             "학년": 1,
             "data": {
@@ -580,7 +580,7 @@
             "id": "LIBS152",
             "position": {
                 "x": 660,
-                "y": 500
+                "y": 200
             },
             "학년": 1,
             "data": {
@@ -608,7 +608,7 @@
             "id": "LIBS154",
             "position": {
                 "x": 660,
-                "y": 600
+                "y": 300
             },
             "학년": 1,
             "data": {
@@ -636,7 +636,7 @@
             "id": "LIET152",
             "position": {
                 "x": 660,
-                "y": 700
+                "y": 400
             },
             "학년": 1,
             "data": {
@@ -664,7 +664,7 @@
             "id": "LIET156",
             "position": {
                 "x": 660,
-                "y": 800
+                "y": 500
             },
             "학년": 1,
             "data": {
@@ -692,7 +692,7 @@
             "id": "MATH161",
             "position": {
                 "x": 660,
-                "y": 900
+                "y": 600
             },
             "학년": 1,
             "data": {
@@ -1126,7 +1126,7 @@
                 "메모": null,
                 "syllabus_kr": "중,고교 생물교과의 교육목적을 달성하기 위한 교수이론과 학습이론을 강의, 지도한다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -1154,7 +1154,7 @@
                 "메모": null,
                 "syllabus_kr": "과학 지식 습득 과정에 필요한 논리적 서술 즉 말하기와 글쓰기 능력 습득"
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -1182,7 +1182,7 @@
                 "메모": null,
                 "syllabus_kr": "중,고등학교에서 생물교육을 하기 위해서 생물교과목에 관한 교재의 연구와 교안작성, 학습지도의 방법, 평가방법 등을 강의하고 실기를 연습하게 한다.\t\t\t\t_x000D_\n"
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -1392,7 +1392,7 @@
             "id": "LIST302",
             "position": {
                 "x": 1540,
-                "y": 300
+                "y": 0
             },
             "학년": 3,
             "data": {
@@ -1420,7 +1420,7 @@
             "id": "LIST304",
             "position": {
                 "x": 1540,
-                "y": 400
+                "y": 100
             },
             "학년": 3,
             "data": {
@@ -1448,7 +1448,7 @@
             "id": "LIST306",
             "position": {
                 "x": 1540,
-                "y": 500
+                "y": 200
             },
             "학년": 3,
             "data": {
@@ -1476,7 +1476,7 @@
             "id": "LIBS312",
             "position": {
                 "x": 1540,
-                "y": 600
+                "y": 300
             },
             "학년": 3,
             "data": {
@@ -1504,7 +1504,7 @@
             "id": "LIBS314",
             "position": {
                 "x": 1540,
-                "y": 700
+                "y": 400
             },
             "학년": 3,
             "data": {
@@ -1532,7 +1532,7 @@
             "id": "LIBS315",
             "position": {
                 "x": 1540,
-                "y": 800
+                "y": 500
             },
             "학년": 3,
             "data": {
@@ -1560,7 +1560,7 @@
             "id": "LIBS316",
             "position": {
                 "x": 1540,
-                "y": 900
+                "y": 600
             },
             "학년": 3,
             "data": {
@@ -1588,7 +1588,7 @@
             "id": "LIBS358",
             "position": {
                 "x": 1540,
-                "y": 1000
+                "y": 700
             },
             "학년": 3,
             "data": {
@@ -1616,7 +1616,7 @@
             "id": "LIBS364",
             "position": {
                 "x": 1540,
-                "y": 1100
+                "y": 800
             },
             "학년": 3,
             "data": {

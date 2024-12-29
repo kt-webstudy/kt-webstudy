@@ -136,16 +136,16 @@ def parse_courses(courses):
                 },
             }
 
-            if (course["학기"] == 0 or course["학기"] is None) and (course["학년"] != 0 or course["학년"] is not None):
-                node["position"] = {
-                    "x": int(x),
-                    "y": index * (node_height + node_spacing),
-                }
-                node["type"] = "customZeroNode"
-                nodes.append(node)
-                zero_cnt += 1
-            else:
-                nodes.append(node)
+            # if (course["학기"] == 0 or course["학기"] is None) and (course["학년"] != 0 or course["학년"] is not None):
+            #     node["position"] = {
+            #         "x": int(x),
+            #         "y": index * (node_height + node_spacing),
+            #     }
+            #     node["type"] = "customZeroNode"
+            #     nodes.append(node)
+            #     zero_cnt += 1
+            # else:
+            nodes.append(node)
 
     edges = []
     for course in courses:

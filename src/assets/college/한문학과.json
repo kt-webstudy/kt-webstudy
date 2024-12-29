@@ -202,7 +202,7 @@
                 "메모": null,
                 "syllabus_kr": null
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -230,7 +230,7 @@
                 "메모": null,
                 "syllabus_kr": " 중국어 입문 과정을 이수한 학생을 대상으로 하며, 초급수준의 표현법, 쓰기, 어법 등을 통해 중국어의 기초를 숙달시킨다.    교육목표 :  가. 기초실력을 토대로 중국 현지의 상황에 맞는 단어와 표현 능력을 학습시킨다.  나. 기초회화를 중심적으로 교육시켜 중국어에  "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -258,7 +258,7 @@
                 "메모": null,
                 "syllabus_kr": "본 과목은 1학기에는 <교양프랑스어I>로, 2학기에는 <교양프랑스어II>라는 강의명으로 1, 2학기 두 학기에 걸쳐 동일한 시청각 교재로 연속 진행된다. 그간 문법과 독해에 치중되었던 <교양프랑스어> 강의에서 벗어나, 학생들이 국제화시대에 대한 준비를 철저히 할 수 있도 "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -286,7 +286,7 @@
                 "메모": null,
                 "syllabus_kr": "본 과목은 1학기에는 <교양프랑스어I>로, 2학기에는 <교양프랑스어II>라는 강의명으로 1, 2학기 두 학기에 걸쳐 동일한 시청각 교재로 연속 진행된다. 그간 문법과 독해에 치중되었던 <교양프랑스어> 강의에서 벗어나, 학생들이 국제화시대에 대한 준비를 철저히 할 수 있도 "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -314,7 +314,7 @@
                 "메모": null,
                 "syllabus_kr": "본 강의는 독일어 원어 수업으로 진행하며, 독일어를 처음 접하거나 기초독일어 실력을 갖추고 있는 학생들에게 일상생활에 필요한 기본적인 표현, 문법 등을 익히도록 한다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -342,7 +342,7 @@
                 "메모": null,
                 "syllabus_kr": "본 강의는 독일어 원어 수업으로 진행하며, 독일어에 대한 기본 이해능력을 갖춘 학생들에게 다양한 독일어 표현을 연습하도록 한다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -370,7 +370,7 @@
                 "메모": null,
                 "syllabus_kr": "한문학을 전공으로 삼고자 하는 학생들에게 여러 문체의 한문 문장을 해독하게 함으로써 한문 문리를 터는 데 필요한 기초능력을 기르도록 한다. _x000D_\n"
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -398,7 +398,7 @@
                 "메모": null,
                 "syllabus_kr": "입문수준의 일본어 능력을 지닌 학생을 대상으로 일본어의 문자와 발음 및 기초적인 어휘와 문형에 대한 교육을 통해 일본어 전반에 관한 기초지식의 습득을 목표로 한다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -426,7 +426,7 @@
                 "메모": null,
                 "syllabus_kr": "초급수준의 일본어 능력을 지닌 학생을 대상으로 일본어의 기초적인 어휘와 문형 그리고 문법항목 등에 대한 교육을 통해 일본어 전반에 관한 기초지식의 습득을 도모하며, 나아가 일본어 독해능력 및 회화능력을 자생적으로 키워나갈 수 있는 기반 외국어 능력의 배양을 목 "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -454,7 +454,7 @@
                 "메모": null,
                 "syllabus_kr": "러시아어를 처음 접하는 학생들을 위해 러시아어의 기초을를 강의하며 독해, 회화, 작문 능력을 아울러 배양한다.  교육목표 :  기본적인 러시아어 독해, 회화, 작문 능력 배양     "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -482,7 +482,7 @@
                 "메모": null,
                 "syllabus_kr": "기본적인 러시아어를 접한 학생들을 위해 중급 수준의 러시아어 독해,문법, 회화, 작문 능력을 향상시킨다.  교육목표 :  중급 수준의 러시아어 독해, 회화, 작문 능력 배양     "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -510,7 +510,7 @@
                 "메모": null,
                 "syllabus_kr": " 처음으로 스페인어를 습득하려는 학생에게 스페인어의 기초문법과 문형을 소개하며 다양한 교육매체를 활용하여 스페인어권의 생활문화를 소개하고 기본적인 회화능력을 제고(提高)한다. "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -538,7 +538,7 @@
                 "메모": null,
                 "syllabus_kr": "어느 정도 스페인어를 습득하려는 학생에게 스페인어의 문법과 문형을 소개하며 다양한 교육매체를 활용하여 스페인어권의 생활문화를 소개하고 기본적인 회화능력을 제고(提高)한다. "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -566,7 +566,7 @@
                 "메모": null,
                 "syllabus_kr": "해당 과목은 디지털 시대에 문과 학생들이 필수적으로 알아야 할 다양한 기술이 인문학 분야에서 어떻게 응용되는지 직접 배우고 연습해보는 기회를 제공한다. "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -594,7 +594,7 @@
                 "메모": null,
                 "syllabus_kr": "인문학을 중심으로 인문, 사회, 자연과학 등 타 학문 영역의 전문지식을 융합하는 세미나 형식으로 운영한다._x000D_\n※심화된 인문 융합 지식을 통섭하는 세미나로서 주관 학과의 전공과목에 준하는 수준으로 운영한다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -622,7 +622,7 @@
                 "메모": null,
                 "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -650,7 +650,7 @@
                 "메모": null,
                 "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -678,7 +678,7 @@
                 "메모": null,
                 "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -832,7 +832,7 @@
             "id": "HANM250",
             "position": {
                 "x": 660,
-                "y": 1800
+                "y": 0
             },
             "학년": 1.0,
             "data": {
@@ -860,7 +860,7 @@
             "id": "HANM258",
             "position": {
                 "x": 660,
-                "y": 1900
+                "y": 100
             },
             "학년": 1.0,
             "data": {
@@ -888,7 +888,7 @@
             "id": "GEKS008",
             "position": {
                 "x": 660,
-                "y": 2000
+                "y": 200
             },
             "학년": 1.0,
             "data": {
@@ -916,7 +916,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 2100
+                "y": 300
             },
             "학년": 1.0,
             "data": {

@@ -202,7 +202,7 @@
                 "메모": null,
                 "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -230,7 +230,7 @@
                 "메모": null,
                 "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -258,7 +258,7 @@
                 "메모": null,
                 "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -286,7 +286,7 @@
                 "메모": null,
                 "syllabus_kr": "일반물리학및연습 I 에서 강의 및 문제풀이로 배우는 내용을 실험을 통해서 배우는 과목이다. 주요 내용은 date분석법, Newton 역학, 파동현상, 열역학에 관한 실험이다. 한번 3시간 실험으로 진행되며, 2인 1조를 원칙으로 하고, 8개조가 한 반을 구성하여 조교 및 교수의  "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -314,7 +314,7 @@
                 "메모": null,
                 "syllabus_kr": "이 과목에서는 여러 가지 “물리적 현상”을 관찰하고, _x000D_\n그 원리를 수학/과학의 기초 지식을 이용하여 규명하고,_x000D_\n실험으로부터 배운 원리를 실생활에 응용하는 능력을 함양하는데 있다. _x000D_\n이를 통하여 상급반(2학년 이상)에서 배우게 될 전공에 대한 흥미를 _x000D_\n유도한다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -342,7 +342,7 @@
                 "메모": null,
                 "syllabus_kr": "일반화학 강의에서 다룬 내용들을 실제 실험을 통하여 화합물의 합성법을 배우고 물성을 측정한다. 또한, 화학에 관련된 실험을 수행하는데 필요한 기본 테크닉들을 익힌다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -370,7 +370,7 @@
                 "메모": null,
                 "syllabus_kr": "기초공학(가상)실험 1에 이어 기초공학(가상)실험 3에서는 여러 가지 “화 _x000D_\n학적 현상”을 관찰하고, 그 원리를 수학/과학의 기초 지식을 이용하여 규 _x000D_\n명하고, 실험으로부터 배운 원리를 실생활에 응용하는 능력을 함양하는데 _x000D_\n있다._x000D_\n이를 통하여 상급반(2학년 이상)에 "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -580,7 +580,7 @@
             "id": "GEKS008",
             "position": {
                 "x": 660,
-                "y": 700
+                "y": 0
             },
             "학년": 1,
             "data": {
@@ -608,7 +608,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 800
+                "y": 100
             },
             "학년": 1,
             "data": {
@@ -636,7 +636,7 @@
             "id": "ACEE121",
             "position": {
                 "x": 660,
-                "y": 900
+                "y": 200
             },
             "학년": 1,
             "data": {
@@ -664,7 +664,7 @@
             "id": "ACEE231",
             "position": {
                 "x": 660,
-                "y": 1000
+                "y": 300
             },
             "학년": 1,
             "data": {
@@ -706,7 +706,7 @@
                 "메모": null,
                 "syllabus_kr": "재료역학 수업내용의 이해를 돕기 위한 여러 가지 실험적인 지식을 쌓는다. 주된 실험내용은 다음과 같다. a. 단면상수(section properties) b. 강성(stiffness) c. 1축 인장 실험(uniaxial tension test) d. 비틀림 실험(torsion test) e. 박판 압축 관(thin-walled pressur"
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -734,7 +734,7 @@
                 "메모": null,
                 "syllabus_kr": "재료의 역학적 특성을 배우고 구조적 거동을 해석하는 데 기본이 되는 원리들을 이론을 통해 익히며 개념을 파악한다. 응력과 변형률의 물리적 개념을 배우고 하중과 변위, 응력, 변형율 등의 상호관계를 연구하여 역학적 해석에 적용한다. 보 속에 발생하는 여러 종류의 응 "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -762,7 +762,7 @@
                 "메모": null,
                 "syllabus_kr": "4학년 학생을 대상으로 정규 학기 중에 해외에 소재한 기업 또는 기관에서 강의실에서 배운 이론적인 지식을 현장에서 적용하도록 한다. 해외 진출에 따른 실무적인 준비, 현지 생활, 해당국 어학 및 타국 문화이해 증진 등의 다양한 경험을 쌓도록 한다"
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -944,7 +944,7 @@
             "id": "ACEE224",
             "position": {
                 "x": 1100,
-                "y": 300
+                "y": 0
             },
             "학년": 2,
             "data": {
@@ -972,7 +972,7 @@
             "id": "ACEE226",
             "position": {
                 "x": 1100,
-                "y": 400
+                "y": 100
             },
             "학년": 2,
             "data": {
@@ -1000,7 +1000,7 @@
             "id": "ACEE228",
             "position": {
                 "x": 1100,
-                "y": 500
+                "y": 200
             },
             "학년": 2,
             "data": {
@@ -1028,7 +1028,7 @@
             "id": "ACEE230",
             "position": {
                 "x": 1100,
-                "y": 600
+                "y": 300
             },
             "학년": 2,
             "data": {
@@ -1056,7 +1056,7 @@
             "id": "ACEE234",
             "position": {
                 "x": 1100,
-                "y": 700
+                "y": 400
             },
             "학년": 2,
             "data": {
@@ -1084,7 +1084,7 @@
             "id": "ACEE252",
             "position": {
                 "x": 1100,
-                "y": 800
+                "y": 500
             },
             "학년": 2,
             "data": {
@@ -1112,7 +1112,7 @@
             "id": "ACEE261",
             "position": {
                 "x": 1100,
-                "y": 900
+                "y": 600
             },
             "학년": 2,
             "data": {
@@ -1140,7 +1140,7 @@
             "id": "ACEE282",
             "position": {
                 "x": 1100,
-                "y": 1000
+                "y": 700
             },
             "학년": 2,
             "data": {
@@ -1168,7 +1168,7 @@
             "id": "ACEE290",
             "position": {
                 "x": 1100,
-                "y": 1100
+                "y": 800
             },
             "학년": 2,
             "data": {
@@ -1196,7 +1196,7 @@
             "id": "ACEE433",
             "position": {
                 "x": 1100,
-                "y": 1200
+                "y": 900
             },
             "학년": 2,
             "data": {
@@ -1238,7 +1238,7 @@
                 "메모": null,
                 "syllabus_kr": "본 강좌에서는 해석적인 방법으로 해를 구하기 어려운 경우의 공학적 문제를 수치해석을 통해 해결하는 방법에 대해 다룬다. 간단한 search 또는 적분에서부터 상미분방정식 및 편미분방정식까지의 적용을 토목공학 분야의 예들을 가지고 살펴본다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -1266,7 +1266,7 @@
                 "메모": null,
                 "syllabus_kr": null
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -1588,7 +1588,7 @@
             "id": "ACEE267",
             "position": {
                 "x": 1540,
-                "y": 200
+                "y": 0
             },
             "학년": 3,
             "data": {
@@ -1616,7 +1616,7 @@
             "id": "ACEE308",
             "position": {
                 "x": 1540,
-                "y": 300
+                "y": 100
             },
             "학년": 3,
             "data": {
@@ -1644,7 +1644,7 @@
             "id": "ACEE314",
             "position": {
                 "x": 1540,
-                "y": 400
+                "y": 200
             },
             "학년": 3,
             "data": {
@@ -1672,7 +1672,7 @@
             "id": "ACEE323",
             "position": {
                 "x": 1540,
-                "y": 500
+                "y": 300
             },
             "학년": 3,
             "data": {
@@ -1700,7 +1700,7 @@
             "id": "ACEE326",
             "position": {
                 "x": 1540,
-                "y": 600
+                "y": 400
             },
             "학년": 3,
             "data": {
@@ -1728,7 +1728,7 @@
             "id": "ACEE328",
             "position": {
                 "x": 1540,
-                "y": 700
+                "y": 500
             },
             "학년": 3,
             "data": {
@@ -1756,7 +1756,7 @@
             "id": "ACEE330",
             "position": {
                 "x": 1540,
-                "y": 800
+                "y": 600
             },
             "학년": 3,
             "data": {
@@ -1784,7 +1784,7 @@
             "id": "ACEE334",
             "position": {
                 "x": 1540,
-                "y": 900
+                "y": 700
             },
             "학년": 3,
             "data": {
@@ -1812,7 +1812,7 @@
             "id": "ACEE342",
             "position": {
                 "x": 1540,
-                "y": 1000
+                "y": 800
             },
             "학년": 3,
             "data": {
@@ -1840,7 +1840,7 @@
             "id": "ACEE346",
             "position": {
                 "x": 1540,
-                "y": 1100
+                "y": 900
             },
             "학년": 3,
             "data": {
@@ -1868,7 +1868,7 @@
             "id": "ACEE348",
             "position": {
                 "x": 1540,
-                "y": 1200
+                "y": 1000
             },
             "학년": 3,
             "data": {
@@ -1896,7 +1896,7 @@
             "id": "ACEE358",
             "position": {
                 "x": 1540,
-                "y": 1300
+                "y": 1100
             },
             "학년": 3,
             "data": {
@@ -1924,7 +1924,7 @@
             "id": "ACEE372",
             "position": {
                 "x": 1540,
-                "y": 1400
+                "y": 1200
             },
             "학년": 3,
             "data": {
@@ -1952,7 +1952,7 @@
             "id": "ACEE374",
             "position": {
                 "x": 1540,
-                "y": 1500
+                "y": 1300
             },
             "학년": 3,
             "data": {
@@ -1980,7 +1980,7 @@
             "id": "ACEE382",
             "position": {
                 "x": 1540,
-                "y": 1600
+                "y": 1400
             },
             "학년": 3,
             "data": {
@@ -2008,7 +2008,7 @@
             "id": "ACEE392",
             "position": {
                 "x": 1540,
-                "y": 1700
+                "y": 1500
             },
             "학년": 3,
             "data": {
@@ -2036,7 +2036,7 @@
             "id": "ACEE396",
             "position": {
                 "x": 1540,
-                "y": 1800
+                "y": 1600
             },
             "학년": 3,
             "data": {
@@ -2064,7 +2064,7 @@
             "id": "ACEE398",
             "position": {
                 "x": 1540,
-                "y": 1900
+                "y": 1700
             },
             "학년": 3,
             "data": {
@@ -2106,7 +2106,7 @@
                 "메모": null,
                 "syllabus_kr": "인턴쉽프로그램을 통해 수업에서 배운 이론을 실제로 적용하는 기회를 제공한다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -2134,7 +2134,7 @@
                 "메모": null,
                 "syllabus_kr": "인턴쉽프로그램을 통해 R&D 분야와 같은 다양한 공학 현장에서 이론과 기술적 사항들을 실제 적용하는 기회를 제공한다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -2484,7 +2484,7 @@
             "id": "ACEE472",
             "position": {
                 "x": 1980,
-                "y": 200
+                "y": 0
             },
             "학년": 4,
             "data": {
@@ -2512,7 +2512,7 @@
             "id": "ACEE446",
             "position": {
                 "x": 1980,
-                "y": 300
+                "y": 100
             },
             "학년": 4,
             "data": {
@@ -2540,7 +2540,7 @@
             "id": "ACEE476",
             "position": {
                 "x": 1980,
-                "y": 400
+                "y": 200
             },
             "학년": 4,
             "data": {
@@ -2568,7 +2568,7 @@
             "id": "ACEE478",
             "position": {
                 "x": 1980,
-                "y": 500
+                "y": 300
             },
             "학년": 4,
             "data": {
@@ -2596,7 +2596,7 @@
             "id": "ACEE484",
             "position": {
                 "x": 1980,
-                "y": 600
+                "y": 400
             },
             "학년": 4,
             "data": {

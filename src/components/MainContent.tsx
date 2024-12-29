@@ -77,26 +77,17 @@ const MainContent: React.FC<MainContentProps> = ({ department }) => {
         <div className={styles.container}>
           <div className={styles.content}>
             <p className={styles.introText}>
-              안녕하세요. <br />
-              <strong>고려대학교 학부대학 전공탐색로드맵입니다.</strong>
-            </p>
-            <ul className={styles.infoList}>
-              <li>학과를 선택하여, 개설강의와 로드맵을 탐색해보세요.</li>
-              <li>
-                학과별 홈페이지 및 교육정보를 확인하고, 그래픽 뷰를 통해
-                커리큘럼을 자유롭게 구상할 수 있습니다.
-              </li>
-              <li>
-                각 학과별 강의정보에 커서를 올려, 해당 과목의 세부정보와
-                교수요목을 확인할 수 있습니다.
-              </li>
-            </ul>
-            <p className={styles.resourcesHeader}>
-              아래는 여러분의 전공 탐색에 도움을 드릴 수 있는 사이트 모음입니다.
+              고려대학교 학부대학에서 제공하는 전공탐색로드맵과
+              전공교육체계도입니다. 고려대학교내 43개 학부 또는 학과나
+              교육과정편람에서 제공하는 전공 과목의 권장이수학기 및 필수/권장
+              선이수관계 등을 한눈에 볼 수 있습니다. 대학과 학과를 선택하면
+              학과나 교육과정편람에서 제공하는 전공교육체계도를 탐색가능하고,
+              해당 체계도는 그래픽이미지로 다운로드 가능합니다. 이 자료는
+              참고용으로만 사용하고, 보다 자세한 사항은 학부대학
+              전공디자인센터나 각학부/학과로 문의해 주세요. <br />
             </p>
             <ul className={styles.resourcesList}>
               <li>
-                🐯{" "}
                 <a
                   href="https://univ.korea.ac.kr/ge/index.do"
                   target="_blank"
@@ -104,9 +95,7 @@ const MainContent: React.FC<MainContentProps> = ({ department }) => {
                 >
                   학부대학 홈페이지
                 </a>
-              </li>
-              <li>
-                🏫{" "}
+                <span className={styles.separator}>|</span>
                 <a
                   href="https://registrar.korea.ac.kr/eduinfo/index.do"
                   target="_blank"
@@ -114,9 +103,7 @@ const MainContent: React.FC<MainContentProps> = ({ department }) => {
                 >
                   고려대학교 교육정보
                 </a>
-              </li>
-              <li>
-                📖{" "}
+                <span className={styles.separator}>|</span>
                 <a
                   href="https://ibook.korea.ac.kr/Viewer/HF1ALNVYXCOW?_ga=2.73349011.1272927809.1734914653-1048059663.1731638360"
                   target="_blank"
@@ -124,9 +111,7 @@ const MainContent: React.FC<MainContentProps> = ({ department }) => {
                 >
                   2024학년도 교육과정편람
                 </a>
-              </li>
-              <li>
-                🖌{" "}
+                <span className={styles.separator}>|</span>
                 <a
                   href="https://ibook.korea.ac.kr/Viewer/IZLUFTDAVIED?_ga=2.79141652.1272927809.1734914653-1048059663.1731638360"
                   target="_blank"
@@ -136,9 +121,6 @@ const MainContent: React.FC<MainContentProps> = ({ department }) => {
                 </a>
               </li>
             </ul>
-            <p className={styles.footerText}>
-              made by 박승현(컴과 21), 신종현(수교 19), 김규탁(생공 19)
-            </p>
           </div>
         </div>
       )}

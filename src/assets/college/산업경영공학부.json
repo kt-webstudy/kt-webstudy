@@ -202,7 +202,7 @@
                 "메모": null,
                 "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -230,7 +230,7 @@
                 "메모": null,
                 "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -258,7 +258,7 @@
                 "메모": null,
                 "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -286,7 +286,7 @@
                 "메모": null,
                 "syllabus_kr": null
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -314,7 +314,7 @@
                 "메모": null,
                 "syllabus_kr": "벡터로서의 힘을 배우고 합력, 분력 그리고 힘의 성분을 배운다.  절점에 작용하는 힘의 평형을 익히고 2차원 및 3차원 강체에 작용하는 힘의 평형을 배운다.  도심의 개념을 익히고 단면의 여러 가지 성질을 배운다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -342,7 +342,7 @@
                 "메모": null,
                 "syllabus_kr": null
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -370,7 +370,7 @@
                 "메모": null,
                 "syllabus_kr": "이공계 분야들에 관련된 화학에 관한 기본개념과 이론들을 강의와 연습을 통해 토의하고, 응용분야들인 환경화학이나 생물화학 및 공업화학 등을 소개 한다"
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -398,7 +398,7 @@
                 "메모": null,
                 "syllabus_kr": "일반화학 강의에서 다룬 내용들을 실제 실험을 통하여 화합물의 합성법을 배우고 물성을 측정한다. 또한, 화학에 관련된 실험을 수행하는데 필요한 기본 테크닉들을 익힌다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -426,7 +426,7 @@
                 "메모": null,
                 "syllabus_kr": "21세기는 생명과학의 시대라고들 이야기한다. 이 과목은 21세기를 살아가는 현대인들이 기본적으로 알아야 할 생명의 기원, 세포학, 생화학, 유전학, 발생학, 생태 및 분류학과 같은 생명과학 분야 기본과목의 기초적인 이해에 그 목표가 있다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -454,7 +454,7 @@
                 "메모": null,
                 "syllabus_kr": "산업시스템정보공학 전공학습에 필요한 선형 대수에 관한 이론을 다룬다. _x000D_\n 학습 내용은 Gauss Elimination, Vector Spaces, Determinullts, _x000D_\n Eigenvalues/Eigenvectors, and Positive Definite Matrices 등이 _x000D_\n 포함되어 있다. _x000D_\n"
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -776,7 +776,7 @@
             "id": "GEKS008",
             "position": {
                 "x": 660,
-                "y": 1000
+                "y": 0
             },
             "학년": 1,
             "data": {
@@ -804,7 +804,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 1100
+                "y": 100
             },
             "학년": 1,
             "data": {
@@ -832,7 +832,7 @@
             "id": "MATH162",
             "position": {
                 "x": 660,
-                "y": 1200
+                "y": 200
             },
             "학년": 1,
             "data": {
@@ -860,7 +860,7 @@
             "id": "PHYS152",
             "position": {
                 "x": 660,
-                "y": 1300
+                "y": 300
             },
             "학년": 1,
             "data": {
@@ -888,7 +888,7 @@
             "id": "PHYS162",
             "position": {
                 "x": 660,
-                "y": 1400
+                "y": 400
             },
             "학년": 1,
             "data": {
@@ -916,7 +916,7 @@
             "id": "EGRN128",
             "position": {
                 "x": 660,
-                "y": 1500
+                "y": 500
             },
             "학년": 1,
             "data": {
@@ -944,7 +944,7 @@
             "id": "CHEM152",
             "position": {
                 "x": 660,
-                "y": 1600
+                "y": 600
             },
             "학년": 1,
             "data": {
@@ -972,7 +972,7 @@
             "id": "CHEM154",
             "position": {
                 "x": 660,
-                "y": 1700
+                "y": 700
             },
             "학년": 1,
             "data": {
@@ -1000,7 +1000,7 @@
             "id": "IMEN156",
             "position": {
                 "x": 660,
-                "y": 1800
+                "y": 800
             },
             "학년": 1,
             "data": {
@@ -1042,7 +1042,7 @@
                 "메모": null,
                 "syllabus_kr": "1. 본 과목은 인간-컴퓨터상호작용(Human-Computer Interaction; HCI) 학문분야를 바탕으로, 그 개념과 범위를 인간-인공지능상호작용(Human-AI Interaction)으로 확장하고, 사용자 관점에서 인간과 인공지능 기반 제품/시스템 간 소통에 대한 여러 이슈들을 다룬다. 수업에 "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -1070,7 +1070,7 @@
                 "메모": null,
                 "syllabus_kr": "4학년 학생을 대상으로 정규 학기 중에 해외에 소재한 기업 또는 기관에서 강의실에서 배운 이론적인 지식을 현장에서 적용하도록 한다. 해외 진출에 따른 실무적인 준비, 현지 생활, 해당국 어학 및 타국 문화이해 증진 등의 다양한 경험을 쌓도록 한다"
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -1196,7 +1196,7 @@
             "id": "IMEN214",
             "position": {
                 "x": 1100,
-                "y": 200
+                "y": 0
             },
             "학년": 2,
             "data": {
@@ -1224,7 +1224,7 @@
             "id": "IMEN216",
             "position": {
                 "x": 1100,
-                "y": 300
+                "y": 100
             },
             "학년": 2,
             "data": {
@@ -1252,7 +1252,7 @@
             "id": "IMEN204",
             "position": {
                 "x": 1100,
-                "y": 400
+                "y": 200
             },
             "학년": 2,
             "data": {
@@ -1280,7 +1280,7 @@
             "id": "IMEN224",
             "position": {
                 "x": 1100,
-                "y": 500
+                "y": 300
             },
             "학년": 2,
             "data": {
@@ -1322,7 +1322,7 @@
                 "메모": null,
                 "syllabus_kr": "본 수업에서는 지식재산(IP) 권리의 중요성이 높아지는 상황에서 지식재산 연구개발(IP-R&D) 전략 수립에 대한 흐름 전반을 파악하고, 그와 관련된 지식재산 빅데이터를 활용 방안에 대해 학습하는 전 과정을 이해함으로써, 지식재산 빅데이터의 중요성을 알고, 이를 활용하 "
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -1350,7 +1350,7 @@
                 "메모": null,
                 "syllabus_kr": null
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -1588,7 +1588,7 @@
             "id": "IMEN302",
             "position": {
                 "x": 1540,
-                "y": 200
+                "y": 0
             },
             "학년": 3,
             "data": {
@@ -1616,7 +1616,7 @@
             "id": "IMEN320",
             "position": {
                 "x": 1540,
-                "y": 300
+                "y": 100
             },
             "학년": 3,
             "data": {
@@ -1644,7 +1644,7 @@
             "id": "IMEN324",
             "position": {
                 "x": 1540,
-                "y": 400
+                "y": 200
             },
             "학년": 3,
             "data": {
@@ -1672,7 +1672,7 @@
             "id": "IMEN339",
             "position": {
                 "x": 1540,
-                "y": 500
+                "y": 300
             },
             "학년": 3,
             "data": {
@@ -1700,7 +1700,7 @@
             "id": "IMEN358",
             "position": {
                 "x": 1540,
-                "y": 600
+                "y": 400
             },
             "학년": 3,
             "data": {
@@ -1728,7 +1728,7 @@
             "id": "IMEN362",
             "position": {
                 "x": 1540,
-                "y": 700
+                "y": 500
             },
             "학년": 3,
             "data": {
@@ -1756,7 +1756,7 @@
             "id": "IMEN376",
             "position": {
                 "x": 1540,
-                "y": 800
+                "y": 600
             },
             "학년": 3,
             "data": {
@@ -1784,7 +1784,7 @@
             "id": "IMEN382",
             "position": {
                 "x": 1540,
-                "y": 900
+                "y": 700
             },
             "학년": 3,
             "data": {
@@ -1812,7 +1812,7 @@
             "id": "IMEN383",
             "position": {
                 "x": 1540,
-                "y": 1000
+                "y": 800
             },
             "학년": 3,
             "data": {
@@ -1854,7 +1854,7 @@
                 "메모": null,
                 "syllabus_kr": "인턴쉽프로그램을 통해 수업에서 배운 이론을 실제로 적용하는 기회를 제공한다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -1882,7 +1882,7 @@
                 "메모": null,
                 "syllabus_kr": "인턴쉽프로그램을 통해 R&D 분야와 같은 다양한 공학 현장에서 이론과 기술적 사항들을 실제 적용하는 기회를 제공한다."
             },
-            "type": "customZeroNode",
+            "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
@@ -2092,7 +2092,7 @@
             "id": "IMEN466",
             "position": {
                 "x": 1980,
-                "y": 200
+                "y": 0
             },
             "학년": 4,
             "data": {
@@ -2120,7 +2120,7 @@
             "id": "IMEN468",
             "position": {
                 "x": 1980,
-                "y": 300
+                "y": 100
             },
             "학년": 4,
             "data": {
@@ -2148,7 +2148,7 @@
             "id": "IMEN472",
             "position": {
                 "x": 1980,
-                "y": 400
+                "y": 200
             },
             "학년": 4,
             "data": {
