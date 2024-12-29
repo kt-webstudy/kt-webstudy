@@ -437,10 +437,38 @@
             }
         },
         {
-            "id": "CHEM153",
+            "id": "CHEM151",
             "position": {
                 "x": 440,
                 "y": 900
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반화학및연습 I",
+                "학수번호": "CHEM151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이공계 분야들에 관련된 화학에 관한 기본개념과 이론들을 강의와 연습을 통해 토의하고, 응용분야들인 환경화학이나 생물화학 및 공업화학 등을 소개 한다"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM153",
+            "position": {
+                "x": 440,
+                "y": 1000
             },
             "학년": 1,
             "data": {
@@ -468,7 +496,7 @@
             "id": "EAES151",
             "position": {
                 "x": 440,
-                "y": 1000
+                "y": 1100
             },
             "학년": 1,
             "data": {
@@ -493,10 +521,38 @@
             }
         },
         {
+            "id": "EAES153",
+            "position": {
+                "x": 440,
+                "y": 1200
+            },
+            "학년": 1,
+            "data": {
+                "label": "지구환경과학실험 I",
+                "학수번호": "EAES153",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "실험과 관찰을 통하여 지구의 기원과 진화, 그리고 환경변화를 연구하는 능력을 습득"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "LIBS151",
             "position": {
                 "x": 440,
-                "y": 1100
+                "y": 1300
             },
             "학년": 1,
             "data": {
@@ -524,7 +580,7 @@
             "id": "LIBS153",
             "position": {
                 "x": 440,
-                "y": 1200
+                "y": 1400
             },
             "학년": 1,
             "data": {
@@ -689,38 +745,10 @@
             }
         },
         {
-            "id": "CHEM151",
-            "position": {
-                "x": 660,
-                "y": 800
-            },
-            "학년": 1,
-            "data": {
-                "label": "일반화학및연습 I",
-                "학수번호": "CHEM151",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이공계 분야들에 관련된 화학에 관한 기본개념과 이론들을 강의와 연습을 통해 토의하고, 응용분야들인 환경화학이나 생물화학 및 공업화학 등을 소개 한다"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "CHEM152",
             "position": {
                 "x": 660,
-                "y": 900
+                "y": 800
             },
             "학년": 1,
             "data": {
@@ -748,7 +776,7 @@
             "id": "CHEM154",
             "position": {
                 "x": 660,
-                "y": 1000
+                "y": 900
             },
             "학년": 1,
             "data": {
@@ -776,7 +804,7 @@
             "id": "EAES152",
             "position": {
                 "x": 660,
-                "y": 1100
+                "y": 1000
             },
             "학년": 1,
             "data": {
@@ -801,38 +829,10 @@
             }
         },
         {
-            "id": "EAES153",
-            "position": {
-                "x": 660,
-                "y": 1200
-            },
-            "학년": 1,
-            "data": {
-                "label": "지구환경과학실험 I",
-                "학수번호": "EAES153",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "지구환경과학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "실험과 관찰을 통하여 지구의 기원과 진화, 그리고 환경변화를 연구하는 능력을 습득"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "EAES154",
             "position": {
                 "x": 660,
-                "y": 1300
+                "y": 1100
             },
             "학년": 1,
             "data": {
@@ -860,7 +860,7 @@
             "id": "LIBS152",
             "position": {
                 "x": 660,
-                "y": 1400
+                "y": 1200
             },
             "학년": 1,
             "data": {
@@ -888,7 +888,7 @@
             "id": "LIBS154",
             "position": {
                 "x": 660,
-                "y": 1500
+                "y": 1300
             },
             "학년": 1,
             "data": {
